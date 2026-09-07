@@ -39,7 +39,7 @@
         });
       });
     }, { rootMargin: '-45% 0px -50% 0px' });
-    ['destinations', 'services', 'process', 'checklist', 'faq', 'contact'].forEach(function (id) {
+    ['destinations', 'services', 'process', 'checklist', 'leadership', 'faq', 'contact'].forEach(function (id) {
       var el = document.getElementById(id); if (el) io.observe(el);
     });
   }
