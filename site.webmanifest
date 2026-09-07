@@ -1,0 +1,27 @@
+{
+  "name": "AI Overseas Private Limited",
+  "short_name": "AI Overseas",
+  "description": "Study, work, PR, visitor and business visa services from India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04193B",
+  "theme_color": "#04193B",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
