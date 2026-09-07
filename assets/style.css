@@ -240,6 +240,29 @@ textarea{font-family:var(--f-txt);font-size:1rem;resize:vertical}
   border:1.5px solid var(--accent-dk);border-radius:2px;
 }
 
+/* ---------- leadership ---------- */
+.people{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+.person{
+  display:grid;grid-template-columns:auto 1fr;gap:1.3rem;align-items:start;
+  background:var(--white);border-top:3px solid var(--accent);
+  padding:1.7rem 1.6rem 1.8rem;
+}
+.person-mono{
+  width:62px;height:62px;flex:0 0 auto;display:grid;place-items:center;
+  font-family:var(--f-ui);font-size:1.35rem;font-weight:700;letter-spacing:-.02em;
+  color:var(--accent-lt);background:var(--ink);border-radius:var(--r-sm);
+  box-shadow:inset 0 0 0 1.5px var(--accent);
+}
+.person h3{font-size:1.32rem;margin-bottom:.2rem}
+.person-role{
+  font-family:var(--f-ui);font-size:.8rem;font-weight:600;color:var(--royal);
+  margin:0 0 .7rem;
+}
+.person p:last-child{margin:0;font-size:1rem;color:var(--muted);line-height:1.56}
+.people-note{margin:1.6rem 0 0;font-size:1rem;color:var(--muted)}
+.people-note a{font-family:var(--f-ui);font-weight:600;color:var(--ink);text-decoration:none;border-bottom:1.5px solid var(--accent)}
+.people-note a:hover{color:var(--royal);border-color:var(--royal)}
+
 /* ---------- pledges ---------- */
 .pledge{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1px;background:var(--line-dark)}
 .pledge>div{background:var(--ink);padding:1.5rem 1.4rem}
@@ -313,6 +336,7 @@ textarea{font-family:var(--f-txt);font-size:1rem;resize:vertical}
 @media (max-width:1040px){
   .hero-in,.checklist-wrap,.faq-wrap,.contact-wrap,.foot-in{grid-template-columns:1fr}
   .svc,.steps{grid-template-columns:repeat(2,1fr)}
+  .people{gap:1rem}
   .dest-row{grid-template-columns:minmax(170px,1fr) 1.8fr;}
   .dest-meta{grid-column:2}
   .assess{margin-top:1rem}
@@ -329,7 +353,7 @@ textarea{font-family:var(--f-txt);font-size:1rem;resize:vertical}
   .burger{display:block}
   .tel{display:none}
   .head-cta{margin-left:auto}
-  .svc,.steps,.two{grid-template-columns:1fr}
+  .svc,.steps,.two,.people{grid-template-columns:1fr}
   .assess-form{grid-template-columns:1fr}
   .assess-out{grid-template-columns:1fr;gap:1.2rem;justify-items:center;text-align:left}
   .stamp{transform:rotate(-4deg)}
