@@ -1,15 +1,15 @@
 /* AI Overseas Private Limited — aioverseas.co.in
-   No dependencies. Everything runs client-side so the site works on GitHub Pages. */
+   No dependencies. Runs fully client-side so the site works on GitHub Pages. */
 
 (function () {
   'use strict';
 
-  var WA_NUMBER = '919355107739';          // primary WhatsApp line
+  var WA_NUMBER = '919355107739';
   var MAIL_TO   = 'admin.aioverseas@gmail.com';
   var $  = function (s, c) { return (c || document).querySelector(s); };
   var $$ = function (s, c) { return Array.prototype.slice.call((c || document).querySelectorAll(s)); };
+  var REDUCE = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* ---------------- year ---------------- */
   var yr = $('#yr'); if (yr) yr.textContent = new Date().getFullYear();
 
   /* ---------------- mobile nav ---------------- */
@@ -31,7 +31,7 @@
   /* ---------------- active section in nav ---------------- */
   var navLinks = $$('.nav a');
   if ('IntersectionObserver' in window && navLinks.length) {
-    var io = new IntersectionObserver(function (entries) {
+    var spy = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) {
         if (!en.isIntersecting) return;
         navLinks.forEach(function (a) {
@@ -39,25 +39,39 @@
         });
       });
     }, { rootMargin: '-45% 0px -50% 0px' });
-    ['destinations', 'services', 'process', 'checklist', 'leadership', 'faq', 'contact'].forEach(function (id) {
-      var el = document.getElementById(id); if (el) io.observe(el);
+    ['assess', 'destinations', 'services', 'process', 'leadership', 'faq', 'contact'].forEach(function (id) {
+      var el = document.getElementById(id); if (el) spy.observe(el);
     });
+  }
+
+  /* ---------------- scroll reveals (section heads only) ---------------- */
+  if ('IntersectionObserver' in window && !REDUCE) {
+    var targets = $$('.sec-head, .assess-copy, .checklist-copy');
+    targets.forEach(function (el) { el.classList.add('reveal'); });
+    var rev = new IntersectionObserver(function (entries, obs) {
+      entries.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        en.target.classList.add('is-in');
+        obs.unobserve(en.target);
+      });
+    }, { rootMargin: '0px 0px -12% 0px', threshold: 0.1 });
+    targets.forEach(function (el) { rev.observe(el); });
   }
 
   /* ---------------- eligibility scorer ---------------- */
   var ROUTES = {
-    study:    ['Canada study permit with post-graduation work permit pathway',
+    study:    ['Canada study permit with the post-graduation work permit pathway',
                'UK student visa plus the Graduate route stay-back',
-               'Germany public university (low tuition, blocked account route)',
-               'Australia subclass 500 with 485 graduate stream'],
+               'Germany public university — low tuition, blocked account route',
+               'Australia subclass 500 with the 485 graduate stream'],
     work:     ['Canada employer-specific or open work permit',
                'UK Skilled Worker with a licensed sponsor',
                'Germany EU Blue Card or Opportunity Card',
                'UAE employment visa through a Gulf employer'],
     pr:       ['Canada Express Entry (CRS) and Provincial Nominee streams',
-               'Australia skilled independent 189 / state nominated 190',
+               'Australia skilled independent 189 or state nominated 190',
                'New Zealand Skilled Migrant residence',
-               'Canada study-to-PR route if your points are short today'],
+               'Canada study-to-PR route if your points fall short today'],
     visit:    ['Canada visitor visa or parent super visa',
                'UK standard visitor visa',
                'Schengen short-stay visit visa',
@@ -68,38 +82,31 @@
                'Australia business visitor stream']
   };
 
-  var form = $('#assessForm'), out = $('#assessOut');
-
-  function verdictText(score, goal) {
-    if (score >= 68) {
-      return 'Your profile reads strong. On most points-based routes a file like this is worth filing now rather than waiting — timing usually matters more than one more qualification.';
-    }
-    if (score >= 46) {
-      return 'Workable profile. It will clear on the right route, but the route choice matters more than usual here. One or two targeted improvements — an English retest, a documented experience letter, cleaner funds — can move this materially.';
-    }
-    return 'This needs work before filing. That is not a no; it means a rushed application would probably be refused and a refusal makes the next attempt harder. Let us map what to fix first, in what order.';
+  function verdictText(score) {
+    if (score >= 68) return 'Your profile reads strong. On most points-based routes a file like this is worth filing now rather than waiting — timing usually matters more than one more qualification.';
+    if (score >= 46) return 'Workable profile. It will clear on the right route, but route choice matters more than usual here. One or two targeted improvements — an English retest, a documented experience letter, cleaner funds — can move this materially.';
+    return 'This needs work before filing. That is not a no. It means a rushed application would probably be refused, and a refusal makes the next attempt harder. Let us map what to fix first, and in what order.';
   }
 
+  var form = $('#assessForm'), out = $('#assessOut');
   if (form && out) {
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-      var d  = new FormData(form);
+      var d = new FormData(form);
       var raw = ['age', 'edu', 'eng', 'exp', 'funds', 'refusal'].reduce(function (t, k) {
         return t + Number(d.get(k) || 0);
       }, 0);
       var score = Math.max(5, Math.min(100, Math.round(raw)));
       var goal  = d.get('goal') || 'study';
-
-      var band = score >= 68 ? 'Strong' : score >= 46 ? 'Workable' : 'Needs work';
-      var cls  = score >= 68 ? '' : score >= 46 ? 'is-mid' : 'is-low';
+      var band  = score >= 68 ? 'Strong' : score >= 46 ? 'Workable' : 'Needs work';
+      var cls   = score >= 68 ? '' : score >= 46 ? 'is-mid' : 'is-low';
 
       $('#stamp').className = 'stamp ' + cls;
       $('#stampBand').textContent = band;
-      $('#verdict').textContent = verdictText(score, goal);
+      $('#verdict').textContent = verdictText(score);
 
-      // count the score up — small, user-triggered, worth the attention
-      var num = $('#scoreNum'), reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-      if (reduce) { num.textContent = score; }
+      var num = $('#scoreNum');
+      if (REDUCE) { num.textContent = score; }
       else {
         var n = 0, step = Math.max(1, Math.round(score / 26));
         var t = setInterval(function () {
@@ -113,18 +120,16 @@
         var li = document.createElement('li'); li.textContent = r; ul.appendChild(li);
       });
 
-      var goalLabel = form.querySelector('#q-goal').selectedOptions[0].textContent;
+      var pick = function (id) { return form.querySelector(id).selectedOptions[0].textContent; };
       var msg = 'Hi AI Overseas, I used the eligibility check on aioverseas.co.in.\n' +
-                'Goal: ' + goalLabel + '\nScore: ' + score + '/100 (' + band + ')\n' +
-                'Age band: ' + form.querySelector('#q-age').selectedOptions[0].textContent + '\n' +
-                'Education: ' + form.querySelector('#q-edu').selectedOptions[0].textContent + '\n' +
-                'English: ' + form.querySelector('#q-eng').selectedOptions[0].textContent + '\n' +
-                'Experience: ' + form.querySelector('#q-exp').selectedOptions[0].textContent + '\n' +
+                'Goal: ' + pick('#q-goal') + '\nScore: ' + score + '/100 (' + band + ')\n' +
+                'Age band: ' + pick('#q-age') + '\nEducation: ' + pick('#q-edu') + '\n' +
+                'English: ' + pick('#q-eng') + '\nExperience: ' + pick('#q-exp') + '\n' +
                 'Please advise on my options.';
       $('#waResult').href = 'https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(msg);
 
       form.hidden = true; out.hidden = false;
-      out.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+      out.scrollIntoView({ block: 'nearest', behavior: REDUCE ? 'auto' : 'smooth' });
     });
 
     $('#redo').addEventListener('click', function () {
@@ -133,15 +138,15 @@
   }
 
   /* ---------------- destination filter ---------------- */
-  var chips = $$('.chip'), rows = $$('.dest-row'), empty = $('#destEmpty');
+  var chips = $$('.chip'), cards = $$('.dcard'), empty = $('#destEmpty');
   chips.forEach(function (chip) {
     chip.addEventListener('click', function () {
       chips.forEach(function (c) { c.classList.remove('is-on'); });
       chip.classList.add('is-on');
       var f = chip.dataset.filter, shown = 0;
-      rows.forEach(function (row) {
-        var ok = f === 'all' || row.dataset.tags.split(' ').indexOf(f) > -1;
-        row.hidden = !ok; if (ok) shown++;
+      cards.forEach(function (card) {
+        var ok = f === 'all' || card.dataset.tags.split(' ').indexOf(f) > -1;
+        card.hidden = !ok; if (ok) shown++;
       });
       if (empty) empty.hidden = shown > 0;
     });
@@ -241,7 +246,7 @@
         var ta = document.createElement('textarea');
         ta.value = text; document.body.appendChild(ta); ta.select();
         try { document.execCommand('copy'); done(); }
-        catch (e) { clMsg.textContent = 'Copy blocked by the browser. Select the list and copy manually.'; }
+        catch (err) { clMsg.textContent = 'Copy blocked by the browser. Select the list and copy manually.'; }
         document.body.removeChild(ta);
       }
     });
@@ -259,14 +264,14 @@
       var email = $('#f-email').value.trim();
 
       formMsg.classList.remove('is-err');
-      if (name.length < 2)  { formMsg.textContent = 'Enter your full name so we know who is writing.'; formMsg.classList.add('is-err'); $('#f-name').focus(); return; }
+      formMsg.textContent = '';
+      if (name.length < 2) { formMsg.textContent = 'Enter your full name so we know who is writing.'; formMsg.classList.add('is-err'); $('#f-name').focus(); return; }
       if (phone.length < 10) { formMsg.textContent = 'Enter a 10-digit mobile number we can call you back on.'; formMsg.classList.add('is-err'); $('#f-phone').focus(); return; }
       if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { formMsg.textContent = 'That email address looks incomplete. Check it, or leave it blank.'; formMsg.classList.add('is-err'); $('#f-email').focus(); return; }
       if (!$('#f-consent').checked) { formMsg.textContent = 'Tick the consent box so we may contact you.'; formMsg.classList.add('is-err'); $('#f-consent').focus(); return; }
 
       var body = 'New enquiry from aioverseas.co.in\n\n' +
-                 'Name: ' + name + '\n' +
-                 'Mobile: ' + phone + '\n' +
+                 'Name: ' + name + '\nMobile: ' + phone + '\n' +
                  (email ? 'Email: ' + email + '\n' : '') +
                  'Destination: ' + $('#f-country').value + '\n' +
                  'Visa type: ' + $('#f-type').value + '\n' +
@@ -275,7 +280,6 @@
       window.open('https://wa.me/' + WA_NUMBER + '?text=' + encodeURIComponent(body), '_blank', 'noopener');
       formMsg.textContent = 'Enquiry opened in WhatsApp — press send there and we will reply within one working day.';
 
-      // email fallback for anyone without WhatsApp on this device
       var mail = document.createElement('a');
       mail.href = 'mailto:' + MAIL_TO + '?subject=' + encodeURIComponent('Visa enquiry — ' + name) + '&body=' + encodeURIComponent(body);
       mail.textContent = ' Send by email instead.';
