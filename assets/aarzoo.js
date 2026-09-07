@@ -20,7 +20,7 @@
 
     { keys: ['study visa document', 'documents for study', 'study documents', 'padhai ke documents'],
       a: 'Base list: passport, all marksheets and degrees, English test score, offer letter and fee receipt, six months of bank statements, sponsor affidavit with income proof, and a medical from a panel clinic. The Document Checklist tool on this page builds the full list for your exact route, and you can copy or print it.',
-      cta: 'Build my checklist', href: '#checklist' },
+      cta: 'Open the visa guide', href: 'visa-guide.html#study' },
 
     { keys: ['charge', 'fees', 'fee', 'kitna paisa', 'price', 'cost'],
       a: 'Fees are not published because they change with country and category. What is fixed is how you find out: the first assessment is free, and before any payment you get a written quote that separates our professional fee from government fees, English test, medicals and courier. No verbal numbers.',
@@ -28,7 +28,7 @@
 
     { keys: ['refusal', 'rejected', 'reject', 'refuse'],
       a: 'A past refusal is not the end. We read the refusal letter, work out what the officer was not satisfied about — usually funds, intent to return or an inconsistency — and rebuild the file around that gap. One thing is non-negotiable: every past refusal must be disclosed. Hiding one is what actually ends a case.',
-      cta: 'Discuss my refusal', href: '#contact' },
+      cta: 'Why files get refused', href: 'visa-guide.html#study' },
 
     { keys: ['how long', 'kitna time', 'processing time', 'timeline'],
       a: 'File preparation is normally two to four weeks, driven mainly by how fast your documents come in. Government processing varies: Canada 8-24 weeks, Australia 6-20, UK 3-12, Germany 8-16, UAE 1-4. Those are published ranges, not promises — the visa office decides.',
@@ -37,6 +37,10 @@
     { keys: ['guarantee', 'guaranteed', 'sure visa', '100%'],
       a: 'No. Nobody can guarantee a visa — only the destination country decides, and anyone promising otherwise is usually planning to file something false in your name. What we can promise is an honest read on your case before you spend money.',
       cta: 'Get an honest read', href: '#assess' },
+
+    { keys: ['guide', 'process', 'eligibility criteria', 'requirement', 'kya chahiye', 'documents'],
+      a: 'The Visa Guide on this site covers all six routes — study, work, PR, visitor, spouse and business — with who qualifies, the document list, how the process runs, and the real reasons files get refused. Each country also has its official government link so you can verify current rules yourself.',
+      cta: 'Open the visa guide', href: 'visa-guide.html' },
 
     { keys: ['human', 'talk to', 'call', 'counsellor', 'baat karni'],
       a: 'Sure. Call +91 93551 07739 or +91 94163 88835, Monday to Saturday, 10:00 to 19:00 IST. Or tap below and WhatsApp us — a director or counsellor will pick it up.',
