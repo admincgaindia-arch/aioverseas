@@ -8,10 +8,9 @@
 <meta name="keywords" content="immigration consultant India, study visa consultant, Canada PR consultant, work permit visa, visitor visa, AI Overseas Pvt Ltd, aioverseas.co.in">
 <meta name="author" content="AI Overseas Private Limited">
 <meta name="robots" content="index, follow, max-image-preview:large">
-<meta name="theme-color" content="#04193B">
+<meta name="theme-color" content="#04122B">
 <link rel="canonical" href="https://aioverseas.co.in/">
 
-<!-- Open Graph / social -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI Overseas Private Limited">
 <meta property="og:title" content="AI Overseas Pvt Ltd — Visa &amp; Immigration Services">
@@ -32,7 +31,8 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=Newsreader:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="assets/logo.png">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
 <script type="application/ld+json">
@@ -77,11 +77,7 @@
       "telephone": "+91-9355107739",
       "email": "admin.aioverseas@gmail.com",
       "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressRegion": "Delhi NCR",
-        "addressCountry": "IN"
-      },
+      "address": {"@type": "PostalAddress", "addressRegion": "Delhi NCR", "addressCountry": "IN"},
       "serviceType": ["Study visa consulting","Work permit consulting","Permanent residence applications","Visitor visa applications","Business visa applications","Aviation career placement"]
     },
     {
@@ -114,25 +110,22 @@
   <div class="wrap head-in">
     <a class="brand" href="#top" aria-label="AI Overseas Private Limited, home">
       <img class="brand-logo" src="assets/logo-mark.png" width="111" height="44" alt="AI Overseas Private Limited">
-      <span class="brand-txt">
-        <strong>AI Overseas</strong>
-        <em>Private Limited</em>
-      </span>
+      <span class="brand-txt"><strong>AI Overseas</strong><em>Private Limited</em></span>
     </a>
 
     <nav class="nav" id="nav" aria-label="Main">
+      <a href="#assess">Eligibility</a>
       <a href="#destinations">Destinations</a>
       <a href="#services">Services</a>
-      <a href="#process">How it works</a>
+      <a href="#process">Process</a>
       <a href="#leadership">Leadership</a>
-      <a href="#checklist">Documents</a>
       <a href="#faq">FAQ</a>
       <a href="#contact">Contact</a>
     </nav>
 
     <div class="head-cta">
       <a class="tel" href="tel:+919355107739">+91 93551 07739</a>
-      <a class="btn btn-sm" href="#assess">Free assessment</a>
+      <a class="btn btn-sm" href="#contact">Free assessment</a>
       <button class="burger" id="burger" aria-expanded="false" aria-controls="nav" aria-label="Open menu">
         <span></span><span></span><span></span>
       </button>
@@ -142,48 +135,92 @@
 
 <main id="main">
 
-<!-- ============ HERO ============ -->
+<!-- ═══════════ HERO ═══════════ -->
 <section class="hero">
-  <svg class="hero-arcs" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
-    <g fill="none" stroke="currentColor" stroke-width="1">
-      <path d="M-100,520 C250,300 700,240 1300,340"/>
-      <path d="M-100,570 C280,340 760,270 1300,390"/>
-      <path d="M-100,470 C230,270 660,210 1300,290"/>
-      <path d="M-100,620 C300,390 820,300 1300,440"/>
-      <path d="M-100,420 C210,240 620,180 1300,240"/>
-    </g>
-    <g fill="currentColor">
-      <circle cx="248" cy="331" r="3"/><circle cx="712" cy="255" r="3"/><circle cx="1041" cy="300" r="3"/>
-    </g>
-  </svg>
+  <div class="hero-sky" aria-hidden="true">
+    <svg class="arcs" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" focusable="false">
+      <defs>
+        <linearGradient id="gArc" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#D9A93E" stop-opacity="0"/>
+          <stop offset="45%" stop-color="#D9A93E" stop-opacity=".85"/>
+          <stop offset="100%" stop-color="#D9A93E" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="gArc2" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#5C97D8" stop-opacity="0"/>
+          <stop offset="50%" stop-color="#5C97D8" stop-opacity=".5"/>
+          <stop offset="100%" stop-color="#5C97D8" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <path class="arc a1" d="M-60,760 C300,470 900,360 1500,470" fill="none" stroke="url(#gArc)" stroke-width="1.6"/>
+      <path class="arc a2" d="M-60,840 C360,540 960,410 1500,560" fill="none" stroke="url(#gArc2)" stroke-width="1.4"/>
+      <path class="arc a3" d="M-60,690 C260,420 840,320 1500,390" fill="none" stroke="url(#gArc2)" stroke-width="1.2"/>
+      <g class="dots">
+        <circle cx="298" cy="470" r="3.2"/><circle cx="742" cy="379" r="3.2"/><circle cx="1163" cy="416" r="3.2"/>
+      </g>
+    </svg>
+    <span class="glow glow-a"></span>
+    <span class="glow glow-b"></span>
+  </div>
 
   <div class="wrap hero-in">
-    <div class="hero-copy">
-      <p class="tagline">Your Dream, Our Direction!</p>
-      <h1>Your visa file, built the way the officer reads it.</h1>
-      <p class="lede">
-        AI Overseas Private Limited prepares, drafts and files overseas applications end to end
-        for applicants across India. We check whether your case actually stands up
-        <em>before</em> you spend a rupee on it.
-      </p>
+    <img class="hero-logo" src="assets/logo.png" width="640" height="483" alt="AI Overseas Private Limited — visas, immigration, global opportunities" fetchpriority="high">
 
-      <div class="hero-btns">
-        <a class="btn" href="#assess">Check your eligibility</a>
-        <a class="btn btn-ghost" href="https://wa.me/919355107739?text=Hi%20AI%20Overseas%2C%20I%20want%20to%20discuss%20my%20visa%20options." target="_blank" rel="noopener">Message us on WhatsApp</a>
-      </div>
+    <h1 class="hero-h1">
+      The visa file that<br>
+      <span class="ital">holds up</span> to scrutiny.
+    </h1>
 
-      <ul class="hero-facts">
-        <li><strong>Registered</strong><span>Private limited company, India</span></li>
-        <li><strong>Written quote</strong><span>Our fee and govt fee, separately, upfront</span></li>
-        <li><strong>Honest read</strong><span>We say no when a case is weak</span></li>
+    <p class="hero-sub">
+      Study, work, permanent residence, visitor and business applications — assessed honestly,
+      documented properly, filed by people who put their names on the page.
+    </p>
+
+    <div class="hero-btns">
+      <a class="btn btn-lg" href="#assess">Check your eligibility free</a>
+      <a class="btn btn-lg btn-ghost" href="https://wa.me/919355107739?text=Hi%20AI%20Overseas%2C%20I%20want%20to%20discuss%20my%20visa%20options." target="_blank" rel="noopener">WhatsApp us now</a>
+    </div>
+
+    <ul class="hero-trust">
+      <li><b>8</b><span>destination countries</span></li>
+      <li><b>6</b><span>visa categories handled</span></li>
+      <li><b>0</b><span>guarantees we can't keep</span></li>
+    </ul>
+  </div>
+
+  <a class="scroll-cue" href="#strip" aria-label="Scroll down">
+    <span></span>
+  </a>
+</section>
+
+<!-- ═══════════ MARQUEE ═══════════ -->
+<section class="strip" id="strip" aria-label="Destinations we file for">
+  <div class="strip-track">
+    <div class="strip-set">
+      <span>Canada</span><i></i><span>Australia</span><i></i><span>United Kingdom</span><i></i><span>Germany</span><i></i><span>New Zealand</span><i></i><span>United States</span><i></i><span>Ireland</span><i></i><span>UAE &amp; Gulf</span><i></i>
+    </div>
+    <div class="strip-set" aria-hidden="true">
+      <span>Canada</span><i></i><span>Australia</span><i></i><span>United Kingdom</span><i></i><span>Germany</span><i></i><span>New Zealand</span><i></i><span>United States</span><i></i><span>Ireland</span><i></i><span>UAE &amp; Gulf</span><i></i>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ ELIGIBILITY ═══════════ -->
+<section class="sec sec-assess" id="assess">
+  <div class="wrap assess-wrap">
+    <div class="assess-copy">
+      <h2 class="h-serif">Find out where you stand,<br>before you spend anything.</h2>
+      <p>Six questions. No sign-up, no email, nothing stored. It mirrors the factors that most skilled and study routes actually score you on, and it tells you the truth — including when the answer is "not yet".</p>
+      <ul class="tick">
+        <li>Takes under a minute</li>
+        <li>Shows which routes suit your profile</li>
+        <li>Sends the result straight to us if you want a human read</li>
       </ul>
     </div>
 
-    <!-- ============ ELIGIBILITY SCORER ============ -->
-    <div class="assess" id="assess">
-      <div class="assess-head">
-        <h2>60-second eligibility check</h2>
-        <p>Indicative only. It mirrors the factors most skilled and study routes score you on.</p>
+    <div class="assess-panel">
+      <div class="panel-top">
+        <h3>Eligibility check</h3>
+        <span class="panel-tag">Free</span>
       </div>
 
       <form id="assessForm" class="assess-form" novalidate>
@@ -198,7 +235,6 @@
             <option value="0">45 years or above</option>
           </select>
         </div>
-
         <div class="field">
           <label for="q-edu">Highest education</label>
           <select id="q-edu" name="edu">
@@ -209,7 +245,6 @@
             <option value="20">Doctorate</option>
           </select>
         </div>
-
         <div class="field">
           <label for="q-eng">English test</label>
           <select id="q-eng" name="eng">
@@ -220,9 +255,8 @@
             <option value="26">IELTS 8.0+ (or equivalent)</option>
           </select>
         </div>
-
         <div class="field">
-          <label for="q-exp">Full-time work experience</label>
+          <label for="q-exp">Work experience</label>
           <select id="q-exp" name="exp">
             <option value="0">None / student</option>
             <option value="7" selected>1 – 2 years</option>
@@ -230,7 +264,6 @@
             <option value="15">More than 5 years</option>
           </select>
         </div>
-
         <div class="field">
           <label for="q-funds">Funds you can genuinely show</label>
           <select id="q-funds" name="funds">
@@ -240,7 +273,6 @@
             <option value="17">Above ₹50 lakh</option>
           </select>
         </div>
-
         <div class="field">
           <label for="q-goal">What you want</label>
           <select id="q-goal" name="goal">
@@ -251,7 +283,6 @@
             <option value="business">Business or investor visa</option>
           </select>
         </div>
-
         <div class="field field-full">
           <label for="q-refusal">Any past visa refusal?</label>
           <select id="q-refusal" name="refusal">
@@ -260,34 +291,31 @@
             <option value="-12">Two or more refusals</option>
           </select>
         </div>
-
         <button class="btn btn-block" type="submit">Show my result</button>
       </form>
 
       <div class="assess-out" id="assessOut" hidden aria-live="polite">
         <div class="stamp" id="stamp">
           <span class="stamp-band" id="stampBand">Strong</span>
-          <span class="stamp-score"><b id="scoreNum">0</b><i>/ 100</i></span>
-          <span class="stamp-sub">Indicative profile score</span>
+          <span class="stamp-score"><b id="scoreNum">0</b><i>/100</i></span>
+          <span class="stamp-sub">Profile score</span>
         </div>
-        <div class="assess-read">
-          <p id="verdict"></p>
-          <h3>Routes worth exploring</h3>
-          <ul id="routes"></ul>
-          <a class="btn btn-block" id="waResult" href="#" target="_blank" rel="noopener">Send this result to us on WhatsApp</a>
-          <button class="linkish" type="button" id="redo">Change my answers</button>
-        </div>
+        <p class="verdict" id="verdict"></p>
+        <h4>Routes worth exploring</h4>
+        <ul id="routes" class="routes"></ul>
+        <a class="btn btn-block" id="waResult" href="#" target="_blank" rel="noopener">Send this to us on WhatsApp</a>
+        <button class="linkish" type="button" id="redo">Change my answers</button>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ============ DESTINATIONS ============ -->
+<!-- ═══════════ DESTINATIONS ═══════════ -->
 <section class="sec" id="destinations">
   <div class="wrap">
     <div class="sec-head">
-      <h2>Where we file</h2>
-      <p>Eight destinations we handle regularly. Processing times below are indicative published ranges, not promises — the visa office decides.</p>
+      <h2 class="h-serif">Where we file</h2>
+      <p>Eight countries we work in regularly. Timelines below are published indicative ranges — the visa office decides, not us.</p>
     </div>
 
     <div class="filters" role="group" aria-label="Filter destinations by visa purpose">
@@ -300,68 +328,76 @@
     </div>
 
     <ul class="dest" id="destList">
-      <li class="dest-row" data-tags="study work pr visit">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">CA</span><h3>Canada</h3></div>
-        <p class="dest-note">Study permit with PGWP pathway, Express Entry, PNP streams, spouse open work permit, visitor and super visa.</p>
-        <div class="dest-meta"><span>Study, work, PR, visitor</span><span>8–24 weeks typical</span></div>
+      <li class="dcard" data-tags="study work pr visit">
+        <span class="dcode">CA</span>
+        <h3>Canada</h3>
+        <p>Study permit with PGWP pathway, Express Entry, PNP streams, spouse open work permit, visitor and super visa.</p>
+        <div class="dfoot"><span>Study, work, PR, visitor</span><b>8–24 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="study work pr">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">AU</span><h3>Australia</h3></div>
-        <p class="dest-note">Subclass 500 student visa, 485 graduate stream, 189/190/491 skilled points routes, employer sponsorship.</p>
-        <div class="dest-meta"><span>Study, work, PR</span><span>6–20 weeks typical</span></div>
+      <li class="dcard" data-tags="study work pr">
+        <span class="dcode">AU</span>
+        <h3>Australia</h3>
+        <p>Subclass 500 student visa, 485 graduate stream, 189/190/491 skilled points routes, employer sponsorship.</p>
+        <div class="dfoot"><span>Study, work, PR</span><b>6–20 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="study work visit business">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">UK</span><h3>United Kingdom</h3></div>
-        <p class="dest-note">Student visa with CAS, Graduate route, Skilled Worker with sponsorship, standard visitor and business visitor.</p>
-        <div class="dest-meta"><span>Study, work, visitor, business</span><span>3–12 weeks typical</span></div>
+      <li class="dcard" data-tags="study work visit business">
+        <span class="dcode">UK</span>
+        <h3>United Kingdom</h3>
+        <p>Student visa with CAS, Graduate route, Skilled Worker with sponsorship, standard visitor and business visitor.</p>
+        <div class="dfoot"><span>Study, work, visitor</span><b>3–12 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="study work">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">DE</span><h3>Germany</h3></div>
-        <p class="dest-note">Public-university admissions, blocked account setup, Opportunity Card, EU Blue Card and Ausbildung routes.</p>
-        <div class="dest-meta"><span>Study and work</span><span>8–16 weeks typical</span></div>
+      <li class="dcard" data-tags="study work">
+        <span class="dcode">DE</span>
+        <h3>Germany</h3>
+        <p>Public university admissions, blocked account setup, Opportunity Card, EU Blue Card and Ausbildung routes.</p>
+        <div class="dfoot"><span>Study, work</span><b>8–16 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="study work pr">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">NZ</span><h3>New Zealand</h3></div>
-        <p class="dest-note">Student visa, Accredited Employer Work Visa, Skilled Migrant residence pathway.</p>
-        <div class="dest-meta"><span>Study, work, PR</span><span>6–20 weeks typical</span></div>
+      <li class="dcard" data-tags="study work pr">
+        <span class="dcode">NZ</span>
+        <h3>New Zealand</h3>
+        <p>Student visa, Accredited Employer Work Visa, and the Skilled Migrant residence pathway.</p>
+        <div class="dfoot"><span>Study, work, PR</span><b>6–20 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="study visit business">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">US</span><h3>United States</h3></div>
-        <p class="dest-note">F-1 student visa with I-20 and SEVIS, B1/B2 visitor and business, interview preparation and DS-160 drafting.</p>
-        <div class="dest-meta"><span>Study, visitor, business</span><span>Interview slot dependent</span></div>
+      <li class="dcard" data-tags="study visit business">
+        <span class="dcode">US</span>
+        <h3>United States</h3>
+        <p>F-1 student visa with I-20 and SEVIS, B1/B2 visitor and business, interview preparation and DS-160 drafting.</p>
+        <div class="dfoot"><span>Study, visitor, business</span><b>Slot dependent</b></div>
       </li>
-      <li class="dest-row" data-tags="study work">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">IE</span><h3>Ireland</h3></div>
-        <p class="dest-note">Student visa with third-level programmes, Stamp 1G stay-back, Critical Skills Employment Permit.</p>
-        <div class="dest-meta"><span>Study and work</span><span>6–12 weeks typical</span></div>
+      <li class="dcard" data-tags="study work">
+        <span class="dcode">IE</span>
+        <h3>Ireland</h3>
+        <p>Student visa for third-level programmes, Stamp 1G stay-back, Critical Skills Employment Permit.</p>
+        <div class="dfoot"><span>Study, work</span><b>6–12 weeks</b></div>
       </li>
-      <li class="dest-row" data-tags="work visit business">
-        <div class="dest-name"><span class="dest-flag" aria-hidden="true">AE</span><h3>UAE &amp; Gulf</h3></div>
-        <p class="dest-note">Employment visa processing, Golden Visa eligibility, freezone company setup, visit and transit visas.</p>
-        <div class="dest-meta"><span>Work, visitor, business</span><span>1–4 weeks typical</span></div>
+      <li class="dcard" data-tags="work visit business">
+        <span class="dcode">AE</span>
+        <h3>UAE &amp; Gulf</h3>
+        <p>Employment visa processing, Golden Visa eligibility, freezone company setup, visit and transit visas.</p>
+        <div class="dfoot"><span>Work, visitor, business</span><b>1–4 weeks</b></div>
       </li>
     </ul>
-    <p class="dest-empty" id="destEmpty" hidden>No destination matches that filter. Pick another, or call us — we file outside this list too.</p>
+    <p class="dest-empty" id="destEmpty" hidden>Nothing matches that filter. Pick another — or call us, we file outside this list too.</p>
   </div>
 </section>
 
-<!-- ============ SERVICES ============ -->
-<section class="sec sec-ink" id="services">
+<!-- ═══════════ SERVICES ═══════════ -->
+<section class="sec sec-dark" id="services">
   <div class="wrap">
     <div class="sec-head">
-      <h2>What we actually do for you</h2>
-      <p>Not just form filling. Every file below includes profile assessment, document vetting, drafting and post-submission follow-up.</p>
+      <h2 class="h-serif">What we actually do</h2>
+      <p>Not form filling. Every file below includes assessment, document vetting, drafting and follow-up until a decision lands.</p>
     </div>
 
     <div class="svc">
       <article class="svc-card">
         <h3>Study visa &amp; admissions</h3>
-        <p>University shortlisting on your budget and academic record, application and offer letter, SOP drafting, fee and GIC payment, visa filing.</p>
+        <p>University shortlisting on your real budget and marks, application and offer letter, SOP drafting, fee and GIC payment, visa filing.</p>
         <ul><li>Course and country shortlist</li><li>SOP and LOR review</li><li>Financial documentation</li><li>Pre-departure briefing</li></ul>
       </article>
       <article class="svc-card">
         <h3>Work permits</h3>
-        <p>Employer-sponsored and open work routes. We verify the employer and the offer before you sign anything, and check the permit type against your trade.</p>
+        <p>Employer-sponsored and open work routes. We verify the employer and the offer before you sign anything, and match the permit to your trade.</p>
         <ul><li>Job offer verification</li><li>Skill assessment support</li><li>Sponsorship documentation</li><li>Family dependant filing</li></ul>
       </article>
       <article class="svc-card">
@@ -371,66 +407,114 @@
       </article>
       <article class="svc-card">
         <h3>Visitor &amp; family visas</h3>
-        <p>Tourist, family visit and parent visas. The refusal risk here is almost always weak ties or unclear funding — that is exactly what we build.</p>
+        <p>Tourist, family visit and parent visas. Refusals here are almost always weak ties or unclear funding — that is exactly what we build.</p>
         <ul><li>Invitation and sponsorship letters</li><li>Ties-to-India documentation</li><li>Travel and stay itinerary</li><li>Cover letter drafting</li></ul>
       </article>
       <article class="svc-card">
         <h3>Business &amp; investor visas</h3>
-        <p>For proprietors, directors and exporters. Business visitor visas, investor routes and overseas entity setup, with the financial paperwork done properly.</p>
+        <p>For proprietors, directors and exporters. Business visitor visas, investor routes and overseas entity setup, with the financials done properly.</p>
         <ul><li>Business profile pack</li><li>Turnover and ITR documentation</li><li>Overseas company setup</li><li>Trade delegation letters</li></ul>
       </article>
       <article class="svc-card">
         <h3>Aviation careers</h3>
-        <p>Cabin crew, ground staff and airport operations. Training partner referrals, interview grooming, and documentation for overseas airline roles.</p>
+        <p>Cabin crew, ground staff and airport operations. Training partner referrals, interview grooming, and paperwork for overseas airline roles.</p>
         <ul><li>Profile and resume build</li><li>Interview preparation</li><li>Training partner referral</li><li>Overseas placement paperwork</li></ul>
       </article>
     </div>
   </div>
 </section>
 
-<!-- ============ PROCESS ============ -->
+<!-- ═══════════ PROCESS ═══════════ -->
 <section class="sec" id="process">
   <div class="wrap">
     <div class="sec-head">
-      <h2>How a file moves with us</h2>
-      <p>Six stages. You know at every point what is pending, with whom, and what it costs.</p>
+      <h2 class="h-serif">How a file moves with us</h2>
+      <p>Six stages. At every point you know what is pending, with whom, and what it costs.</p>
     </div>
 
     <ol class="steps">
       <li>
         <h3>Profile assessment</h3>
-        <p>Free. Thirty minutes on call or in office. We look at your academics, funds, work history and travel record and tell you which routes are realistic.</p>
+        <p>Free, thirty minutes, on call or in office. We look at your academics, funds, work history and travel record and say which routes are realistic.</p>
       </li>
       <li>
         <h3>Route selection and written quote</h3>
-        <p>You get one page: the route we recommend, why, the full cost split into our fee and third-party fees, and the realistic timeline. Nothing verbal.</p>
+        <p>One page: the route we recommend, why, the full cost split into our fee and third-party fees, and the honest timeline. Nothing verbal.</p>
       </li>
       <li>
         <h3>Document collection</h3>
-        <p>You get a named checklist for your exact route. We vet every scan for the errors that trigger queries — date mismatches, unstamped statements, name spelling.</p>
+        <p>A named checklist for your exact route. We vet every scan for the small errors that trigger queries — date mismatches, unstamped statements, spellings.</p>
       </li>
       <li>
         <h3>Drafting and forms</h3>
-        <p>SOP, cover letter, sponsorship affidavit, employment record and the application forms themselves. Drafted by us, reviewed with you before submission.</p>
+        <p>SOP, cover letter, sponsorship affidavit, employment record and the application forms. Drafted by us, reviewed with you before anything is submitted.</p>
       </li>
       <li>
         <h3>Filing, fee and biometrics</h3>
-        <p>Online submission, government fee payment from your own account, VFS or embassy appointment, biometrics and medicals scheduled around your availability.</p>
+        <p>Online submission, government fee paid from your own account, VFS or embassy appointment, biometrics and medicals scheduled around you.</p>
       </li>
       <li>
         <h3>Decision and landing support</h3>
-        <p>We track the file and respond to any query letter. On approval: travel checklist, forex, SIM, accommodation leads and first-week guidance.</p>
+        <p>We track the file and answer any query letter. On approval: travel checklist, forex, SIM, accommodation leads and first-week guidance.</p>
       </li>
     </ol>
   </div>
 </section>
 
-<!-- ============ CHECKLIST TOOL ============ -->
-<section class="sec sec-alt" id="checklist">
+<!-- ═══════════ LEADERSHIP ═══════════ -->
+<section class="sec sec-tint" id="leadership">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="h-serif">Who you are dealing with</h2>
+      <p>Most firms in this trade will not tell you who owns them. Ours is on the page — ask for either of them by name when you call.</p>
+    </div>
+
+    <div class="people">
+      <article class="person">
+        <span class="person-mono" aria-hidden="true">M</span>
+        <div>
+          <h3>Mohan</h3>
+          <p class="person-role">Founder &amp; Director</p>
+          <p>Co-founder of AI Overseas Private Limited. Involved in client assessment and case strategy across our study, work and residence files.</p>
+        </div>
+      </article>
+      <article class="person">
+        <span class="person-mono" aria-hidden="true">VS</span>
+        <div>
+          <h3>Virender Singh</h3>
+          <p class="person-role">Founder &amp; Director</p>
+          <p>Co-founder of AI Overseas Private Limited. Oversees documentation, filing and client communication through the life of an application.</p>
+        </div>
+      </article>
+    </div>
+
+    <p class="people-note">Want a director on the call rather than a counsellor? Just say so — <a href="tel:+919355107739">+91 93551 07739</a>.</p>
+  </div>
+</section>
+
+<!-- ═══════════ COMMITMENTS ═══════════ -->
+<section class="sec sec-dark" id="commitments">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="h-serif">Five things we put in writing</h2>
+      <p>This industry runs on promises nobody can keep. These are the ones we can.</p>
+    </div>
+    <div class="pledge">
+      <div><h3>No visa guarantee, ever</h3><p>Only the visa office decides. Anyone promising a guaranteed approval is either lying, or planning to file something false in your name.</p></div>
+      <div><h3>Nothing false goes in your file</h3><p>No fabricated experience letters, no arranged bank balances, no ghost employers. A misrepresentation ban lasts years and follows you to every country.</p></div>
+      <div><h3>Your originals stay with you</h3><p>We work from scans. Where an embassy physically needs an original, it goes against a written receipt.</p></div>
+      <div><h3>Government fees are paid by you</h3><p>Directly, from your own account, to the official portal. You see every receipt.</p></div>
+      <div><h3>You get the full file copy</h3><p>Everything submitted in your name, handed over as a complete set. Your application is your property.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ CHECKLIST ═══════════ -->
+<section class="sec sec-tint" id="checklist">
   <div class="wrap checklist-wrap">
     <div class="checklist-copy">
-      <h2>Build your document checklist</h2>
-      <p>Pick a route and get the base document list we work from. Country-specific additions come after your assessment, but this is what to start arranging today.</p>
+      <h2 class="h-serif">Start arranging your documents today</h2>
+      <p>Pick a route and get the base list we work from. Country-specific additions come after your assessment, but nothing below is wasted effort.</p>
       <div class="field">
         <label for="clType">Visa route</label>
         <select id="clType">
@@ -454,71 +538,22 @@
   </div>
 </section>
 
-<!-- ============ COMMITMENTS ============ -->
-<section class="sec sec-ink" id="commitments">
-  <div class="wrap">
-    <div class="sec-head">
-      <h2>Five things we put in writing</h2>
-      <p>This industry runs on promises nobody can keep. These are the ones we can.</p>
-    </div>
-    <div class="pledge">
-      <div><h3>No visa guarantee, ever</h3><p>Only the visa office decides. Anyone promising you a guaranteed approval is either lying or planning to file something false.</p></div>
-      <div><h3>Nothing false goes in your file</h3><p>No fabricated experience letters, no arranged bank balances, no ghost employers. A ban for misrepresentation lasts years and follows you to every country.</p></div>
-      <div><h3>Your originals stay with you</h3><p>We work from scans. Where an embassy needs a physical original, it goes against a written receipt.</p></div>
-      <div><h3>Government fees are paid by you</h3><p>Directly, from your own account, to the official portal. You see every receipt.</p></div>
-      <div><h3>You get the full file copy</h3><p>Everything submitted in your name, handed to you as a complete set. Your application is your property.</p></div>
-    </div>
-  </div>
-</section>
-
-<!-- ============ LEADERSHIP ============ -->
-<section class="sec sec-alt" id="leadership">
-  <div class="wrap">
-    <div class="sec-head">
-      <h2>Who you are actually dealing with</h2>
-      <p>Most people in this trade will not tell you who owns the firm. Ours is on the page, with names you can ask for by name when you walk in or call.</p>
-    </div>
-
-    <div class="people">
-      <article class="person">
-        <span class="person-mono" aria-hidden="true">M</span>
-        <div>
-          <h3>Mohan</h3>
-          <p class="person-role">Founder &amp; Director</p>
-          <p>Co-founder of AI Overseas Private Limited. Involved in client assessment and case strategy across our study, work and residence files.</p>
-        </div>
-      </article>
-
-      <article class="person">
-        <span class="person-mono" aria-hidden="true">VS</span>
-        <div>
-          <h3>Virender Singh</h3>
-          <p class="person-role">Founder &amp; Director</p>
-          <p>Co-founder of AI Overseas Private Limited. Oversees documentation, filing and client communication through the life of an application.</p>
-        </div>
-      </article>
-    </div>
-
-    <p class="people-note">Want to speak to a director directly rather than a counsellor? Say so when you call &mdash; <a href="tel:+919355107739">+91 93551 07739</a>.</p>
-  </div>
-</section>
-
-<!-- ============ FAQ ============ -->
+<!-- ═══════════ FAQ ═══════════ -->
 <section class="sec" id="faq">
   <div class="wrap faq-wrap">
     <div class="sec-head">
-      <h2>Questions people ask before signing up</h2>
-      <p>Straight answers. If yours is not here, call and ask.</p>
+      <h2 class="h-serif">Straight answers</h2>
+      <p>The questions people ask before they trust anyone with their passport. If yours isn't here, call and ask it.</p>
     </div>
 
     <div class="faq">
       <details>
         <summary>Do you guarantee a visa?</summary>
-        <p>No. Only the visa office of the destination country decides an application. What we control is the quality and completeness of what reaches them. Any consultant promising a guaranteed visa is misleading you, and it is usually the prelude to a fabricated document.</p>
+        <p>No. Only the visa office of the destination country decides. What we control is the quality and completeness of what reaches them. Any consultant promising a guaranteed visa is misleading you, and it is usually the prelude to a fabricated document.</p>
       </details>
       <details>
         <summary>What do you charge?</summary>
-        <p>Our professional fee depends on country and category. Before any payment you get a written quote that separates our fee from government fees, English test fees, medicals, courier and translation. No verbal numbers, no charges added midway.</p>
+        <p>It depends on country and category. Before any payment you get a written quote separating our fee from government fees, English test fees, medicals, courier and translation. No verbal numbers, no charges added midway.</p>
       </details>
       <details>
         <summary>Do I need IELTS or PTE for everything?</summary>
@@ -529,56 +564,42 @@
         <p>No. We read the refusal letter properly, work out what the officer was not satisfied about — usually funds, intent to return, or an inconsistency — and rebuild the file around that gap. Past refusals must always be disclosed; hiding one is what actually ends a case.</p>
       </details>
       <details>
-        <summary>Can I apply with a low IELTS score or a study gap?</summary>
+        <summary>Can I apply with a low score or a study gap?</summary>
         <p>Often yes. Gaps are explainable when documented — employment, family responsibility, exam attempts, health. Low scores narrow your options but rarely close them. What matters is choosing a route that fits the profile you actually have.</p>
       </details>
       <details>
         <summary>Do you handle the family too?</summary>
-        <p>Yes. Spouse and dependent children are usually filed alongside or after the principal applicant, depending on the route. We plan it as one family case from day one rather than treating it as an afterthought.</p>
+        <p>Yes. Spouse and dependent children are filed alongside or after the principal applicant depending on the route. We plan it as one family case from day one rather than treating it as an afterthought.</p>
       </details>
       <details>
         <summary>How long will it take?</summary>
-        <p>File preparation is normally two to four weeks, driven mainly by how fast documents come in. Government processing time varies by country and season and is outside anyone's control. We give you the published range, not a comforting number.</p>
+        <p>File preparation is normally two to four weeks, driven mainly by how fast documents come in. Government processing varies by country and season and is outside anyone's control. We give you the published range, not a comforting number.</p>
       </details>
       <details>
-        <summary>Are you registered?</summary>
-        <p>Yes. AI Overseas is a private limited company registered in India, with a written engagement letter for every client. Company identification details are shared with the engagement letter.</p>
+        <summary>Are you a registered company?</summary>
+        <p>Yes. AI Overseas is a private limited company registered in India, with a written engagement letter for every client. Company identification details are shared along with that letter.</p>
       </details>
     </div>
   </div>
 </section>
 
-<!-- ============ CONTACT ============ -->
+<!-- ═══════════ CONTACT ═══════════ -->
 <section class="sec sec-contact" id="contact">
   <div class="wrap contact-wrap">
     <div class="contact-copy">
-      <h2>Talk to us</h2>
-      <p class="lede">Tell us where you want to go and what your profile looks like. The first assessment costs nothing.</p>
+      <h2 class="h-serif">Tell us where you want to go</h2>
+      <p class="lede">The first assessment costs nothing and takes half an hour. Bring your marksheets, your bank position and your questions.</p>
 
       <ul class="contact-list">
-        <li>
-          <span>Phone</span>
-          <a href="tel:+919355107739">+91 93551 07739</a>
-          <a href="tel:+919416388835">+91 94163 88835</a>
-        </li>
-        <li>
-          <span>Email</span>
-          <a href="mailto:admin.aioverseas@gmail.com">admin.aioverseas@gmail.com</a>
-        </li>
-        <li>
-          <span>WhatsApp</span>
-          <a href="https://wa.me/919355107739?text=Hi%20AI%20Overseas%2C%20I%20want%20a%20free%20profile%20assessment." target="_blank" rel="noopener">Start a chat</a>
-        </li>
-        <li>
-          <span>Office hours</span>
-          <p>Monday to Saturday, 10:00 – 19:00 IST</p>
-        </li>
+        <li><span>Phone</span><a href="tel:+919355107739">+91 93551 07739</a><a href="tel:+919416388835">+91 94163 88835</a></li>
+        <li><span>Email</span><a href="mailto:admin.aioverseas@gmail.com">admin.aioverseas@gmail.com</a></li>
+        <li><span>WhatsApp</span><a href="https://wa.me/919355107739?text=Hi%20AI%20Overseas%2C%20I%20want%20a%20free%20profile%20assessment." target="_blank" rel="noopener">Start a chat</a></li>
+        <li><span>Office hours</span><p>Monday to Saturday, 10:00 – 19:00 IST</p></li>
       </ul>
     </div>
 
     <form class="contact-form" id="leadForm" novalidate>
       <h3>Request a free assessment</h3>
-
       <div class="field">
         <label for="f-name">Full name</label>
         <input id="f-name" name="name" type="text" autocomplete="name" required>
@@ -614,12 +635,10 @@
         <label for="f-msg">Anything we should know</label>
         <textarea id="f-msg" name="message" rows="3" placeholder="Qualification, IELTS score, past refusal, timeline…"></textarea>
       </div>
-
       <label class="consent">
         <input type="checkbox" id="f-consent" required>
         <span>I agree to be contacted by AI Overseas about my enquiry.</span>
       </label>
-
       <button class="btn btn-block" type="submit">Send my enquiry</button>
       <p class="form-msg" id="formMsg" role="status"></p>
       <p class="form-note">Sends through WhatsApp so it reaches us immediately. Prefer email? Write to admin.aioverseas@gmail.com.</p>
@@ -633,34 +652,25 @@
   <div class="wrap foot-in">
     <div class="foot-brand">
       <a href="#top" aria-label="AI Overseas Private Limited, back to top">
-        <img class="foot-logo" src="assets/logo.png" width="240" height="181" alt="AI Overseas Private Limited — visas, immigration, global opportunities">
+        <img class="foot-logo" src="assets/logo.png" width="240" height="181" alt="AI Overseas Private Limited">
       </a>
-      <p>Visa, immigration and aviation services. Registered private limited company in India, serving applicants nationwide.</p>
+      <p>Visa, immigration and aviation services. A registered private limited company in India, serving applicants nationwide.</p>
     </div>
 
     <nav class="foot-nav" aria-label="Footer">
       <div>
         <h4>Services</h4>
-        <a href="#services">Study visa</a>
-        <a href="#services">Work permits</a>
-        <a href="#services">Permanent residence</a>
-        <a href="#services">Visitor &amp; family</a>
-        <a href="#services">Business visa</a>
-        <a href="#services">Aviation careers</a>
+        <a href="#services">Study visa</a><a href="#services">Work permits</a><a href="#services">Permanent residence</a>
+        <a href="#services">Visitor &amp; family</a><a href="#services">Business visa</a><a href="#services">Aviation careers</a>
       </div>
       <div>
         <h4>Destinations</h4>
-        <a href="#destinations">Canada</a>
-        <a href="#destinations">Australia</a>
-        <a href="#destinations">United Kingdom</a>
-        <a href="#destinations">Germany</a>
-        <a href="#destinations">New Zealand</a>
-        <a href="#destinations">UAE &amp; Gulf</a>
+        <a href="#destinations">Canada</a><a href="#destinations">Australia</a><a href="#destinations">United Kingdom</a>
+        <a href="#destinations">Germany</a><a href="#destinations">New Zealand</a><a href="#destinations">UAE &amp; Gulf</a>
       </div>
       <div>
         <h4>Contact</h4>
-        <a href="tel:+919355107739">+91 93551 07739</a>
-        <a href="tel:+919416388835">+91 94163 88835</a>
+        <a href="tel:+919355107739">+91 93551 07739</a><a href="tel:+919416388835">+91 94163 88835</a>
         <a href="mailto:admin.aioverseas@gmail.com">admin.aioverseas@gmail.com</a>
         <a href="https://wa.me/919355107739" target="_blank" rel="noopener">WhatsApp</a>
       </div>
@@ -669,7 +679,7 @@
 
   <div class="wrap foot-legal">
     <p>&copy; <span id="yr">2026</span> AI Overseas Private Limited. All rights reserved.</p>
-    <p class="disclaimer">AI Overseas is a private consultancy. It is not an agent of, and is not affiliated with, any government, embassy, high commission or visa office. Immigration decisions rest solely with the authorities of the destination country. Fees paid for our professional services are for preparation and representation work, and are not contingent on the outcome of an application.</p>
+    <p class="disclaimer">AI Overseas is a private consultancy. It is not an agent of, and is not affiliated with, any government, embassy, high commission or visa office. Immigration decisions rest solely with the authorities of the destination country. Fees paid for our professional services cover preparation and representation work and are not contingent on the outcome of an application.</p>
   </div>
 </footer>
 
