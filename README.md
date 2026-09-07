@@ -3,21 +3,43 @@
 Static website. No build step, no server, no database. Upload the files as they are and the site runs.
 
 ```
-index.html            home page (all sections)
+index.html            home page (hero, eligibility check, destinations, services,
+                      process, leadership, office gallery, commitments, checklist,
+                      FAQ, contact)
+visa-guide.html       full visa guide: six route tabs, country section, mistakes, glossary
+news.html             daily visa & immigration updates, reads data/news.json
 404.html              custom not-found page
+data/news.json        news feed, rewritten every morning by the n8n workflow
 CNAME                 custom domain for GitHub Pages
 .nojekyll             stops GitHub from processing the files
 robots.txt            search engine rules
 sitemap.xml           page list for Google
 site.webmanifest      installable-app metadata
-assets/style.css      all styling
-assets/app.js         eligibility checker, filters, checklist, enquiry form
+assets/style.css      all styling for every page
+assets/app.js         home page: eligibility checker, filters, checklist, form, gallery lightbox
+assets/news.js        news page feed rendering, filters and search
+assets/guide.js       visa guide route tabs
+assets/aarzoo.js      Aarzoo chat widget (loads on all three main pages)
 assets/logo.png       full logo lockup, transparent background
 assets/logo-mark.png  emblem only, used in the header
-assets/favicon.png    browser tab icon
-assets/apple-touch-icon.png / icon-512.png   home-screen icons
+assets/favicon.png / apple-touch-icon.png / icon-512.png
 assets/og-image.png   preview image for WhatsApp, LinkedIn, Facebook
+assets/office/*.jpg   office gallery images (-sm = grid thumb, full = lightbox)
 ```
+
+## Connected automations (n8n, cga.app.n8n.cloud)
+
+| Workflow | What it does |
+|---|---|
+| `Daily Visa News - aioverseas.co.in` | 07:30 IST daily. Reads news feeds, filters, Claude writes cards, commits `data/news.json`. |
+| `Aarzoo Chatbot - aioverseas.co.in` | Webhook `POST /webhook/aarzoo-ai`. Answers site visitors, returns a pre-tagged WhatsApp handoff. |
+
+Both must be **Published** in n8n or they will not run.
+
+**Standing rule:** if you add a page, a service or a price to this site, update BOTH
+`assets/aarzoo.js` (the local KB) and the Aarzoo system prompt in n8n. A page the chat
+does not know about is a page the chat cannot sell.
+
 
 ---
 
