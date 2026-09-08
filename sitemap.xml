@@ -10,6 +10,8 @@
   <url><loc>https://aioverseas.co.in/usa.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://aioverseas.co.in/ireland.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://aioverseas.co.in/uae.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/visa-refused.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://aioverseas.co.in/photo-requirements.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://aioverseas.co.in/news.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://aioverseas.co.in/#destinations</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://aioverseas.co.in/#services</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
