@@ -263,27 +263,40 @@ textarea{resize:vertical}
 .chip.is-on{background:var(--night);border-color:var(--night);color:var(--gold-lt)}
 
 .dest{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:1.15rem}
-.dcard{
-  position:relative;background:var(--paper);border:1px solid var(--line);
-  border-radius:var(--r-md);padding:1.5rem 1.35rem 1.35rem;
-  transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease;
+.dcard{border-radius:var(--r-md);overflow:hidden;background:var(--night)}
+.dcard-link{
+  position:relative;display:block;aspect-ratio:3/4;text-decoration:none;color:#fff;
+  isolation:isolate;transition:transform .3s cubic-bezier(.2,.72,.28,1),box-shadow .3s ease;
 }
-.dcard::before{
-  content:"";position:absolute;left:0;right:0;top:0;height:3px;border-radius:var(--r-md) var(--r-md) 0 0;
-  background:linear-gradient(90deg,var(--gold),var(--gold-lt));opacity:0;transition:opacity .22s ease;
+.dcard-link:hover{transform:translateY(-6px);box-shadow:0 30px 60px -30px rgba(8,34,69,.75)}
+.dscene{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2;
+  transition:transform .5s cubic-bezier(.2,.72,.28,1);
 }
-.dcard:hover{transform:translateY(-4px);border-color:#BCCDE0;box-shadow:0 22px 44px -26px rgba(8,34,69,.5)}
-.dcard:hover::before{opacity:1}
-.dcode{
-  display:inline-grid;place-items:center;width:42px;height:30px;margin-bottom:.9rem;
-  font-size:.76rem;font-weight:700;letter-spacing:.04em;color:var(--night);
-  background:var(--gold-lt);border-radius:3px;
+.dcard-link:hover .dscene{transform:scale(1.06)}
+.dshade{
+  position:absolute;inset:0;z-index:-1;
+  background:linear-gradient(to top,rgba(4,18,43,.96) 26%,rgba(4,18,43,.55) 52%,rgba(4,18,43,0) 78%);
 }
-.dcard h3{font-family:var(--f-disp);font-weight:600;font-size:1.32rem;margin-bottom:.55rem}
-.dcard p{font-size:.96rem;line-height:1.55;color:var(--muted);margin-bottom:1.1rem}
-.dfoot{display:flex;flex-direction:column;gap:.2rem;padding-top:.85rem;border-top:1px solid var(--line);font-size:.79rem}
-.dfoot span{color:var(--ink-3);font-weight:500}
-.dfoot b{color:var(--gold-dk);font-weight:700}
+.dtop{position:absolute;top:14px;left:14px}
+.dtop .flag{width:30px;height:15px;box-shadow:0 0 0 1.5px rgba(242,220,161,.55)}
+.dbody{position:absolute;left:0;right:0;bottom:0;padding:1.15rem 1.1rem 1.2rem;display:block}
+.dname{
+  display:block;font-family:var(--f-disp);font-weight:600;font-size:1.42rem;line-height:1.1;
+  letter-spacing:-.02em;margin-bottom:.4rem;
+}
+.dblurb{display:block;font-size:.84rem;line-height:1.45;color:#BCD0E6;margin-bottom:.9rem}
+.dmeta{
+  display:flex;justify-content:space-between;gap:.7rem;align-items:baseline;
+  padding:.4rem 0;border-top:1px solid rgba(242,220,161,.22);font-size:.76rem;
+}
+.dmeta b{font-weight:600;color:#93AECB;letter-spacing:.05em;text-transform:uppercase;font-size:.68rem}
+.dmeta i{font-style:normal;font-weight:600;color:var(--gold-lt);text-align:right}
+.dgo{
+  display:inline-block;margin-top:.9rem;font-size:.79rem;font-weight:600;color:#fff;
+  border-bottom:1.5px solid var(--gold);padding-bottom:1px;
+}
+.dcard-link:hover .dgo{color:var(--gold-lt)}
 .dest-empty{margin-top:1.5rem;color:var(--muted)}
 
 /* ─────────── services ─────────── */
@@ -809,13 +822,6 @@ textarea{resize:vertical}
   .ccode{width:52px;height:38px;font-size:1.05rem}
 }
 
-.dcard h3 a{text-decoration:none;color:inherit}
-.dcard h3 a:hover{color:var(--royal)}
-.dmore{
-  display:inline-block;margin-top:.9rem;font-family:var(--f-ui);font-size:.83rem;font-weight:600;
-  color:var(--night);text-decoration:none;border-bottom:1.5px solid var(--gold);
-}
-.dmore:hover{color:var(--royal);border-color:var(--royal)}
 
 /* founder portrait in the leadership block */
 .person-photo{align-items:stretch}
@@ -885,8 +891,6 @@ textarea{resize:vertical}
 }
 
 /* flags on cards and country heroes */
-.dcode{display:inline-flex;align-items:center;gap:.45rem;width:auto;padding:0 .5rem}
-.flag-lg{width:30px;height:15px}
 .cflag{
   display:block;width:78px;height:39px;flex:0 0 auto;border-radius:4px;overflow:hidden;
   box-shadow:0 0 0 1.5px var(--gold),0 12px 26px -14px rgba(8,34,69,.6);
@@ -923,3 +927,10 @@ textarea{resize:vertical}
 
 @media (max-width:1100px){.pgrid{grid-template-columns:1fr}}
 @media (max-width:520px){.pspec>div{grid-template-columns:1fr;gap:.1rem}}
+
+@media (max-width:1100px){.dest{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){
+  .dest{grid-template-columns:1fr}
+  .dcard-link{aspect-ratio:16/11}
+  .dname{font-size:1.5rem}
+}
