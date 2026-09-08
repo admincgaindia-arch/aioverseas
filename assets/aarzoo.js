@@ -14,6 +14,10 @@
 
   /* ---------- local knowledge base (chips + offline fallback) ---------- */
   var KB = [
+    { keys: ['deadline', 'intake', 'kab tak', 'last date', 'calendar', 'when to apply', 'january intake', 'september intake'],
+      a: 'The visa calendar lists upcoming rule changes, fee revisions and intake windows with the filing cutoff for each — the date that actually decides whether you make a start date, not just the university deadline. Work backwards from your intake: processing time, then file preparation, then seasoning funds.',
+      cta: 'Open the visa calendar', href: 'visa-calendar.html' },
+
     { keys: ['route finder', 'compare', 'filter', 'options', 'stay back', 'stayback'],
       a: 'The Find My Route tool lists all 40 pathways we file across eight countries, and you can filter by purpose, timeline, whether an English test is needed, and whether the route allows stay-back after study. It shows no fees on purpose — government fees change several times a year.',
       cta: 'Open the route finder', href: 'find-my-route.html' },
