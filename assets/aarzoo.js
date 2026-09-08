@@ -28,7 +28,7 @@
 
     { keys: ['refusal', 'rejected', 'reject', 'refuse'],
       a: 'A past refusal is not the end. We read the refusal letter, work out what the officer was not satisfied about — usually funds, intent to return or an inconsistency — and rebuild the file around that gap. One thing is non-negotiable: every past refusal must be disclosed. Hiding one is what actually ends a case.',
-      cta: 'Why files get refused', href: 'visa-guide.html#study' },
+      cta: 'Read the refusal guide', href: 'visa-refused.html' },
 
     { keys: ['how long', 'kitna time', 'processing time', 'timeline'],
       a: 'File preparation is normally two to four weeks, driven mainly by how fast your documents come in. Government processing varies: Canada 8-24 weeks, Australia 6-20, UK 3-12, Germany 8-16, UAE 1-4. Those are published ranges, not promises — the visa office decides.',
@@ -37,6 +37,10 @@
     { keys: ['guarantee', 'guaranteed', 'sure visa', '100%'],
       a: 'No. Nobody can guarantee a visa — only the destination country decides, and anyone promising otherwise is usually planning to file something false in your name. What we can promise is an honest read on your case before you spend money.',
       cta: 'Get an honest read', href: '#assess' },
+
+    { keys: ['photo', 'photograph', 'photo size', 'passport size'],
+      a: 'Photo rules differ by country — Canada and most of Europe want 35x45 mm, the US wants 51x51 mm, and several countries now ban spectacles entirely. Our photo requirements page lists the size, face height and background for all eight destinations, plus the four mistakes that get photos bounced at the counter.',
+      cta: 'See photo rules', href: 'photo-requirements.html' },
 
     { keys: ['founder', 'owner', 'ceo', 'director', 'mohan', 'virender', 'malik', 'kaun chalata'],
       a: 'AI Overseas Private Limited is led by Mohan Dev, Founder & CEO, along with co-founder and director Virender Singh. Both are named on the site and you can ask for either of them by name when you call or visit the Safidon office.',
