@@ -14,6 +14,10 @@
 
   /* ---------- local knowledge base (chips + offline fallback) ---------- */
   var KB = [
+    { keys: ['route finder', 'compare', 'filter', 'options', 'stay back', 'stayback'],
+      a: 'The Find My Route tool lists all 40 pathways we file across eight countries, and you can filter by purpose, timeline, whether an English test is needed, and whether the route allows stay-back after study. It shows no fees on purpose — government fees change several times a year.',
+      cta: 'Open the route finder', href: 'find-my-route.html' },
+
     { keys: ['which country', 'kaun sa desh', 'best country', 'country suits'],
       a: 'Depends on three things: your budget, your academics and how soon you want to move. Canada and Australia suit study-to-PR plans, Germany suits low tuition, UK suits a one-year masters, UAE suits quick employment. The free eligibility check on this page gives you an indicative read in under a minute.',
       cta: 'Check my eligibility', href: '#assess' },
