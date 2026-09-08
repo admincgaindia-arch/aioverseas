@@ -1,39 +1,61 @@
 {
-  "checked_at": "2026-09-08T16:05:00+05:30",
-  "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification — this feed does not rewrite them automatically.",
+  "checked_at": "2026-09-08T21:10:15.499+05:30",
+  "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260908-au-485-fee",
-      "date": "2026-03-01",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Temporary Graduate (485) application fee doubled to AUD 4,600",
-      "summary": "Announced without notice on 1 March 2026, up from AUD 2,300 in place since July 2025. Applicants planning a post-study work application should budget for the revised figure.",
-      "source": "ICEF Monitor via Business Standard",
-      "url": "https://www.business-standard.com/immigration/australia-tightens-student-visas-4-in-10-indian-visas-rejected-in-2026-126041300656_1.html"
-    },
-    {
-      "id": "20260908-au-el3",
-      "date": "2026-01-08",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "India moved to Evidence Level 3 under the Simplified Student Visa Framework",
-      "summary": "The highest scrutiny band. Indian applicants must provide more detailed financial documentation and stronger proof of genuine study intent, and may face longer processing.",
-      "source": "Department of Home Affairs",
-      "url": "https://immi.homeaffairs.gov.au/"
-    },
-    {
-      "id": "20260908-ca-approval",
-      "date": "2026-04-16",
+      "id": "20260908-canada-canada-study-permit-higher-funds-and",
+      "date": "2026-09-08",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Processing trend",
-      "title": "Study permit approval rate fell to 35.7% in 2025",
-      "summary": "The lowest in a decade, following study permit caps and tighter proof-of-funds rules. Indian applicants were refused at a far higher rate than the overall average.",
-      "source": "IRCC data via The PIE News",
-      "url": "https://thepienews.com/canadas-study-permit-decline-passes-covid-lows/"
+      "kind": "Threshold change",
+      "title": "Canada study permit: higher funds and tighter scrutiny",
+      "summary": "Canada reported higher financial requirements and increased scrutiny for study permit applicants in 2026, along with new norms for international students.",
+      "source": "The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZGRCbnNWbjRwWUNQY05pRVZsc0s4NFF2R216aTV2THJwYmhKOGk5R2JjWFUzWnZ4NktGeUtydXowZ1hSZU5HLXVrRnZRTHNVclA4dDJGbzBEaVF2RERad3A1aVU2U1dOZm1fanpkYmR1NWM3a1ZNSEJycHdzZ3hMWlVXOXYtaDJOWWVEczN1aUJRbWNGa3pHZzhWcEZKVU5GSjkzQm5Ua0FRLVh1LUFnMmR3UmRIUWFUODV1MDNoMHhCQ2pqSnlvUEgybW5XYmIwQk1nUjRiUzlGTEw3a1UybkF5QmdDVUFqdEN0ZNIB8wFBVV95cUxObU94UExaS0NqWW93bmRxLW0ydDc2QjdtMkZiNmo3bTFPWUxHUXJiaVdXdHhKZ3BzWUI5SlZUaFBIdWlSZ2QwamVudEtyUFBWVUNpblljR3E0R25RRjJfMDkyVG9YaGlCWk0tNXpHbko5V0tvQ2NFcDRMY1BVU19DX0p3SnJkV2hoQ0pfdFFLV3ZyRmRHUWJnUGpDZEMxLWVrVFMtQ2xJcXU4N0NIc0twd0xTbnh1aVlKck9meTN2clA2ZjVWSEYycmx2aURpeldXUkJKM19ncmpKM2JoZEs4M2tuWWdOdUxrd1AycURtWW1TNUk?oc=5"
+    },
+    {
+      "id": "20260904-uk-uk-raises-student-visa-maintenance-r",
+      "date": "2026-09-04",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa maintenance requirement",
+      "summary": "UK reported an increase to student visa maintenance requirements, taking effect from November 2026.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
+    },
+    {
+      "id": "20260903-usa-dhs-restricts-h-1b-spouse-work-autho",
+      "date": "2026-09-03",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "DHS restricts H-1B spouse work authorization",
+      "summary": "DHS reported adding an immigration rule to its agenda that would stop H-1B visa spouses from working.",
+      "source": "forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3p5Q0VING9BRDV3WVlDdXdVazU4Z0ZhS0dTblliZTM3LVF5UVNPMktVQnJjcHg0MF9FNHV3TzAyWWpKc3JzNVFpSUxJeWpyeVdLNl84SDVKVlR6VktLU0dkR1p4QnNNQnZ2bDRidjA5N3E3TDhTT3h6dUU3akdvRGxiMUx2bWlmdi1YUEtHbUdIczdwN05QNzV3VmFCVDdkMVJ1XzNmUXB2dXRId0x0dW5qb2xuR0VvQlM0RkZxd3lQQjg4?oc=5"
+    },
+    {
+      "id": "20260903-uk-uk-allows-migrant-workers-to-change",
+      "date": "2026-09-03",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK allows migrant workers to change employers",
+      "summary": "UK reported changes to visa rules now permitting migrant workers to change employers.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dIZHY1V2cwcTAyX0JhRmUyV0l6ZVlONEhiZ1ZUY2hVakloaUFxN2pxQ3lRMzhjc3ZqQm5PQjl2QWhkczNIUGJNZkhvS0FyTDhiVVRXU3pzX1U5QzM0X1lockw1UVRYVnljREE2OHI3Y3NzZUFKeHRJNmtISFBDdUJhLWZST2FxZjlYNg?oc=5"
+    },
+    {
+      "id": "20260901-canada-canada-updates-financial-requirement",
+      "date": "2026-09-01",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Threshold change",
+      "title": "Canada updates financial requirements for study applicants",
+      "summary": "Canada reported updated financial requirements for foreigners seeking to study in the country, effective September 2026.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3E3RkxLMkhpbFY4aU5rRk1NM0xVSjFKcnZhZGtwUFdLRHpLUG5RNFdSSDhVZWVzRlJDaDl6NWo2Y3ZVNzF2eXBiSnNHcFdrSHhJWS1KMVBnWlJVcDRNRDR1TW9rU0RGY19MamZUTlFJSWhZcmdDaDAzNGxVejVWLVBSUFFlQ0d3OTIweGFqem5EaklqOHV0SER6QjZuQXJVeUZRWGx1anZFYnZ0amZLdlVoWHFKZmM?oc=5"
     }
   ]
 }
