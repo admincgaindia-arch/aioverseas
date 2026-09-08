@@ -85,6 +85,7 @@
 <section class="sec sec-filter">
   <div class="wrap">
     <div class="filterbar"><div class="fsel"><label for="fGoal">What do you want</label><select id="fGoal"><option value="all">All purposes</option><option value="study">Study</option><option value="work">Work</option><option value="pr">PR &amp; residence</option><option value="visit">Visitor</option><option value="business">Business</option><option value="dependant">Spouse &amp; dependant</option></select></div><div class="fsel"><label for="fSpeed">Timeline</label><select id="fSpeed"><option value="all">Any timeline</option><option value="fast">Under 6 weeks</option><option value="mid">6–14 weeks</option><option value="slow">3 months or more</option><option value="varies">Depends on the case</option></select></div><div class="fsel"><label for="fEng">English test</label><select id="fEng"><option value="all">Any</option><option value="yes">Test required</option><option value="depends">Sometimes required</option><option value="no">No test needed</option></select></div><div class="fsel"><label for="fStay">Stay-back</label><select id="fStay"><option value="all">Any</option><option value="yes">Stay-back available</option><option value="no">No stay-back</option></select></div><button class="fclear" id="fClear" type="button">Reset</button></div>
+    <div class="pw" id="policyWatch" hidden></div>
     <p class="fcount" id="fCount" role="status"></p>
     <ul class="fgrid-list" id="fList">
 <li class="fcard" data-goal="study" data-speed="mid" data-eng="yes" data-stay="yes" data-country="Canada">
@@ -491,6 +492,7 @@
 </a>
 
 <script src="/assets/routefinder.js" defer></script>
+<script src="/assets/alerts.js" defer></script>
 <script src="/assets/nav.js" defer></script>
 <script src="assets/aarzoo.js" defer></script>
 </body>
