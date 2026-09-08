@@ -38,6 +38,10 @@
       a: 'No. Nobody can guarantee a visa — only the destination country decides, and anyone promising otherwise is usually planning to file something false in your name. What we can promise is an honest read on your case before you spend money.',
       cta: 'Get an honest read', href: '#assess' },
 
+    { keys: ['founder', 'owner', 'ceo', 'director', 'mohan', 'virender', 'malik', 'kaun chalata'],
+      a: 'AI Overseas Private Limited is led by Mohan Dev, Founder & CEO, along with co-founder and director Virender Singh. Both are named on the site and you can ask for either of them by name when you call or visit the Safidon office.',
+      cta: 'Request a call with a director', href: null },
+
     { keys: ['address', 'office', 'location', 'kahan ho', 'kaha hai', 'safidon', 'jind', 'visit'],
       a: 'Our office is at Shop No. 6, 7 & 8, First Floor, Stadium Market, Safidon, Jind, Haryana 126112. Open Monday to Saturday, 10:00 to 19:00 IST. Walk in, or call ahead and we will keep a director free for you.',
       cta: 'Open in Google Maps', href: 'https://maps.google.com/?q=AI+Overseas+Pvt+Ltd+Stadium+Market+Safidon+Jind+Haryana+126112' },
