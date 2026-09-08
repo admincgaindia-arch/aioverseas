@@ -832,3 +832,65 @@ textarea{resize:vertical}
 @media (max-width:760px){
   .person-pic{width:88px;height:110px}
 }
+
+/* ═══════════ DROPDOWN NAVIGATION ═══════════ */
+.ddw{position:relative}
+.dd-btn{
+  display:inline-flex;align-items:center;gap:.35rem;background:none;border:0;cursor:pointer;
+  font-family:var(--f-ui);font-size:.87rem;font-weight:500;color:var(--ink-3);
+  padding:.4rem 0;border-bottom:1.5px solid transparent;white-space:nowrap;
+}
+.dd-btn:hover,.dd-btn.is-here,.ddw.is-open .dd-btn{color:var(--night);border-color:var(--gold)}
+.caret{
+  width:6px;height:6px;border-right:1.6px solid currentColor;border-bottom:1.6px solid currentColor;
+  transform:rotate(45deg) translate(-1px,-1px);transition:transform .18s ease;
+}
+.ddw.is-open .caret{transform:rotate(-135deg) translate(-2px,-2px)}
+
+.dd{
+  position:absolute;top:calc(100% + 14px);left:50%;translate:-50% 0;z-index:60;
+  min-width:250px;padding:.5rem;background:#fff;border:1px solid var(--line);
+  border-radius:var(--r-md);box-shadow:0 26px 54px -22px rgba(8,34,69,.42);
+  opacity:0;visibility:hidden;transform:translateY(-6px);
+  transition:opacity .16s ease,transform .16s ease,visibility .16s;
+}
+.dd::before{
+  content:"";position:absolute;top:-5px;left:50%;translate:-50% 0;width:10px;height:10px;
+  background:#fff;border-left:1px solid var(--line);border-top:1px solid var(--line);transform:rotate(45deg);
+}
+.ddw:hover .dd,.ddw.is-open .dd{opacity:1;visibility:visible;transform:none}
+.dd a{
+  display:flex;align-items:center;gap:.7rem;padding:.55rem .7rem;border-radius:var(--r-sm);
+  font-size:.9rem;font-weight:500;color:var(--ink);text-decoration:none;border:0;white-space:nowrap;
+}
+.dd a:hover{background:var(--tint);color:var(--night)}
+.dd-icons{min-width:266px}
+.mi{width:20px;height:20px;flex:0 0 auto}
+.flag{
+  width:26px;height:13px;flex:0 0 auto;border-radius:2px;
+  box-shadow:0 0 0 1px rgba(8,34,69,.18);object-fit:cover;
+}
+
+@media (max-width:1100px){
+  .dd{
+    position:static;translate:none;transform:none;opacity:1;visibility:visible;
+    min-width:0;box-shadow:none;border:0;border-left:2px solid var(--gold);
+    border-radius:0;margin:.2rem 0 .6rem .2rem;padding:0 0 0 .8rem;display:none;
+  }
+  .dd::before{display:none}
+  .ddw:hover .dd{display:none}
+  .ddw.is-open .dd{display:block}
+  .dd-btn{width:100%;justify-content:space-between;padding:.8rem 0;border-bottom:1px solid var(--line)}
+  .dd a{padding:.55rem 0}
+}
+
+/* flags on cards and country heroes */
+.dcode{display:inline-flex;align-items:center;gap:.45rem;width:auto;padding:0 .5rem}
+.flag-lg{width:30px;height:15px}
+.cflag{
+  display:block;width:78px;height:39px;flex:0 0 auto;border-radius:4px;overflow:hidden;
+  box-shadow:0 0 0 1.5px var(--gold),0 12px 26px -14px rgba(8,34,69,.6);
+}
+.cflag img{display:block;width:100%;height:100%;object-fit:cover}
+@media (max-width:760px){.cflag{width:60px;height:30px}}
+.dd-flags{min-width:250px}
