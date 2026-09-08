@@ -1,0 +1,39 @@
+{
+  "checked_at": "2026-09-08T16:05:00+05:30",
+  "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification — this feed does not rewrite them automatically.",
+  "alerts": [
+    {
+      "id": "20260908-au-485-fee",
+      "date": "2026-03-01",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Temporary Graduate (485) application fee doubled to AUD 4,600",
+      "summary": "Announced without notice on 1 March 2026, up from AUD 2,300 in place since July 2025. Applicants planning a post-study work application should budget for the revised figure.",
+      "source": "ICEF Monitor via Business Standard",
+      "url": "https://www.business-standard.com/immigration/australia-tightens-student-visas-4-in-10-indian-visas-rejected-in-2026-126041300656_1.html"
+    },
+    {
+      "id": "20260908-au-el3",
+      "date": "2026-01-08",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "India moved to Evidence Level 3 under the Simplified Student Visa Framework",
+      "summary": "The highest scrutiny band. Indian applicants must provide more detailed financial documentation and stronger proof of genuine study intent, and may face longer processing.",
+      "source": "Department of Home Affairs",
+      "url": "https://immi.homeaffairs.gov.au/"
+    },
+    {
+      "id": "20260908-ca-approval",
+      "date": "2026-04-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Processing trend",
+      "title": "Study permit approval rate fell to 35.7% in 2025",
+      "summary": "The lowest in a decade, following study permit caps and tighter proof-of-funds rules. Indian applicants were refused at a far higher rate than the overall average.",
+      "source": "IRCC data via The PIE News",
+      "url": "https://thepienews.com/canadas-study-permit-decline-passes-covid-lows/"
+    }
+  ]
+}
