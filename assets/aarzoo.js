@@ -38,6 +38,10 @@
       a: 'No. Nobody can guarantee a visa — only the destination country decides, and anyone promising otherwise is usually planning to file something false in your name. What we can promise is an honest read on your case before you spend money.',
       cta: 'Get an honest read', href: '#assess' },
 
+    { keys: ['statistics', 'data', 'kitne log', 'refusal rate', 'rejection rate', 'how many indians', 'success rate'],
+      a: 'We publish the actual government figures — how many Indians are abroad, how many left last year, and the refusal rates from IRCC and Australian Home Affairs — with every source linked so you can check it. Canada refused 74% of Indian study permit applications in August 2025; Australia refused about 40% in February 2026.',
+      cta: 'See the real data', href: 'india-abroad-data.html' },
+
     { keys: ['photo', 'photograph', 'photo size', 'passport size'],
       a: 'Photo rules differ by country — Canada and most of Europe want 35x45 mm, the US wants 51x51 mm, and several countries now ban spectacles entirely. Our photo requirements page lists the size, face height and background for all eight destinations, plus the four mistakes that get photos bounced at the counter.',
       cta: 'See photo rules', href: 'photo-requirements.html' },
