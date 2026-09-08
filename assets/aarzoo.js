@@ -38,6 +38,14 @@
       a: 'No. Nobody can guarantee a visa — only the destination country decides, and anyone promising otherwise is usually planning to file something false in your name. What we can promise is an honest read on your case before you spend money.',
       cta: 'Get an honest read', href: '#assess' },
 
+    { keys: ['address', 'office', 'location', 'kahan ho', 'kaha hai', 'safidon', 'jind', 'visit'],
+      a: 'Our office is at Shop No. 6, 7 & 8, First Floor, Stadium Market, Safidon, Jind, Haryana 126112. Open Monday to Saturday, 10:00 to 19:00 IST. Walk in, or call ahead and we will keep a director free for you.',
+      cta: 'Open in Google Maps', href: 'https://maps.google.com/?q=AI+Overseas+Pvt+Ltd+Stadium+Market+Safidon+Jind+Haryana+126112' },
+
+    { keys: ['canada', 'australia', 'germany', 'new zealand', 'ireland', 'uae', 'dubai', 'country page'],
+      a: 'Every destination has its own page with the routes we file, the document list, the process and the real refusal reasons for that country, plus the official government link so you can verify the rules yourself.',
+      cta: 'See all countries', href: 'index.html#destinations' },
+
     { keys: ['guide', 'process', 'eligibility criteria', 'requirement', 'kya chahiye', 'documents'],
       a: 'The Visa Guide on this site covers all six routes — study, work, PR, visitor, spouse and business — with who qualifies, the document list, how the process runs, and the real reasons files get refused. Each country also has its official government link so you can verify current rules yourself.',
       cta: 'Open the visa guide', href: 'visa-guide.html' },
