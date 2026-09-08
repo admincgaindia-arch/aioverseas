@@ -894,3 +894,32 @@ textarea{resize:vertical}
 .cflag img{display:block;width:100%;height:100%;object-fit:cover}
 @media (max-width:760px){.cflag{width:60px;height:30px}}
 .dd-flags{min-width:250px}
+
+/* ═══════════ REFUSAL + PHOTO PAGES ═══════════ */
+.code-what,.code-fix{font-size:.95rem;line-height:1.55;color:var(--muted);margin-bottom:.85rem}
+.code-what b,.code-fix b{
+  display:block;font-family:var(--f-ui);font-size:.72rem;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;margin-bottom:.25rem;
+}
+.code-what b{color:var(--ink-3)}
+.code-fix b{color:var(--gold-dk)}
+.code-fix{margin-bottom:0}
+
+.rlist-light{background:var(--line);border-color:var(--line);margin-bottom:1.6rem}
+.rlist-light li{background:var(--paper)}
+.rlist-light b{color:var(--night)}
+.rlist-light span{color:var(--muted)}
+
+.pgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.15rem}
+.pcard{background:var(--paper);border:1px solid var(--line);border-radius:var(--r-md);padding:1.5rem 1.4rem 1.3rem}
+.pcard-top{display:flex;align-items:center;gap:.85rem;margin-bottom:1rem}
+.pcard-top h3{font-family:var(--f-disp);font-weight:600;font-size:1.24rem}
+.pflag{width:46px;height:23px}
+.pspec{margin:0 0 1rem;display:grid;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r-sm);overflow:hidden}
+.pspec>div{background:var(--paper);display:grid;grid-template-columns:8.5rem 1fr;gap:.6rem;padding:.5rem .8rem}
+.pspec dt{font-family:var(--f-ui);font-size:.78rem;font-weight:600;color:var(--ink-3)}
+.pspec dd{margin:0;font-size:.92rem;color:var(--ink)}
+.pnote{font-size:.93rem;line-height:1.55;color:var(--muted);margin-bottom:.9rem}
+
+@media (max-width:1100px){.pgrid{grid-template-columns:1fr}}
+@media (max-width:520px){.pspec>div{grid-template-columns:1fr;gap:.1rem}}
