@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://aioverseas.co.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://aioverseas.co.in/visa-guide.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://aioverseas.co.in/canada.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/uk.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/australia.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/germany.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/new-zealand.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/usa.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/ireland.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://aioverseas.co.in/uae.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://aioverseas.co.in/news.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://aioverseas.co.in/#destinations</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://aioverseas.co.in/#services</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
