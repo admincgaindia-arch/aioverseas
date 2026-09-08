@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T21:10:15.499+05:30",
+  "checked_at": "2026-09-09T02:15:10.469+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -20,9 +20,20 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK raises student visa maintenance requirement",
-      "summary": "UK reported an increase to student visa maintenance requirements, taking effect from November 2026.",
+      "summary": "The UK is raising the student visa maintenance financial requirement, effective November 2026. The specific new amount is not stated in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
+    },
+    {
+      "id": "20260903-canada-canada-raises-study-permit-funds-req",
+      "date": "2026-09-03",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Threshold change",
+      "title": "Canada raises study permit funds requirement",
+      "summary": "Canada has raised the financial requirement for study permit applicants. The specific amount is not stated in the headline, but the change takes effect in September 2026.",
+      "source": "cic times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUdWaEhqVWMwSjJ6TXNPaXVMcnpjVk1SbzJxdldneFVQa3ZucDY0N2xFQkx3UkZQQzJ3ZUVoMEJvVDhfZzhydmY4YmFEdVpPWDZwc3ItN181UElJbmI5bU0yWUgwVmcwYUYwZXlkWTZxeDFXVlg2d1lCTUpocWh2NGw5N0o1bWtYeTJ5UFdzY1dBR25vSkdRREotMzM?oc=5"
     },
     {
       "id": "20260903-usa-dhs-restricts-h-1b-spouse-work-autho",
@@ -31,8 +42,8 @@
       "slug": "usa",
       "kind": "Rule change",
       "title": "DHS restricts H-1B spouse work authorization",
-      "summary": "DHS reported adding an immigration rule to its agenda that would stop H-1B visa spouses from working.",
-      "source": "forbes.com",
+      "summary": "The US Department of Homeland Security has added a rule to its agenda that would stop H-1B visa spouses from working. The rule is reported as pending.",
+      "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3p5Q0VING9BRDV3WVlDdXdVazU4Z0ZhS0dTblliZTM3LVF5UVNPMktVQnJjcHg0MF9FNHV3TzAyWWpKc3JzNVFpSUxJeWpyeVdLNl84SDVKVlR6VktLU0dkR1p4QnNNQnZ2bDRidjA5N3E3TDhTT3h6dUU3akdvRGxiMUx2bWlmdi1YUEtHbUdIczdwN05QNzV3VmFCVDdkMVJ1XzNmUXB2dXRId0x0dW5qb2xuR0VvQlM0RkZxd3lQQjg4?oc=5"
     },
     {
@@ -42,7 +53,7 @@
       "slug": "uk",
       "kind": "Rule change",
       "title": "UK allows migrant workers to change employers",
-      "summary": "UK reported changes to visa rules now permitting migrant workers to change employers.",
+      "summary": "The UK has changed visa rules to permit migrant workers to change employers. This represents a relaxation of previous restrictions on employer switching.",
       "source": "streamlinefeed.co.ke",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dIZHY1V2cwcTAyX0JhRmUyV0l6ZVlONEhiZ1ZUY2hVakloaUFxN2pxQ3lRMzhjc3ZqQm5PQjl2QWhkczNIUGJNZkhvS0FyTDhiVVRXU3pzX1U5QzM0X1lockw1UVRYVnljREE2OHI3Y3NzZUFKeHRJNmtISFBDdUJhLWZST2FxZjlYNg?oc=5"
     },
