@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-09T02:15:10.469+05:30",
+  "checked_at": "2026-09-10T02:15:13.788+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -7,11 +7,22 @@
       "date": "2026-09-08",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Threshold change",
+      "kind": "Rule change",
       "title": "Canada study permit: higher funds and tighter scrutiny",
-      "summary": "Canada reported higher financial requirements and increased scrutiny for study permit applicants in 2026, along with new norms for international students.",
+      "summary": "Canada reported changes to study permit requirements for 2026, including higher financial thresholds and increased scrutiny of applications, along with new norms for international students.",
       "source": "The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZGRCbnNWbjRwWUNQY05pRVZsc0s4NFF2R216aTV2THJwYmhKOGk5R2JjWFUzWnZ4NktGeUtydXowZ1hSZU5HLXVrRnZRTHNVclA4dDJGbzBEaVF2RERad3A1aVU2U1dOZm1fanpkYmR1NWM3a1ZNSEJycHdzZ3hMWlVXOXYtaDJOWWVEczN1aUJRbWNGa3pHZzhWcEZKVU5GSjkzQm5Ua0FRLVh1LUFnMmR3UmRIUWFUODV1MDNoMHhCQ2pqSnlvUEgybW5XYmIwQk1nUjRiUzlGTEw3a1UybkF5QmdDVUFqdEN0ZNIB8wFBVV95cUxObU94UExaS0NqWW93bmRxLW0ydDc2QjdtMkZiNmo3bTFPWUxHUXJiaVdXdHhKZ3BzWUI5SlZUaFBIdWlSZ2QwamVudEtyUFBWVUNpblljR3E0R25RRjJfMDkyVG9YaGlCWk0tNXpHbko5V0tvQ2NFcDRMY1BVU19DX0p3SnJkV2hoQ0pfdFFLV3ZyRmRHUWJnUGpDZEMxLWVrVFMtQ2xJcXU4N0NIc0twd0xTbnh1aVlKck9meTN2clA2ZjVWSEYycmx2aURpeldXUkJKM19ncmpKM2JoZEs4M2tuWWdOdUxrd1AycURtWW1TNUk?oc=5"
+    },
+    {
+      "id": "20260907-usa-h-1b-fee-hike-could-exceed-200-000",
+      "date": "2026-09-07",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "H-1B fee hike could exceed $200,000",
+      "summary": "A Trump administration plan reported potential H-1B visa fee increases that could push total costs above $200,000, significantly raising applicant expenses.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFBuMVdZZzVHTTluOExXbUFKZWl6ZUg0U01OcXY0ZDg2aDdmTlFHSE5jd0JQVElFZS1aRW1ZY1NnZkF2RktxREFnZXk5eEkzLUJpSkw0YVJaVFB6RXRrY1lFeWhMZEZxZWRxenJ4NERha1RkWWVaS3pEcDQzSjhYYVBHbkRnbEhvQlozN3FIcGJYYm8wZjc3SkxhMzFDV3gyOWNZZ29VTS1sNmE5QnI2REp6UjUzU2tJcVRzb9IBvAFBVV95cUxNcFBuMVdZZzVHTTluOExXbUFKZWl6ZUg0U01OcXY0ZDg2aDdmTlFHSE5jd0JQVElFZS1aRW1ZY1NnZkF2RktxREFnZXk5eEkzLUJpSkw0YVJaVFB6RXRrY1lFeWhMZEZxZWRxenJ4NERha1RkWWVaS3pEcDQzSjhYYVBHbkRnbEhvQlozN3FIcGJYYm8wZjc3SkxhMzFDV3gyOWNZZ29VTS1sNmE5QnI2REp6UjUzU2tJcVRzbw?oc=5"
     },
     {
       "id": "20260904-uk-uk-raises-student-visa-maintenance-r",
@@ -20,9 +31,42 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK raises student visa maintenance requirement",
-      "summary": "The UK is raising the student visa maintenance financial requirement, effective November 2026. The specific new amount is not stated in the headline.",
+      "summary": "The UK reported an increase to student visa maintenance financial requirements effective November 2026, raising the funds applicants must demonstrate.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
+    },
+    {
+      "id": "20260903-usa-usa-plans-fees-for-opt-and-h-1b-visa",
+      "date": "2026-09-03",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "USA plans fees for OPT and H-1B visas",
+      "summary": "The USA reported planned fee introductions for OPT and H-1B visa categories, with warnings also issued regarding CPT implications.",
+      "source": "StudyTravel Network",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54TDRLYWJuMUVObk1KYUhjekMwRjdFNkNXYzczVkJxV0Y4S095dXM2d0huNTVMVzBqa3J4eU5qTEtySUNBV3k3U2JOS1FMVnY4ME5fZDBGeGdQVVZzeVE?oc=5"
+    },
+    {
+      "id": "20260903-usa-usa-restricts-h-1b-spouse-work-autho",
+      "date": "2026-09-03",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "USA restricts H-1B spouse work authorization",
+      "summary": "The DHS reported adding an immigration rule to its agenda that would prohibit H-1B visa spouses from working, affecting dependent family members.",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3p5Q0VING9BRDV3WVlDdXdVazU4Z0ZhS0dTblliZTM3LVF5UVNPMktVQnJjcHg0MF9FNHV3TzAyWWpKc3JzNVFpSUxJeWpyeVdLNl84SDVKVlR6VktLU0dkR1p4QnNNQnZ2bDRidjA5N3E3TDhTT3h6dUU3akdvRGxiMUx2bWlmdi1YUEtHbUdIczdwN05QNzV3VmFCVDdkMVJ1XzNmUXB2dXRId0x0dW5qb2xuR0VvQlM0RkZxd3lQQjg4?oc=5"
+    },
+    {
+      "id": "20260903-uk-uk-allows-migrant-workers-to-change",
+      "date": "2026-09-03",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK allows migrant workers to change employers",
+      "summary": "The UK reported new visa rules permitting migrant workers to change employers, relaxing previous restrictions on employment mobility.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dIZHY1V2cwcTAyX0JhRmUyV0l6ZVlONEhiZ1ZUY2hVakloaUFxN2pxQ3lRMzhjc3ZqQm5PQjl2QWhkczNIUGJNZkhvS0FyTDhiVVRXU3pzX1U5QzM0X1lockw1UVRYVnljREE2OHI3Y3NzZUFKeHRJNmtISFBDdUJhLWZST2FxZjlYNg?oc=5"
     },
     {
       "id": "20260903-canada-canada-raises-study-permit-funds-req",
@@ -34,28 +78,6 @@
       "summary": "Canada has raised the financial requirement for study permit applicants. The specific amount is not stated in the headline, but the change takes effect in September 2026.",
       "source": "cic times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUdWaEhqVWMwSjJ6TXNPaXVMcnpjVk1SbzJxdldneFVQa3ZucDY0N2xFQkx3UkZQQzJ3ZUVoMEJvVDhfZzhydmY4YmFEdVpPWDZwc3ItN181UElJbmI5bU0yWUgwVmcwYUYwZXlkWTZxeDFXVlg2d1lCTUpocWh2NGw5N0o1bWtYeTJ5UFdzY1dBR25vSkdRREotMzM?oc=5"
-    },
-    {
-      "id": "20260903-usa-dhs-restricts-h-1b-spouse-work-autho",
-      "date": "2026-09-03",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "DHS restricts H-1B spouse work authorization",
-      "summary": "The US Department of Homeland Security has added a rule to its agenda that would stop H-1B visa spouses from working. The rule is reported as pending.",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3p5Q0VING9BRDV3WVlDdXdVazU4Z0ZhS0dTblliZTM3LVF5UVNPMktVQnJjcHg0MF9FNHV3TzAyWWpKc3JzNVFpSUxJeWpyeVdLNl84SDVKVlR6VktLU0dkR1p4QnNNQnZ2bDRidjA5N3E3TDhTT3h6dUU3akdvRGxiMUx2bWlmdi1YUEtHbUdIczdwN05QNzV3VmFCVDdkMVJ1XzNmUXB2dXRId0x0dW5qb2xuR0VvQlM0RkZxd3lQQjg4?oc=5"
-    },
-    {
-      "id": "20260903-uk-uk-allows-migrant-workers-to-change",
-      "date": "2026-09-03",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK allows migrant workers to change employers",
-      "summary": "The UK has changed visa rules to permit migrant workers to change employers. This represents a relaxation of previous restrictions on employer switching.",
-      "source": "streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3dIZHY1V2cwcTAyX0JhRmUyV0l6ZVlONEhiZ1ZUY2hVakloaUFxN2pxQ3lRMzhjc3ZqQm5PQjl2QWhkczNIUGJNZkhvS0FyTDhiVVRXU3pzX1U5QzM0X1lockw1UVRYVnljREE2OHI3Y3NzZUFKeHRJNmtISFBDdUJhLWZST2FxZjlYNg?oc=5"
     },
     {
       "id": "20260901-canada-canada-updates-financial-requirement",
