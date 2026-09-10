@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-09-10T02:15:13.788+05:30",
+  "checked_at": "2026-09-11T02:15:10.075+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20260908-uk-uk-raises-student-visa-funding-to-19",
+      "date": "2026-09-08",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa funding to $19,100",
+      "summary": "The UK has raised the student visa funding requirement to $19,100 for students from specified African countries, effective November 30. This affects eligible Indian applicants.",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjVnb3h0MFBVSFpudTBnbExobFRRck00U3E2YkRPMTVST3FLNmpTaW1WT2hxU1k2dkE2dThNUHlRRWhyVUhYQ0JOaWowUWVDZmNmZGhONHdyZjZrS3poZ1NQSi1vRXUxQXV5Q1Jad1B5bXpnRE16YWlSeGVmUzkydkZaa2JvZE9zQVlWQ083NU1RaWgxRlBFQ1pMLUYtUWk2SUZObXJfV1ZmUUc1QnU4VkZWOTNtSk0waDN3Z0JwZFA1QW5BYUV1SUYwVHJVYnRLaG5DcHBUMHVMZw?oc=5"
+    },
     {
       "id": "20260908-canada-canada-study-permit-higher-funds-and",
       "date": "2026-09-08",
@@ -31,7 +42,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK raises student visa maintenance requirement",
-      "summary": "The UK reported an increase to student visa maintenance financial requirements effective November 2026, raising the funds applicants must demonstrate.",
+      "summary": "The UK is raising the student visa maintenance financial requirement effective November 2026. The specific new amount was not stated in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
     },
