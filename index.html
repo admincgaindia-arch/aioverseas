@@ -620,6 +620,125 @@
     </div>
 
     <p class="gal-note">Interior visualisations of our office. Photographs will replace these once the fit-out is photographed.</p>
+
+    <style>
+    /* Office interiors as a slider. This is layered ON TOP of the existing
+       .gal grid at runtime - the figures, their alt text and their data-full
+       lightbox hooks are never touched, so assets/app.js keeps working. */
+    .offslide{position:relative;}
+    .gal.is-slider{
+      display:flex;
+      gap:16px;
+      overflow-x:auto;
+      scroll-snap-type:x mandatory;
+      -webkit-overflow-scrolling:touch;
+      scrollbar-width:none;
+      grid-template-columns:none;
+      padding-bottom:4px;
+    }
+    .gal.is-slider::-webkit-scrollbar{display:none;}
+    .gal.is-slider .gcell{
+      flex:0 0 100%;
+      max-width:100%;
+      margin:0;
+      scroll-snap-align:start;
+    }
+    @media (min-width:760px){
+      .gal.is-slider .gcell{flex-basis:calc((100% - 16px) / 2);}
+    }
+    .offslide__btn{
+      position:absolute;top:42%;transform:translateY(-50%);
+      width:44px;height:44px;display:grid;place-items:center;
+      border-radius:50%;border:1px solid rgba(255,255,255,.35);
+      background:rgba(4,18,43,.62);color:#fff;font-size:22px;line-height:1;
+      cursor:pointer;z-index:3;
+    }
+    .offslide__btn:hover{background:rgba(4,18,43,.88);}
+    .offslide__btn:focus-visible{outline:2px solid #C79A3B;outline-offset:2px;}
+    .offslide__btn[disabled]{opacity:.28;cursor:default;}
+    .offslide__prev{left:10px;}
+    .offslide__next{right:10px;}
+    .offslide__dots{display:flex;justify-content:center;gap:7px;margin-top:16px;}
+    .offslide__dots button{
+      width:8px;height:8px;padding:0;border:0;border-radius:50%;
+      background:rgba(4,18,43,.22);cursor:pointer;transition:width .2s ease;
+    }
+    .offslide__dots button[aria-current="true"]{background:#C79A3B;width:22px;border-radius:4px;}
+    .offslide__dots button:focus-visible{outline:2px solid #1268C3;outline-offset:2px;}
+    @media (max-width:600px){.offslide__btn{width:38px;height:38px;font-size:19px;}}
+    @media (prefers-reduced-motion:reduce){.offslide__dots button{transition:none;}}
+    </style>
+
+    <script>
+    (function () {
+      var gal = document.getElementById("gal");
+      if (!gal) return;
+      var cells = gal.querySelectorAll(".gcell");
+      if (cells.length < 2) return;
+
+      var wrap = document.createElement("div");
+      wrap.className = "offslide";
+      gal.parentNode.insertBefore(wrap, gal);
+      wrap.appendChild(gal);
+      gal.classList.add("is-slider");
+
+      function mk(cls, label, glyph) {
+        var b = document.createElement("button");
+        b.type = "button";
+        b.className = "offslide__btn " + cls;
+        b.setAttribute("aria-label", label);
+        b.innerHTML = glyph;
+        wrap.appendChild(b);
+        return b;
+      }
+      var prev = mk("offslide__prev", "Previous photo", "&#8249;");
+      var next = mk("offslide__next", "Next photo", "&#8250;");
+
+      var dots = document.createElement("div");
+      dots.className = "offslide__dots";
+      wrap.appendChild(dots);
+      for (var i = 0; i < cells.length; i++) {
+        var d = document.createElement("button");
+        d.type = "button";
+        d.setAttribute("aria-label", "Go to photo " + (i + 1));
+        d.setAttribute("data-i", i);
+        dots.appendChild(d);
+      }
+
+      var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+      function goTo(n) {
+        n = Math.max(0, Math.min(cells.length - 1, n));
+        gal.scrollTo({ left: cells[n].offsetLeft - gal.offsetLeft, behavior: still ? "auto" : "smooth" });
+      }
+      function current() {
+        var best = 0, min = Infinity, x = gal.scrollLeft, k, dd;
+        for (k = 0; k < cells.length; k++) {
+          dd = Math.abs((cells[k].offsetLeft - gal.offsetLeft) - x);
+          if (dd < min) { min = dd; best = k; }
+        }
+        return best;
+      }
+      function sync() {
+        var at = current(), k;
+        for (k = 0; k < dots.children.length; k++) {
+          dots.children[k].setAttribute("aria-current", k === at ? "true" : "false");
+        }
+        prev.disabled = gal.scrollLeft <= 2;
+        next.disabled = gal.scrollLeft + gal.clientWidth >= gal.scrollWidth - 2;
+      }
+
+      prev.addEventListener("click", function () { goTo(current() - 1); });
+      next.addEventListener("click", function () { goTo(current() + 1); });
+      dots.addEventListener("click", function (e) {
+        var b = e.target.closest("button[data-i]");
+        if (b) goTo(parseInt(b.getAttribute("data-i"), 10));
+      });
+      gal.addEventListener("scroll", sync, { passive: true });
+      window.addEventListener("resize", sync);
+      sync();
+    })();
+    </script>
   </div>
 </section>
 
