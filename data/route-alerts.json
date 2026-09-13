@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-09-13T02:15:11.195+05:30",
+  "checked_at": "2026-09-14T02:15:12.370+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260911-usa-dhs-proposes-ending-60-day-h-1b-grac",
+      "id": "20260911-usa-us-proposes-ending-60-day-h-1b-grace",
       "date": "2026-09-11",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "DHS proposes ending 60-day H-1B grace period",
-      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, affecting employment transition rules.",
+      "title": "US proposes ending 60-day H-1B grace period",
+      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders after job loss, affecting Indian skilled workers.",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
     },
@@ -20,9 +20,20 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial requirement rises from November 30",
-      "summary": "The UK reported an increase to student visa financial requirements effective November 30, 2026, affecting international student applicants.",
+      "summary": "The UK reported an increase to the student visa financial requirement effective November 30, 2026, affecting Indian student applicants.",
       "source": "KollegeApply News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
+    },
+    {
+      "id": "20260911-usa-us-proposes-scrapping-60-day-grace-p",
+      "date": "2026-09-11",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US proposes scrapping 60-day grace period for H-1B workers",
+      "summary": "The US proposed eliminating the 60-day grace period for H-1B visa holders following job loss, impacting Indian skilled workers on temporary visas.",
+      "source": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUTNPZ3A4SkV6OXZMb3FqX3hraTlaNXNrZnRwWDkzMXhlQTcxMjMtbUlIa2xSUXZzT09LZEV2WmZ4cUNNSW1IWGlHNExfaVJ3UjYtTGZOSGp1Q1Z6UUx5aUxwODlycnQ0ZV91YU5WcDBqcm95SXUzYTd0bnU3S2V2Q0VBV3JFMmYxRk5paUZKbjVMenN6ZXl3OGRSSDM5NjNfZTlCMnkyNjB3WTZqQVQ2blQ0Ym5vVTJuWmdtQ205Q2JjeDFYeDBPUkxvQmUxbzJkOW9xdk5PdmV3c3g5amfSAeQBQVVfeXFMUHFNd0RaSW45b093NmhXNlc3cGkyUkFXRG9SZHZ4c2UwSFgxcEFfbzJPeGFvOG0taG93YnNzSGRJYzNsLUNFdTVaTlhwR2lHZUZncDJNcUM2Y1VqSHJsWXl0dnVKakhpSVZvMldzWlpnV0R0bWxQalpldEE3Xy13WUw1VlBzOWxld3R5Y0VzUVEtaEpzX3VnbzJ1cEFKVlpHdXlubERzMmM2NXA0Q0tjOVNBXzVQWEdJOTlEbkdIZ2V0MVZuNE9GbHJQZmpXM0NxTUlzOWFHZGxSbDBlRHJtRFZYV1pf?oc=5"
     },
     {
       "id": "20260910-canada-canada-allows-temporary-workers-to-s",
@@ -31,19 +42,19 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada allows temporary workers to study 6 months without permit",
-      "summary": "Canada reported a new rule permitting temporary workers to study for up to 6 months without requiring a separate study permit.",
+      "summary": "Canada reported a new rule permitting temporary workers to study for up to six months without requiring a study permit, creating a pathway for Indian workers.",
       "source": "Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaFF0SEFBNTExWnNNOTZ0WHdySWtOR2VEaWhQZnhudTBlN0Y2RW5kSmhISGZBMTIyd3pmT0lUbGpCUWo4QmxLbE5fc09tYWRmeHphcm9ubVdzSUJhS1JvM2lYcFUwS3lTZGt3WERBRkVNcWZtOExKYlpiZTdoNHN1Wk9BLTZfVFdUR2lNNks3X3ZYQ1h1aWFGeHlkSWtXX3JaeUJ4QXlwRXRGbHM2bnpxblBLQ3EyVnZ6a0trbTVJbTRwdEJpUDRGenFOYkJfM1V1dWF0RGo4b04wUnBYckl4dnpreUVMR3FrMUNQZ2NiazkxMV94YkRIeng5RzZadVHSAYQCQVVfeXFMTWNMUk1kVWdzcm9xOGJWRklpV05nZWdSWHJoNC1xbklFaVNRMGNiVzczT2piZkZQRzBTYVVTRUxhX3JsRi1xaTBLQTJsZThmU3JTTVFNSTV2VGlPQ21ya3daeDg3VnB2akY1OGowSTk0Q0FiWHlHTkpFOHpIU1J6Z0tyWU94YnlhcEkyWEFjaVM2S051bXY0cWVyUDNmTmRlQWJneGVqUlQ1eXVwbUVJcUFaaVlJSHBTVEdVTWRfaVdWa0xEWTc5VUpHaG54bmFvR05tYXJkcEdMYkYwUUJOSXZPMkI4V0pkQ1VYQVA0VUZjc3laX004dTFYdmxjdWZaRU5hdzc?oc=5"
     },
     {
-      "id": "20260908-canada-canada-study-permit-higher-funds-req",
+      "id": "20260908-canada-canada-study-permit-changes-2026-hig",
       "date": "2026-09-08",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada study permit: Higher funds requirement and tighter scrutiny",
-      "summary": "Canada reported higher financial requirements and increased scrutiny for study permit applicants in 2026, along with new norms for international students.",
-      "source": "The Indian Express",
+      "kind": "Rule change",
+      "title": "Canada study permit changes 2026: Higher funds and tighter scrutiny",
+      "summary": "Canada reported changes to study permit requirements for 2026, including higher financial thresholds and increased scrutiny of applications, affecting international students including those from India.",
+      "source": "indianexpress.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZGRCbnNWbjRwWUNQY05pRVZsc0s4NFF2R216aTV2THJwYmhKOGk5R2JjWFUzWnZ4NktGeUtydXowZ1hSZU5HLXVrRnZRTHNVclA4dDJGbzBEaVF2RERad3A1aVU2U1dOZm1fanpkYmR1NWM3a1ZNSEJycHdzZ3hMWlVXOXYtaDJOWWVEczN1aUJRbWNGa3pHZzhWcEZKVU5GSjkzQm5Ua0FRLVh1LUFnMmR3UmRIUWFUODV1MDNoMHhCQ2pqSnlvUEgybW5XYmIwQk1nUjRiUzlGTEw3a1UybkF5QmdDVUFqdEN0ZNIB8wFBVV95cUxObU94UExaS0NqWW93bmRxLW0ydDc2QjdtMkZiNmo3bTFPWUxHUXJiaVdXdHhKZ3BzWUI5SlZUaFBIdWlSZ2QwamVudEtyUFBWVUNpblljR3E0R25RRjJfMDkyVG9YaGlCWk0tNXpHbko5V0tvQ2NFcDRMY1BVU19DX0p3SnJkV2hoQ0pfdFFLV3ZyRmRHUWJnUGpDZEMxLWVrVFMtQ2xJcXU4N0NIc0twd0xTbnh1aVlKck9meTN2clA2ZjVWSEYycmx2aURpeldXUkJKM19ncmpKM2JoZEs4M2tuWWdOdUxrd1AycURtWW1TNUk?oc=5"
     },
     {
