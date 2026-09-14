@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-09-14T02:15:12.370+05:30",
+  "checked_at": "2026-09-15T02:15:11.925+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260911-usa-us-proposes-ending-60-day-h-1b-grace",
+      "id": "20260911-usa-dhs-proposes-ending-60-day-h-1b-grac",
       "date": "2026-09-11",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "US proposes ending 60-day H-1B grace period",
-      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders after job loss, affecting Indian skilled workers.",
+      "title": "DHS proposes ending 60-day H-1B grace period",
+      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, changing employment transition rules for this visa category.",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
     },
@@ -20,9 +20,20 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial requirement rises from November 30",
-      "summary": "The UK reported an increase to the student visa financial requirement effective November 30, 2026, affecting Indian student applicants.",
+      "summary": "The UK reported an increase to the financial requirement for student visas, effective November 30, 2026. The new threshold applies to international student applicants.",
       "source": "KollegeApply News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
+    },
+    {
+      "id": "20260911-usa-us-f-1-j-1-visa-rules-change-septemb",
+      "date": "2026-09-11",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US F-1 J-1 visa rules change September 15, 2026",
+      "summary": "The United States reported changes to F-1 and J-1 visa rules taking effect September 15, 2026, affecting student and exchange visitor visa categories.",
+      "source": "KollegeApply News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1pWTEtDT1VoUFBCMHpfQU9mN0ZmR0JkbDQtRG5TTS1wTDRvTEIxQldIVi15dWVjZmpoWF8wVldEWlBUN2N3SWFFeElVV2EwWHlnN01odlJkbENJdDIwQ1Ywa3Uxa0dtMXFyT2R4RTJZRWJmczJwRi1UaEluQWpJN0NJek1jaGFuMFZUTHhKU1lZX1E?oc=5"
     },
     {
       "id": "20260911-usa-us-proposes-scrapping-60-day-grace-p",
@@ -42,7 +53,7 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada allows temporary workers to study 6 months without permit",
-      "summary": "Canada reported a new rule permitting temporary workers to study for up to six months without requiring a study permit, creating a pathway for Indian workers.",
+      "summary": "Canada reported a new rule permitting temporary workers to study for up to 6 months without requiring a separate study permit, expanding eligibility for this category.",
       "source": "Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaFF0SEFBNTExWnNNOTZ0WHdySWtOR2VEaWhQZnhudTBlN0Y2RW5kSmhISGZBMTIyd3pmT0lUbGpCUWo4QmxLbE5fc09tYWRmeHphcm9ubVdzSUJhS1JvM2lYcFUwS3lTZGt3WERBRkVNcWZtOExKYlpiZTdoNHN1Wk9BLTZfVFdUR2lNNks3X3ZYQ1h1aWFGeHlkSWtXX3JaeUJ4QXlwRXRGbHM2bnpxblBLQ3EyVnZ6a0trbTVJbTRwdEJpUDRGenFOYkJfM1V1dWF0RGo4b04wUnBYckl4dnpreUVMR3FrMUNQZ2NiazkxMV94YkRIeng5RzZadVHSAYQCQVVfeXFMTWNMUk1kVWdzcm9xOGJWRklpV05nZWdSWHJoNC1xbklFaVNRMGNiVzczT2piZkZQRzBTYVVTRUxhX3JsRi1xaTBLQTJsZThmU3JTTVFNSTV2VGlPQ21ya3daeDg3VnB2akY1OGowSTk0Q0FiWHlHTkpFOHpIU1J6Z0tyWU94YnlhcEkyWEFjaVM2S051bXY0cWVyUDNmTmRlQWJneGVqUlQ1eXVwbUVJcUFaaVlJSHBTVEdVTWRfaVdWa0xEWTc5VUpHaG54bmFvR05tYXJkcEdMYkYwUUJOSXZPMkI4V0pkQ1VYQVA0VUZjc3laX004dTFYdmxjdWZaRU5hdzc?oc=5"
     },
@@ -53,8 +64,8 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada study permit changes 2026: Higher funds and tighter scrutiny",
-      "summary": "Canada reported changes to study permit requirements for 2026, including higher financial thresholds and increased scrutiny of applications, affecting international students including those from India.",
-      "source": "indianexpress.com",
+      "summary": "Canada reported changes to study permit requirements for 2026, including higher financial thresholds and increased scrutiny of applications. New norms for international students are being implemented.",
+      "source": "The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZGRCbnNWbjRwWUNQY05pRVZsc0s4NFF2R216aTV2THJwYmhKOGk5R2JjWFUzWnZ4NktGeUtydXowZ1hSZU5HLXVrRnZRTHNVclA4dDJGbzBEaVF2RERad3A1aVU2U1dOZm1fanpkYmR1NWM3a1ZNSEJycHdzZ3hMWlVXOXYtaDJOWWVEczN1aUJRbWNGa3pHZzhWcEZKVU5GSjkzQm5Ua0FRLVh1LUFnMmR3UmRIUWFUODV1MDNoMHhCQ2pqSnlvUEgybW5XYmIwQk1nUjRiUzlGTEw3a1UybkF5QmdDVUFqdEN0ZNIB8wFBVV95cUxObU94UExaS0NqWW93bmRxLW0ydDc2QjdtMkZiNmo3bTFPWUxHUXJiaVdXdHhKZ3BzWUI5SlZUaFBIdWlSZ2QwamVudEtyUFBWVUNpblljR3E0R25RRjJfMDkyVG9YaGlCWk0tNXpHbko5V0tvQ2NFcDRMY1BVU19DX0p3SnJkV2hoQ0pfdFFLV3ZyRmRHUWJnUGpDZEMxLWVrVFMtQ2xJcXU4N0NIc0twd0xTbnh1aVlKck9meTN2clA2ZjVWSEYycmx2aURpeldXUkJKM19ncmpKM2JoZEs4M2tuWWdOdUxrd1AycURtWW1TNUk?oc=5"
     },
     {
