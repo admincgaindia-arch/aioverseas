@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-15T02:15:11.925+05:30",
+  "checked_at": "2026-09-16T02:15:10.676+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "usa",
       "kind": "Rule change",
       "title": "DHS proposes ending 60-day H-1B grace period",
-      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, changing employment transition rules for this visa category.",
+      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, affecting work authorization rules for Indian professionals.",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
     },
@@ -20,7 +20,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial requirement rises from November 30",
-      "summary": "The UK reported an increase to the financial requirement for student visas, effective November 30, 2026. The new threshold applies to international student applicants.",
+      "summary": "The UK reported an increase to student visa financial requirements effective November 30, 2026, raising the threshold for Indian applicants.",
       "source": "KollegeApply News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
     },
@@ -53,9 +53,20 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada allows temporary workers to study 6 months without permit",
-      "summary": "Canada reported a new rule permitting temporary workers to study for up to 6 months without requiring a separate study permit, expanding eligibility for this category.",
+      "summary": "Canada reported a new rule permitting temporary workers to study for up to 6 months without requiring a separate study permit, expanding eligibility for Indian applicants.",
       "source": "Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaFF0SEFBNTExWnNNOTZ0WHdySWtOR2VEaWhQZnhudTBlN0Y2RW5kSmhISGZBMTIyd3pmT0lUbGpCUWo4QmxLbE5fc09tYWRmeHphcm9ubVdzSUJhS1JvM2lYcFUwS3lTZGt3WERBRkVNcWZtOExKYlpiZTdoNHN1Wk9BLTZfVFdUR2lNNks3X3ZYQ1h1aWFGeHlkSWtXX3JaeUJ4QXlwRXRGbHM2bnpxblBLQ3EyVnZ6a0trbTVJbTRwdEJpUDRGenFOYkJfM1V1dWF0RGo4b04wUnBYckl4dnpreUVMR3FrMUNQZ2NiazkxMV94YkRIeng5RzZadVHSAYQCQVVfeXFMTWNMUk1kVWdzcm9xOGJWRklpV05nZWdSWHJoNC1xbklFaVNRMGNiVzczT2piZkZQRzBTYVVTRUxhX3JsRi1xaTBLQTJsZThmU3JTTVFNSTV2VGlPQ21ya3daeDg3VnB2akY1OGowSTk0Q0FiWHlHTkpFOHpIU1J6Z0tyWU94YnlhcEkyWEFjaVM2S051bXY0cWVyUDNmTmRlQWJneGVqUlQ1eXVwbUVJcUFaaVlJSHBTVEdVTWRfaVdWa0xEWTc5VUpHaG54bmFvR05tYXJkcEdMYkYwUUJOSXZPMkI4V0pkQ1VYQVA0VUZjc3laX004dTFYdmxjdWZaRU5hdzc?oc=5"
+    },
+    {
+      "id": "20260910-uk-uk-raises-student-visa-financial-req",
+      "date": "2026-09-10",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa financial requirements",
+      "summary": "The UK reported higher financial requirements for international student visas, affecting Indian applicants seeking to study in the country.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlc0SEZFVWhjV1VoYlBzODNPa1Y5WDhxQm82UnBrNDZZNEZpTFl6dGR5QTc4UjRTbXowWXRMRnZWMkdlSnJkYkhSc1JXQzZkVnJLb2ZMN1NuWmFENmdKV1RlX2VmU2JwN0VKcGtxa1VPS2p3YWJHRlk5eVROVl9CUEQ4a25hZDltZDF3NXBFLXVwc3QzXzVnWHhOcGpDT0o4OEl4VEljbUVmVGhV?oc=5"
     },
     {
       "id": "20260908-canada-canada-study-permit-changes-2026-hig",
