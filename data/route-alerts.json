@@ -1,7 +1,40 @@
 {
-  "checked_at": "2026-09-16T02:15:10.676+05:30",
+  "checked_at": "2026-09-17T02:15:12.147+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20260916-canada-canada-study-visa-higher-funds-requi",
+      "date": "2026-09-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Threshold change",
+      "title": "Canada study visa: higher funds requirement from September 1",
+      "summary": "Canada reported that students must demonstrate increased financial resources starting September 1 to qualify for study visas. The specific amount was not disclosed in the headline.",
+      "source": "PTC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTdIBpwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTQ?oc=5"
+    },
+    {
+      "id": "20260916-uk-uk-sets-52-500-salary-floor-for-expa",
+      "date": "2026-09-16",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK sets £52,500 salary floor for expansion worker visa",
+      "summary": "The UK reported establishing a minimum salary threshold of £52,500 for the expansion worker visa category, representing a new eligibility requirement.",
+      "source": "streamlinefeed.co.ke",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVjUHY1VDcyTEVoUGJWLUNQWjFXRVk1eW5Vci1yRkQ5RlpxcHY4eHB5cTZCeE5oRW9zMk82YjN2dDBkeEFNa0t0VXdTTWlNcmhtTU00RWppcnVtalJVLVlObk5VaEVpc1k1YnE1TWhjdmdEWmRlcmR3dFgwWFJCbHFYaldMXzZzdzc4RE13QQ?oc=5"
+    },
+    {
+      "id": "20260911-uk-uk-student-visa-financial-requiremen",
+      "date": "2026-09-11",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK student visa financial requirement rises from November 30",
+      "summary": "The UK reported an increase to the financial requirement for student visa applicants, effective November 30, 2026. The new amount was not specified in the headline.",
+      "source": "KollegeApply News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
+    },
     {
       "id": "20260911-usa-dhs-proposes-ending-60-day-h-1b-grac",
       "date": "2026-09-11",
@@ -12,17 +45,6 @@
       "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, affecting work authorization rules for Indian professionals.",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
-    },
-    {
-      "id": "20260911-uk-uk-student-visa-financial-requiremen",
-      "date": "2026-09-11",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK student visa financial requirement rises from November 30",
-      "summary": "The UK reported an increase to student visa financial requirements effective November 30, 2026, raising the threshold for Indian applicants.",
-      "source": "KollegeApply News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
     },
     {
       "id": "20260911-usa-us-f-1-j-1-visa-rules-change-septemb",
@@ -53,7 +75,7 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada allows temporary workers to study 6 months without permit",
-      "summary": "Canada reported a new rule permitting temporary workers to study for up to 6 months without requiring a separate study permit, expanding eligibility for Indian applicants.",
+      "summary": "Canada reported a new rule permitting temporary workers to pursue studies for up to six months without requiring a separate study permit, effective immediately.",
       "source": "Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaFF0SEFBNTExWnNNOTZ0WHdySWtOR2VEaWhQZnhudTBlN0Y2RW5kSmhISGZBMTIyd3pmT0lUbGpCUWo4QmxLbE5fc09tYWRmeHphcm9ubVdzSUJhS1JvM2lYcFUwS3lTZGt3WERBRkVNcWZtOExKYlpiZTdoNHN1Wk9BLTZfVFdUR2lNNks3X3ZYQ1h1aWFGeHlkSWtXX3JaeUJ4QXlwRXRGbHM2bnpxblBLQ3EyVnZ6a0trbTVJbTRwdEJpUDRGenFOYkJfM1V1dWF0RGo4b04wUnBYckl4dnpreUVMR3FrMUNQZ2NiazkxMV94YkRIeng5RzZadVHSAYQCQVVfeXFMTWNMUk1kVWdzcm9xOGJWRklpV05nZWdSWHJoNC1xbklFaVNRMGNiVzczT2piZkZQRzBTYVVTRUxhX3JsRi1xaTBLQTJsZThmU3JTTVFNSTV2VGlPQ21ya3daeDg3VnB2akY1OGowSTk0Q0FiWHlHTkpFOHpIU1J6Z0tyWU94YnlhcEkyWEFjaVM2S051bXY0cWVyUDNmTmRlQWJneGVqUlQ1eXVwbUVJcUFaaVlJSHBTVEdVTWRfaVdWa0xEWTc5VUpHaG54bmFvR05tYXJkcEdMYkYwUUJOSXZPMkI4V0pkQ1VYQVA0VUZjc3laX004dTFYdmxjdWZaRU5hdzc?oc=5"
     },
