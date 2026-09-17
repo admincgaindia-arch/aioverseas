@@ -1,17 +1,39 @@
 {
-  "checked_at": "2026-09-17T02:15:12.147+05:30",
+  "checked_at": "2026-09-18T02:15:13.253+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260916-canada-canada-study-visa-higher-funds-requi",
+      "id": "20260917-canada-canada-increases-processing-time-for",
+      "date": "2026-09-17",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Timeline change",
+      "title": "Canada increases processing time for student and visitor visas",
+      "summary": "Canada reported increased processing times for student permit and visitor visa applications. The change affects application processing duration for these visa categories.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0lhNGZPS1pIbGRNbWMwekdUU2lYdFFERG9RUDN5blRtY3FFYlJpMTFhOHhpazlpaHc4ck5ydW9yOHA3ZlNVaDhiNmdkYnhRRDhxeUo1Z0dKWWV3ZVZVMV9KNXBVWEZ0cjBUcFdlc2RaVjBHM3ZwQVF2cWJDa0Q5MVVDSUM1aVI2WU5lQ2xsQVJyZUp6aHV3ZzNkNUxHUFNfZ3dmWjBJcXozWEppZVdmSHpXTFA?oc=5"
+    },
+    {
+      "id": "20260916-canada-canada-study-visa-funds-requirement",
+      "date": "2026-09-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada study visa funds requirement increases September 1",
+      "summary": "Canada reported new rules requiring study visa applicants to demonstrate increased financial resources starting September 1, 2026. The change affects proof of funds for student visa eligibility.",
+      "source": "PTC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTdIBpwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTQ?oc=5"
+    },
+    {
+      "id": "20260916-canada-canada-study-visa-financial-requirem",
       "date": "2026-09-16",
       "country": "Canada",
       "slug": "canada",
       "kind": "Threshold change",
-      "title": "Canada study visa: higher funds requirement from September 1",
-      "summary": "Canada reported that students must demonstrate increased financial resources starting September 1 to qualify for study visas. The specific amount was not disclosed in the headline.",
-      "source": "PTC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTdIBpwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTQ?oc=5"
+      "title": "Canada study visa financial requirement set at 1.7 million",
+      "summary": "Canada reported a new financial threshold for study visa applicants requiring demonstration of 1.7 million in funds. This represents an updated proof-of-funds requirement for student visa eligibility.",
+      "source": "True Scoop",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0xUVnppaHhETTZXcWFkcEdtX2xqN0Q2SEFGX3NUV254MFZKak5Yd0laeW5PWkFUQ3EycGRYVXFqTEhjQWZZWHZrOGRJWVI3SkNRMk9lYlIwdXdUTDZVYnRVSmpISkRCV19UXzVxN3Y2Zlp5VDlJeV9HZlN2OE9ZQnhucTBsbV9oS3FnaGhkLVpGLUMxd2RTQnBId2dfM0NQdEhjVG0tQ3BZVFUtWDFGNjNsc01zeGZ4NGFQN2JUeVFfd9IBzwFBVV95cUxQbGlzb3MydDFuMTlULVE5MVBOZWdoTW1XR0xmbHRaeHJ6SUw1aC1hZUI2OWYwUzJqa3VobGFZSlA4YXBrSmQ5UmdTaG1lT21NOUVYYjVZM3NyNVJaVFIxQ1QyMW1ET2J0VDdYZE1SOTMyVHpHTmxNZGlNeGl6Q3FaMjdFYUd2dVVJZ1VqLW9NQUJpNVNHTUxlRkJFbk1zRC1mN1l5ZGRIQlVHYWpaa0FVcnNBdm9CVkFSMVFrMklFdnRzcjNvYnNuOFdHSW5wT1k?oc=5"
     },
     {
       "id": "20260916-uk-uk-sets-52-500-salary-floor-for-expa",
@@ -31,7 +53,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial requirement rises from November 30",
-      "summary": "The UK reported an increase to the financial requirement for student visa applicants, effective November 30, 2026. The new amount was not specified in the headline.",
+      "summary": "UK reported an increase to the student visa financial requirement effective November 30, 2026. The change raises the proof-of-funds threshold for international student visa applicants.",
       "source": "KollegeApply News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
     },
@@ -42,7 +64,7 @@
       "slug": "usa",
       "kind": "Rule change",
       "title": "DHS proposes ending 60-day H-1B grace period",
-      "summary": "The US Department of Homeland Security proposed eliminating the 60-day grace period for H-1B visa holders, affecting work authorization rules for Indian professionals.",
+      "summary": "DHS reported a proposed rule change to eliminate the 60-day grace period for H-1B visa holders. The change would affect work authorization rules for H-1B visa category.",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
     },
