@@ -1,28 +1,50 @@
 {
-  "checked_at": "2026-09-18T02:15:13.253+05:30",
+  "checked_at": "2026-09-19T02:15:12.058+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260917-canada-canada-increases-processing-time-for",
+      "id": "20260917-canada-canada-increases-processing-times-fo",
       "date": "2026-09-17",
       "country": "Canada",
       "slug": "canada",
       "kind": "Timeline change",
-      "title": "Canada increases processing time for student and visitor visas",
-      "summary": "Canada reported increased processing times for student permit and visitor visa applications. The change affects application processing duration for these visa categories.",
+      "title": "Canada increases processing times for student and visitor visas",
+      "summary": "Canada reported increased processing times for student permits and visitor visas, extending the timeline for visa decisions.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0lhNGZPS1pIbGRNbWMwekdUU2lYdFFERG9RUDN5blRtY3FFYlJpMTFhOHhpazlpaHc4ck5ydW9yOHA3ZlNVaDhiNmdkYnhRRDhxeUo1Z0dKWWV3ZVZVMV9KNXBVWEZ0cjBUcFdlc2RaVjBHM3ZwQVF2cWJDa0Q5MVVDSUM1aVI2WU5lQ2xsQVJyZUp6aHV3ZzNkNUxHUFNfZ3dmWjBJcXozWEppZVdmSHpXTFA?oc=5"
     },
     {
-      "id": "20260916-canada-canada-study-visa-funds-requirement",
+      "id": "20260917-australia-australia-bans-student-dependents-in",
+      "date": "2026-09-17",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia bans student dependents, introduces visa extension rules",
+      "summary": "Australia reported new rules banning most student dependents and introducing changes to visa extension eligibility for international students.",
+      "source": "StudyTravel Network",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSkdlV0p4RmNEQXB2R1lSUU96dGEwRXM1SF9qX3g0Q09qWV92ZWNxNHJPbXYwZTduYnk3bFl5aWlmNnJCTjRsZmN1bTRPQ2NuUWRlcDJqa0xMYWtIZXc?oc=5"
+    },
+    {
+      "id": "20260916-canada-canada-study-visa-higher-funds-requi",
       "date": "2026-09-16",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada study visa funds requirement increases September 1",
-      "summary": "Canada reported new rules requiring study visa applicants to demonstrate increased financial resources starting September 1, 2026. The change affects proof of funds for student visa eligibility.",
+      "kind": "Threshold change",
+      "title": "Canada study visa: Higher funds requirement from September 1",
+      "summary": "Canada reported that students must demonstrate increased financial resources starting September 1 to qualify for study visas, raising the funds threshold for applicants.",
       "source": "PTC News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTdIBpwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTQ?oc=5"
+    },
+    {
+      "id": "20260916-canada-canada-study-visa-new-1-7-million-fu",
+      "date": "2026-09-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Threshold change",
+      "title": "Canada study visa: New 1.7 million funds requirement",
+      "summary": "Canada reported new financial requirements for study visa applicants, requiring demonstration of 1.7 million in funds under updated eligibility rules.",
+      "source": "True Scoop",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGlzb3MydDFuMTlULVE5MVBOZWdoTW1XR0xmbHRaeHJ6SUw1aC1hZUI2OWYwUzJqa3VobGFZSlA4YXBrSmQ5UmdTaG1lT21NOUVYYjVZM3NyNVJaVFIxQ1QyMW1ET2J0VDdYZE1SOTMyVHpHTmxNZGlNeGl6Q3FaMjdFYUd2dVVJZ1VqLW9NQUJpNVNHTUxlRkJFbk1zRC1mN1l5ZGRIQlVHYWpaa0FVcnNBdm9CVkFSMVFrMklFdnRzcjNvYnNuOFdHSW5wT1nSAc8BQVVfeXFMUGxpc29zMnQxbjE5VC1ROTFQTmVnaE1tV0dMZmx0WnhyeklMNWgtYWVCNjlmMFMyamt1aGxhWUpQOGFwa0pkOVJnU2htZU9tTTlFWGI1WTNzcjVSWlRSMUNUMjFtRE9idFQ3WGRNUjkzMlR6R05sTWRpTXhpekNxWjI3RWFHdnVVSWdVai1vTUFCaTVTR01MZUZCRW5Nc0QtZjdZeWRkSEJVR2FqWmtBVXJzQXZvQlZBUjFRazJJRXZ0c3Izb2JzbjhXR0lucE9Z?oc=5"
     },
     {
       "id": "20260916-canada-canada-study-visa-financial-requirem",
@@ -45,6 +67,17 @@
       "summary": "The UK reported establishing a minimum salary threshold of £52,500 for the expansion worker visa category, representing a new eligibility requirement.",
       "source": "streamlinefeed.co.ke",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVjUHY1VDcyTEVoUGJWLUNQWjFXRVk1eW5Vci1yRkQ5RlpxcHY4eHB5cTZCeE5oRW9zMk82YjN2dDBkeEFNa0t0VXdTTWlNcmhtTU00RWppcnVtalJVLVlObk5VaEVpc1k1YnE1TWhjdmdEWmRlcmR3dFgwWFJCbHFYaldMXzZzdzc4RE13QQ?oc=5"
+    },
+    {
+      "id": "20260915-usa-us-f-1-visa-rules-change-from-septem",
+      "date": "2026-09-15",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US F-1 visa rules change from September 15, 2026",
+      "summary": "The US reported new F-1 visa rules effective September 15, 2026, affecting international students, OPT, and visa programs.",
+      "source": "Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRTl3U0lvbEZWM2l3dHNGeXVWMG8tX1AwZDN1Q3pySmpPNGFzdUZaOE1xTEtqRkNsVTFtc2Z1cXdxTjZKMWpsendoYkhWcE1PdlFMVjg0ODlxZk1yd2I3aUdCc1JwOXlZTzhnNmwtNm02ai1RVHJKaS1pOFJxUURDNVJ6X3h2Skx1b0NCVmtNRFFXZDVmZVFKRGtaVDBMdEdLdkRPV29sWFRwUnB6NC12NndobElHV0hCWnRYdFd6a20zU05MU3dhTmRKcnowYWx4Z3lPZlpUMldrWXVVbFhpUURIYnROOXRqbmVWb1FjYU1uLUJZREMydlRHdDU2YXVYZTVJd1lDSzJkZURiU2dYemRfUjhWWXFNN0dvd3doWWdHbjd1RTRB0gGsAkFVX3lxTFB5LVUySDNEY1BkRGd2RmJJN2ZUZVhuVE1VWnlsZm5GMU15M1dFdXB1R1pDTTA3c2NZb0pYT0RtZVRHbF9xSVB6Wmp1dlFlM2I2QS01MjQ2RWY2aDgxdVNiTUhRUXNITENYTGJZYlE2c0JJZ0VuUTl1VWg5NTY0aHpiWFpxcUJsb2dsaW93Z2ctYzVnNHhvVFlnZldiWHBpUlhORW9tQXd2SmpyQ3JtOHBvNTFLZXBfNmpzTzR5bHBHZmdPMmJLWG5pWl92T2NpVkVTTkJPdWZXekJtQmxqN01nOUNpc1pZNjNxZjcxbUdjTFJqcHdxeFpZU1FzZzljUVB5X3ExanRocmwzNUp3ZXpiRy0zYm91WUJuelVtRHg4ZWVEeU1zdGNoRnlHdQ?oc=5"
     },
     {
       "id": "20260911-uk-uk-student-visa-financial-requiremen",
