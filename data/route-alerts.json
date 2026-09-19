@@ -1,28 +1,61 @@
 {
-  "checked_at": "2026-09-19T02:15:12.058+05:30",
+  "checked_at": "2026-09-20T02:15:13.294+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260917-canada-canada-increases-processing-times-fo",
+      "id": "20260919-usa-trump-extends-h-1b-visa-fee-for-anot",
+      "date": "2026-09-19",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "Trump extends H-1B visa fee for another year",
+      "summary": "The H-1B visa fee extension was reported to continue for an additional year amid ongoing legal challenges. The fee amount remains at the previously established level.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlg0dEM0Rll5T0JPZGEyZlRUdXlIY0JtUWhkUXNydnVINUx4bHplQ1pFTEU4cGlwdjIzSDZZeTRfc1dPOWZ1SlRkRmkzUlB6YnZHaFVtbk04djRVVUxjZF94dXhabjRma0FYU192QzhOVmtLcnRYU1d4OEFDSkhud2hHVldicHViYXRlS2Nvc3NjVWUwSGhnUTRwWElkMjg?oc=5"
+    },
+    {
+      "id": "20260917-canada-canada-extends-student-and-visitor-v",
       "date": "2026-09-17",
       "country": "Canada",
       "slug": "canada",
       "kind": "Timeline change",
-      "title": "Canada increases processing times for student and visitor visas",
-      "summary": "Canada reported increased processing times for student permits and visitor visas, extending the timeline for visa decisions.",
+      "title": "Canada extends student and visitor visa processing times",
+      "summary": "Canada reported increased processing times for student permits and visitor visas. The exact timeline extension was not specified in the announcement.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0lhNGZPS1pIbGRNbWMwekdUU2lYdFFERG9RUDN5blRtY3FFYlJpMTFhOHhpazlpaHc4ck5ydW9yOHA3ZlNVaDhiNmdkYnhRRDhxeUo1Z0dKWWV3ZVZVMV9KNXBVWEZ0cjBUcFdlc2RaVjBHM3ZwQVF2cWJDa0Q5MVVDSUM1aVI2WU5lQ2xsQVJyZUp6aHV3ZzNkNUxHUFNfZ3dmWjBJcXozWEppZVdmSHpXTFA?oc=5"
     },
     {
-      "id": "20260917-australia-australia-bans-student-dependents-in",
+      "id": "20260917-australia-australia-restricts-family-and-partn",
       "date": "2026-09-17",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia bans student dependents, introduces visa extension rules",
-      "summary": "Australia reported new rules banning most student dependents and introducing changes to visa extension eligibility for international students.",
+      "title": "Australia restricts family and partner visas for students",
+      "summary": "Australia reported tightened study visa rules restricting most students from bringing family members and partners. The eligibility criteria for dependent visas have been modified.",
+      "source": "hindustantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUVlkZXlVamxYZnl3VEhUWWtQLU1WSjByZkEyMEY1YnRocHJ1WVBFU3dGQzJJLTFwcFhueTdzTlNnSmwzdzY3LWxMS2Vna1lzNENHZFZzQ2Y4aXp5cmhvR2h0cHRNMXdqMXJwUEdZWFNxMTBlWHdKYjBoVXJUS01KRU1lNWRNMUVqZVVNQXFHSTlSSnVoOWxsS183OE1udHJNT1h0c2QyY3NGMkNOaUctZUF3dWUyZGxzMWF5d3hnTlFVSmIwRVVNb19zaEE1QVVTTmNibGY4emVhTTIydU9IS3RHLUdROExZMHg1M0pVTy14LUxlV1EzU1d5SGI1MDl50gGGAkFVX3lxTE1od2VZUG4zbG5wS2tMTk9PLTBYRmdYSTllV0hYa0F3bkoxeGJqZmRzQjZRVVBVYTY1Unp1ZTlheDZzblN1cUlLZDU0ZDZxc3RhM3I2SS0wNW4xX042dzNGMnJweWtPS2l6LVJ3Z2d3eGtZN3paekhkWGlfMWVsNTVNUE9iWUhwNWZnLXFNTC1WdkhzV2lIYXFDSUVXdXJkcHVqV2FIR2laQUo0SGJKUE5BT1RWSlFxX2Vob0tZMHBhZEVqYXg0djVFSjhtOVc1b3d1YjdJLThPeU93UFNPUHdTX3dHS0trQ1dQbTc0VE9uV0dmUHc1NWxxNEdGZ3lkM2VQWmtveHc?oc=5"
+    },
+    {
+      "id": "20260917-australia-australia-bans-student-dependents-an",
+      "date": "2026-09-17",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia bans student dependents and changes extensions",
+      "summary": "Australia reported new rules banning student dependents and introducing modified visa extension procedures. The changes affect eligibility for family member sponsorship.",
       "source": "StudyTravel Network",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSkdlV0p4RmNEQXB2R1lSUU96dGEwRXM1SF9qX3g0Q09qWV92ZWNxNHJPbXYwZTduYnk3bFl5aWlmNnJCTjRsZmN1bTRPQ2NuUWRlcDJqa0xMYWtIZXc?oc=5"
+    },
+    {
+      "id": "20260916-canada-canada-study-visa-funds-requirement",
+      "date": "2026-09-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Threshold change",
+      "title": "Canada study visa funds requirement increases",
+      "summary": "Canada reported a change to study visa financial requirements effective September 1. Students must now demonstrate higher funds to qualify for study permits under the new rule.",
+      "source": "ptcnews.tv",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHcyTUVDUDNTdm81ZDE0dVJhQk5GNVFDVENXZXZ1T0dYMjAzV1E5S2lGTWN4LV9sOFU1c08zN3FyRzJIZGstS09JbHhfWlc0aHN0MERqMDVocVI3US1VQ3h2TEo4X0YzMXdkY0h6WkhNSzIyQ0NWMDJSTG5Rb2NOUmhmbTVBd0hBckQ0YVFtczl2UnotdmdXVFdUNXowem04NFHSAacBQVVfeXFMTmk4Y1pxWmZIcnBoME9vR1ZDS3pkaWZVRi11WUNHRVhLckNyaC1UZWo4ODlvRWh1clF5NkJoYVVrTWZFZmdJM0xMQTRKak1iRXl6ZzN3eldaclB2RnZsck1XNnBfeTYwZHVGVlFTZGZQNHlFcHRmOFg0cFhEZXYtODlmeUpwX0J5ZDIzbHFjU0ZzcXNmTG9mNUNfbFVDRnVvRWs1VXEzMU0?oc=5"
     },
     {
       "id": "20260916-canada-canada-study-visa-higher-funds-requi",
