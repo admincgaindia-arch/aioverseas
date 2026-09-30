@@ -1,7 +1,73 @@
 {
-  "checked_at": "2026-10-01T00:40:23.977+05:30",
+  "checked_at": "2026-10-01T02:15:12.295+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20260930-usa-us-h-1b-selection-shifts-to-wage-bas",
+      "date": "2026-09-30",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US H-1B selection shifts to wage-based system",
+      "summary": "The US H-1B visa lottery reported a change from October 1 to a wage-based selection system, replacing the previous random draw mechanism. This affects Indian workers applying for H-1B visas.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVThFb2Y5eEJnNGpYSW1xcmhfbUtKalUxeE1VT21lSHI3UnlNdTQxdXcySkZwNUozNWI4YkgxYk5NS3pOTUFvNEpSTjV3b01zWjNIVGVuZGU4U05oci1hYWZfRUZlVjJJSk93QmpxNmtzcFBLYjBMSk5mSlV3ajRKclpwaV85MTlkQUpzaFNMU0VEYlM4Yk40UFh0YXRhTXRob3FwUjBWTE5rZkxFcFpCZkw1R0M3Vnl1bWl1NVE3ZVhMTTF0ZzUyYmg1Qm4wQVlLLU9IcHNpdXBHZnlHVE9SMTIyYUo0VjFXaElvX3RFU1c3QmV3aUYwU0t4dk9FY0picDlzbjFCbEZPY1d00gGGAkFVX3lxTE1EaTl1b1FWcDJvRU1VMVdOWWxPaEZGTnlyOWF5aVF2eHY4QnVxRU4yVEZPeUNsN0x2SktOWFB1RmM4cXdNY1RKdW53SGUtVS1SMFVpWlhpZzlWNnY1d3kxZ2xSOWpIa3FxekZaSjBoWVBQR2NNanhLUTRwbm5DTDFjNUNnTm91S1dFSlg1VTJGLW85SHg5T2k3cnFaQmt0ZXZPUVg3ZkY4UUFlZUJlZmktTXdURTBKTUZ2WlZ1XzBRU01RTUVTa0ZYZ1MxRExrSGk5N09ONEdwTzN5V0RSWDRJbXFPWjhIR3VnY2EzYnhzOHFhSmhlTDFWa0JRZjBHbnlkNVVDTHc?oc=5"
+    },
+    {
+      "id": "20260930-uk-uk-family-residency-and-visa-rules-c",
+      "date": "2026-09-30",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK family residency and visa rules change October 1",
+      "summary": "The UK reported new family residency rules and visa updates effective October 1, 2026. Fee increases were also reported for UK and other destinations, though specific amounts are not stated.",
+      "source": "The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSXRIZ3VYMmlwNmVucXZOQ2RMVDd6SGZTdUpwVnhOTWxTM0lhamo4Y3ZxYnVmUXlOZXYxZVFfYUZHS1I0M2ZDVmVqQmNUUFJfbmpLbDdpeHQ0V1B3d2I4M18zLTRPcmRlZjhraDJ4QnRUX1ZMd21XZzh1MHdCMlByV05kWkpEY3NJTEptamd5MTRrS0RDRU9RRkFTRDNaT0JhQW1RYUcwdDFlaGUyMjZKMkxMNFlyQzY3WlhtNEJBb2ZoVkVOX2hCb3U5Ql9wUGlaZmVjV0VfcWg3bFFUcWdHUFZ0MXVmNUhNUUhwdXhJUmdFUFllYnNXQlNuUzFIX1BabjZCaVBLRFFIRVR6ZkdtQVRRTEZTQ1phN3pWSnBwSUtVZ9IBpwJBVV95cUxNWXlfLVZkLWMzaEUyYjRMSTE4RzMzTWo0dWdVWXdtU0hJNEtZS0NUcHktQmtEWVZaSTIzV05kSUFJZ0lMc0pXX0QzTnBocjBLaUVCYVlveVpsYmpnaF9wOUZzWm5YV3QzRl9TV29KWndlZV9uNnU0Z0R2MERhdExTZU03YmhJcktQYkJoOTAyMDc1THAwUm45TFZ3ZndGWXdYYjRyRldjVTRTY3lZLUllbll4SnRBb1otMlhSVlhVa254bTZVMVEwazhOMENSLXBSRjEycTdJMGloeHhkcnpNYkcyM18yNnYtQmticGpwQ1RaWkpaMnRLZkxoZ3hTeFUwOUlKak5Lb1lQMUF2bVBvNW1ZTVJYWmFsQU5MMVVkcDZjUVR5MDFJ?oc=5"
+    },
+    {
+      "id": "20260930-uk-uk-removes-stay-limit-for-religious",
+      "date": "2026-09-30",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK removes stay limit for religious worker visa",
+      "summary": "The UK reported changes to religious worker visa rules, removing the previous limit on how long ministers can stay in the country. This represents a rule relaxation for eligible workers.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
+    },
+    {
+      "id": "20260929-uk-uk-eases-immigration-for-erasmus-vis",
+      "date": "2026-09-29",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK eases immigration for Erasmus+ visitors",
+      "summary": "The UK reported eased immigration rules for Erasmus+ visitors effective October 8, affecting Indian students. The specific rule relaxations are not detailed in the headline.",
+      "source": "The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOd9IB-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOdw?oc=5"
+    },
+    {
+      "id": "20260925-canada-canada-waives-visa-fee-for-visitor-c",
+      "date": "2026-09-25",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Fee change",
+      "title": "Canada waives visa fee for visitor category",
+      "summary": "Canada reported a visa fee waiver for a category of visitors. The specific visitor category is not detailed in the headline, but the fee elimination represents a policy change affecting travel to Canada.",
+      "source": "Yen.com.gh",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTl0ektiT0FLa2tfM2xIckdDTXF6eGFMS0o0cGVSdkM5Y3ZwbW9fY2FxZVFzZ19WSmZRWFItbk5hcnpCQ2Q0eVo0OEJZLVRGZTlRMTkySWlDbnZxYXgtYU9OYi01TE1KU2tLczBsM2Juek84UDd1cUszLTRTaE1UUHl4UEo5cUMtMTE3ZzVONUV0TUV0WXAwWWVvSy1kb0NOZHBiNC04UGI?oc=5"
+    },
+    {
+      "id": "20260925-australia-australia-student-visa-rules-on-fami",
+      "date": "2026-09-25",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia student visa rules on family and stay",
+      "summary": "Australia reported new rules for student visas affecting family sponsorship and length of stay. The specific rule modifications are not detailed in the headline but represent confirmed policy changes.",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERseFUyYjdwS3otU1dJWnVOSTR0MVhodHZqMlR2dWpfd1ZpSGxyVVVycWR0WUlOMEg1VFNCSDZKcDQ4TVNQVXR1a2dISTlQakJ0aXMxZE1yUFh5d0QzZVhCcC1uN1psMXpBWm5WXzVZT1ByU0VuVUxPT0pXSzVPT0JFVGg5VWFjam9OYk5WZGhLRVZnQUJBMGFCYnI3MVRJWndKUlJjWndQaTFzYUlYZFZHc3pNajNmbXhzOTVuY2QzQU4xMlRTdHdxenRmaVpR0gHWAUFVX3lxTE01MTZuWjY2UzJ3cGtNWEIxUWNjQkpQTjlVb3BHUktSTEMxY3NpRnFjVE92OTdCNjNsYmZDcDRUbi1pVWQtMGd4YTlaS2JheGpVTVlhZTlhYXNfSjYwalpGLWNYZFZCM25JSVMxNlBxMHFKdGxJLVRsblJudzV3TlFtNmplYkZhQkthRHdiVDJlZHJQNXU0NXpuZFVnLUVGMXlxYmdIY0tmY1JjcXhDTDFxbndjR2hCRXFnaF9UekUwOFM4M01OcVFxYUFqNHZTeXh2THJrdUE?oc=5"
+    },
     {
       "id": "20260919-usa-trump-extends-h-1b-visa-fee-for-anot",
       "date": "2026-09-19",
