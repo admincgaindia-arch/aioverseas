@@ -1,17 +1,50 @@
 {
-  "checked_at": "2026-10-02T02:15:12.835+05:30",
+  "checked_at": "2026-10-03T02:15:11.285+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20260930-usa-us-h-1b-selection-shifts-to-wage-bas",
+      "id": "20261002-canada-canada-fee-waiver-for-parents-on-fam",
+      "date": "2026-10-02",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Fee change",
+      "title": "Canada fee waiver for parents on family visa",
+      "summary": "Canada reported a fee waiver for certain parents seeking long-term family visas, reducing or eliminating application costs for eligible applicants.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmV1Z1dFVXB4eDNTelR3OFFYTjNJbURRU0lIdkNOaGVuV1BEdjB3OS1NUVdaQ25nbWhFY3YtSXNzNlE5andpdV9FQk9OUUFxYzFyLUtqSlVwNmJoZWYxd1cwdzBPSnZxeDFxb2s2TVV5U3Y3S2s5OXdUMHNoblJuNVAya2hMYU15NEJsVzJrV2hjdldnM2QwejFIYXB1ZXpLVjVwTA?oc=5"
+    },
+    {
+      "id": "20260930-usa-h-1b-lottery-shifts-to-wage-based-se",
       "date": "2026-09-30",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "US H-1B selection shifts to wage-based system from October 1",
-      "summary": "The US reported changing H-1B visa lottery selection from October 1 to a wage-based system, affecting Indian workers applying for this visa category.",
+      "title": "H-1B lottery shifts to wage-based selection",
+      "summary": "US H-1B visa selection system changed from October 1 to a wage-based model instead of random lottery, affecting Indian worker eligibility and selection criteria.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVThFb2Y5eEJnNGpYSW1xcmhfbUtKalUxeE1VT21lSHI3UnlNdTQxdXcySkZwNUozNWI4YkgxYk5NS3pOTUFvNEpSTjV3b01zWjNIVGVuZGU4U05oci1hYWZfRUZlVjJJSk93QmpxNmtzcFBLYjBMSk5mSlV3ajRKclpwaV85MTlkQUpzaFNMU0VEYlM4Yk40UFh0YXRhTXRob3FwUjBWTE5rZkxFcFpCZkw1R0M3Vnl1bWl1NVE3ZVhMTTF0ZzUyYmg1Qm4wQVlLLU9IcHNpdXBHZnlHVE9SMTIyYUo0VjFXaElvX3RFU1c3QmV3aUYwU0t4dk9FY0picDlzbjFCbEZPY1d00gGGAkFVX3lxTE1EaTl1b1FWcDJvRU1VMVdOWWxPaEZGTnlyOWF5aVF2eHY4QnVxRU4yVEZPeUNsN0x2SktOWFB1RmM4cXdNY1RKdW53SGUtVS1SMFVpWlhpZzlWNnY1d3kxZ2xSOWpIa3FxekZaSjBoWVBQR2NNanhLUTRwbm5DTDFjNUNnTm91S1dFSlg1VTJGLW85SHg5T2k3cnFaQmt0ZXZPUVg3ZkY4UUFlZUJlZmktTXdURTBKTUZ2WlZ1XzBRU01RTUVTa0ZYZ1MxRExrSGk5N09ONEdwTzN5V0RSWDRJbXFPWjhIR3VnY2EzYnhzOHFhSmhlTDFWa0JRZjBHbnlkNVVDTHc?oc=5"
+    },
+    {
+      "id": "20260930-uk-uk-removes-stay-limit-for-religious",
+      "date": "2026-09-30",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK removes stay limit for religious workers",
+      "summary": "UK changed religious worker visa rules by removing the duration limit on how long ministers and religious workers can remain in the country.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
+    },
+    {
+      "id": "20260930-uk-uk-raises-permanent-residency-thresh",
+      "date": "2026-09-30",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises permanent residency threshold",
+      "summary": "UK toughened permanent residency rules by announcing a higher threshold for applicants seeking long-term settlement status.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHBBY084ZEUtLUpZalQwb1RHdFZJenRyVlctcEQyZUQ0M0NwU3BrZHpfd1dGNGdQMExBeUgtdnVsUUVaNW9oc1ZhWWFYZEg2MEsyMGlxMU1HOUc3Q2w3OGRfNW1zTkwwZ093M24zSXhUaHk1MXJGVlREeDlmOE5oQ1NyQkhTRTlhS1lWc2hENXF3elZxcDJCa3I0bU10Wkw4UUZqRTd6M0lPOXprN2c?oc=5"
     },
     {
       "id": "20260930-uk-uk-implements-new-family-residency-a",
@@ -23,17 +56,6 @@
       "summary": "The UK reported new family residency rules and visa updates effective October 1, 2026, affecting migrants including those from India.",
       "source": "The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSXRIZ3VYMmlwNmVucXZOQ2RMVDd6SGZTdUpwVnhOTWxTM0lhamo4Y3ZxYnVmUXlOZXYxZVFfYUZHS1I0M2ZDVmVqQmNUUFJfbmpLbDdpeHQ0V1B3d2I4M18zLTRPcmRlZjhraDJ4QnRUX1ZMd21XZzh1MHdCMlByV05kWkpEY3NJTEptamd5MTRrS0RDRU9RRkFTRDNaT0JhQW1RYUcwdDFlaGUyMjZKMkxMNFlyQzY3WlhtNEJBb2ZoVkVOX2hCb3U5Ql9wUGlaZmVjV0VfcWg3bFFUcWdHUFZ0MXVmNUhNUUhwdXhJUmdFUFllYnNXQlNuUzFIX1BabjZCaVBLRFFIRVR6ZkdtQVRRTEZTQ1phN3pWSnBwSUtVZ9IBpwJBVV95cUxNWXlfLVZkLWMzaEUyYjRMSTE4RzMzTWo0dWdVWXdtU0hJNEtZS0NUcHktQmtEWVZaSTIzV05kSUFJZ0lMc0pXX0QzTnBocjBLaUVCYVlveVpsYmpnaF9wOUZzWm5YV3QzRl9TV29KWndlZV9uNnU0Z0R2MERhdExTZU03YmhJcktQYkJoOTAyMDc1THAwUm45TFZ3ZndGWXdYYjRyRldjVTRTY3lZLUllbll4SnRBb1otMlhSVlhVa254bTZVMVEwazhOMENSLXBSRjEycTdJMGloeHhkcnpNYkcyM18yNnYtQmticGpwQ1RaWkpaMnRLZkxoZ3hTeFUwOUlKak5Lb1lQMUF2bVBvNW1ZTVJYWmFsQU5MMVVkcDZjUVR5MDFJ?oc=5"
-    },
-    {
-      "id": "20260930-uk-uk-removes-stay-limit-for-religious",
-      "date": "2026-09-30",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK removes stay limit for religious workers on visa",
-      "summary": "The UK reported changing religious worker visa rules by removing the duration limit on how long ministers can stay in the country.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
     },
     {
       "id": "20260930-uk-uk-raises-english-language-requireme",
@@ -58,13 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOd9IB-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOdw?oc=5"
     },
     {
-      "id": "20260927-canada-canada-waives-citizenship-applicatio",
+      "id": "20260927-canada-canada-citizenship-fee-waiver-for-el",
       "date": "2026-09-27",
       "country": "Canada",
       "slug": "canada",
       "kind": "Fee change",
-      "title": "Canada waives citizenship application fee for certain categories",
-      "summary": "Canada reported it will waive the application fee for specific categories of people applying for Canadian citizenship, effective immediately.",
+      "title": "Canada citizenship fee waiver for eligible categories",
+      "summary": "Canada announced fee-free citizenship applications for certain categories of people, eliminating processing fees for qualifying applicants.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1I2Z21vbjJ5VVhLRVFHelI1Z1dnSlN1a0hlQ3JqbXJ6ek01ZTJSWEE2al9YTHlFOWs3WWtNWlFWOW5nQmY1Qk8wZHV5blkwblExZk9pSzNlTUlEN0ZVWTlnYkVRcE5EOHBNZTZCVlBfazJzTFhVeXpVSWhDLWYyazFwNVI3TnNPODRyUmlqQnhacnRiMXpfN1Fsa1dPOW9EMXlENjFtdW9pZFQ4?oc=5"
     },
