@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T02:15:11.285+05:30",
+  "checked_at": "2026-10-04T02:15:10.595+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -19,21 +19,32 @@
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "H-1B lottery shifts to wage-based selection",
-      "summary": "US H-1B visa selection system changed from October 1 to a wage-based model instead of random lottery, affecting Indian worker eligibility and selection criteria.",
+      "title": "H-1B lottery shifts to wage-based selection from October 1",
+      "summary": "US H-1B visa selection system changes from October 1 to a wage-based model, replacing the previous lottery approach. This affects Indian workers applying for H-1B visas.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVThFb2Y5eEJnNGpYSW1xcmhfbUtKalUxeE1VT21lSHI3UnlNdTQxdXcySkZwNUozNWI4YkgxYk5NS3pOTUFvNEpSTjV3b01zWjNIVGVuZGU4U05oci1hYWZfRUZlVjJJSk93QmpxNmtzcFBLYjBMSk5mSlV3ajRKclpwaV85MTlkQUpzaFNMU0VEYlM4Yk40UFh0YXRhTXRob3FwUjBWTE5rZkxFcFpCZkw1R0M3Vnl1bWl1NVE3ZVhMTTF0ZzUyYmg1Qm4wQVlLLU9IcHNpdXBHZnlHVE9SMTIyYUo0VjFXaElvX3RFU1c3QmV3aUYwU0t4dk9FY0picDlzbjFCbEZPY1d00gGGAkFVX3lxTE1EaTl1b1FWcDJvRU1VMVdOWWxPaEZGTnlyOWF5aVF2eHY4QnVxRU4yVEZPeUNsN0x2SktOWFB1RmM4cXdNY1RKdW53SGUtVS1SMFVpWlhpZzlWNnY1d3kxZ2xSOWpIa3FxekZaSjBoWVBQR2NNanhLUTRwbm5DTDFjNUNnTm91S1dFSlg1VTJGLW85SHg5T2k3cnFaQmt0ZXZPUVg3ZkY4UUFlZUJlZmktTXdURTBKTUZ2WlZ1XzBRU01RTUVTa0ZYZ1MxRExrSGk5N09ONEdwTzN5V0RSWDRJbXFPWjhIR3VnY2EzYnhzOHFhSmhlTDFWa0JRZjBHbnlkNVVDTHc?oc=5"
     },
     {
-      "id": "20260930-uk-uk-removes-stay-limit-for-religious",
+      "id": "20260930-uk-uk-removes-duration-limit-for-religi",
       "date": "2026-09-30",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Rule change",
-      "title": "UK removes stay limit for religious workers",
-      "summary": "UK changed religious worker visa rules by removing the duration limit on how long ministers and religious workers can remain in the country.",
+      "title": "UK removes duration limit for religious worker visa holders",
+      "summary": "UK changes religious worker visa rules by removing the limit on how long ministers can stay, expanding eligibility for religious workers.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
+    },
+    {
+      "id": "20260930-new-zealand-new-zealand-clarifies-location-requi",
+      "date": "2026-09-30",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand clarifies location requirements for work visa holders",
+      "summary": "New Zealand clarifies location requirements for accredited employer work visa holders, affecting where visa holders may be required to work.",
+      "source": "Fragomen",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5"
     },
     {
       "id": "20260930-uk-uk-raises-permanent-residency-thresh",
