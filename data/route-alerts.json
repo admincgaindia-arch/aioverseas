@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-10-04T02:15:10.595+05:30",
+  "checked_at": "2026-10-05T02:15:13.471+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261004-australia-australia-restricts-student-visa-ons",
+      "date": "2026-10-04",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia restricts student visa onshore applications",
+      "summary": "Australia reported tightened student visa rules and restrictions on onshore applications. The changes affect eligibility and application pathways for international students seeking to study in Australia.",
+      "source": "Travel Daily News Asia-Pacific",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkxkSU1Gcl91XzVLbTBZaEdUZzdvT3hic3Q4OWpEMWZ0cldYaE9ZZHdjR3UyWkYtbkJ2RW5mUlNBcF9idElpTkRmMk5scGczMlZUYnlJT1FzN3N6RzhndXJxWm1ySDV1cDJxdE1sd1FMeFVpNkhxaDNEdXVrOUJQUkhiREVfZDdzdEN5MU16d2FVNzJFd01rY2xKUlVoSS1qS3lXbFlXMXIxbEpMZ0hKQ0JqWlZ0djBiajdLY3VkOWhQNmpo?oc=5"
+    },
+    {
+      "id": "20261003-australia-australia-tightens-training-visa-ext",
+      "date": "2026-10-03",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia tightens training visa extension rules",
+      "summary": "Australia reported new restrictions on training visa rules to prevent foreign workers from extending their stays. The tightened eligibility criteria affect visa extension pathways for training visa holders.",
+      "source": "VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXNUX2R5Ml9XMEpaYk15TVlzUElrU3RvbUk2Qk5jV1JGUlJyQW1GMHZYMkZuWGlQcUdoS2ZxeXFjZUhqZ09mejJtMTV3Tkw2TnZpQlZzYzZCV2lra2V1cGRHeHVBTVBXaUp1Z1FfLVhISkZUYWJQUzlsYzFabHlTa2hRT0JSTVZJd1VhTmdJVFdJbW40WHRkQzhtZy1ma0VUbGNOajJTU05TclR3QWV5T3hWVDF2QnhRU00wOTNOeklSNXo2UVNPdVZhQW56QQ?oc=5"
+    },
     {
       "id": "20261002-canada-canada-fee-waiver-for-parents-on-fam",
       "date": "2026-10-02",
@@ -14,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmV1Z1dFVXB4eDNTelR3OFFYTjNJbURRU0lIdkNOaGVuV1BEdjB3OS1NUVdaQ25nbWhFY3YtSXNzNlE5andpdV9FQk9OUUFxYzFyLUtqSlVwNmJoZWYxd1cwdzBPSnZxeDFxb2s2TVV5U3Y3S2s5OXdUMHNoblJuNVAya2hMYU15NEJsVzJrV2hjdldnM2QwejFIYXB1ZXpLVjVwTA?oc=5"
     },
     {
+      "id": "20260930-uk-uk-removes-time-limit-on-religious-w",
+      "date": "2026-09-30",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK removes time limit on religious worker visas",
+      "summary": "UK reported changes to religious worker visa rules, removing the limit on how long ministers can stay. The eligibility rule change affects religious workers seeking extended residence.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
+    },
+    {
       "id": "20260930-usa-h-1b-lottery-shifts-to-wage-based-se",
       "date": "2026-09-30",
       "country": "United States",
@@ -23,17 +56,6 @@
       "summary": "US H-1B visa selection system changes from October 1 to a wage-based model, replacing the previous lottery approach. This affects Indian workers applying for H-1B visas.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVThFb2Y5eEJnNGpYSW1xcmhfbUtKalUxeE1VT21lSHI3UnlNdTQxdXcySkZwNUozNWI4YkgxYk5NS3pOTUFvNEpSTjV3b01zWjNIVGVuZGU4U05oci1hYWZfRUZlVjJJSk93QmpxNmtzcFBLYjBMSk5mSlV3ajRKclpwaV85MTlkQUpzaFNMU0VEYlM4Yk40UFh0YXRhTXRob3FwUjBWTE5rZkxFcFpCZkw1R0M3Vnl1bWl1NVE3ZVhMTTF0ZzUyYmg1Qm4wQVlLLU9IcHNpdXBHZnlHVE9SMTIyYUo0VjFXaElvX3RFU1c3QmV3aUYwU0t4dk9FY0picDlzbjFCbEZPY1d00gGGAkFVX3lxTE1EaTl1b1FWcDJvRU1VMVdOWWxPaEZGTnlyOWF5aVF2eHY4QnVxRU4yVEZPeUNsN0x2SktOWFB1RmM4cXdNY1RKdW53SGUtVS1SMFVpWlhpZzlWNnY1d3kxZ2xSOWpIa3FxekZaSjBoWVBQR2NNanhLUTRwbm5DTDFjNUNnTm91S1dFSlg1VTJGLW85SHg5T2k3cnFaQmt0ZXZPUVg3ZkY4UUFlZUJlZmktTXdURTBKTUZ2WlZ1XzBRU01RTUVTa0ZYZ1MxRExrSGk5N09ONEdwTzN5V0RSWDRJbXFPWjhIR3VnY2EzYnhzOHFhSmhlTDFWa0JRZjBHbnlkNVVDTHc?oc=5"
-    },
-    {
-      "id": "20260930-uk-uk-removes-duration-limit-for-religi",
-      "date": "2026-09-30",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK removes duration limit for religious worker visa holders",
-      "summary": "UK changes religious worker visa rules by removing the limit on how long ministers can stay, expanding eligibility for religious workers.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
     },
     {
       "id": "20260930-new-zealand-new-zealand-clarifies-location-requi",
@@ -78,6 +100,28 @@
       "summary": "The UK reported raising English language requirements for foreign nationals seeking permanent residency, effective from the announcement date.",
       "source": "Yen.com.gh",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFd2NzZEV2xJd1huR0Fta2c0Wno3S0YyQ3ZiaWMxamZ6Z09MMk1aTzZ3Y25Kem1TODlmdDRuTTF4akdTS0xPUmUxNEViR2VOT05NY0hvWXVLMW5nMlMwdF9aczBYMFVXbWlEMzloR2dySDhSQ3JBZXhqQ0ZSckFDZ056RjdlN0R0eXNhUVpfZDVmU2hoeEJzZ3ctbW1RdlR3S3MtWA?oc=5"
+    },
+    {
+      "id": "20260929-usa-uscis-increases-eb-5-visa-fees-effec",
+      "date": "2026-09-29",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "USCIS increases EB-5 visa fees effective November 30",
+      "summary": "USCIS reported a final rule increasing EB-5 visa fees, effective November 30. The fee increase applies to employment-based fifth preference immigrant visa applications.",
+      "source": "Fragomen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVFnV1Z2Sm9Jc2tDY1dRQkwzOVBjM3hmZFZpUUg0XzZKQXJqMXdoWVJzSlJpS2F4ZWRCb2F4NFBzUWxyajZGc2gxLVBDYWdHYXR0bElBZXhLY1V1UHYySlJJUjZ1OFZ2MVI5bDZCbDY5bUg5YjNtdWFEYkNsWXE2OHBfdzJYaTM3TlR3Zi1fVWgycWlSVU5wenM1dVAzdw?oc=5"
+    },
+    {
+      "id": "20260929-new-zealand-new-zealand-family-visa-moves-to-enh",
+      "date": "2026-09-29",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand family visa moves to enhanced online system",
+      "summary": "New Zealand reported family visa applications will move to an enhanced online system from November 16. The processing rule change affects how family visa applications are submitted and managed.",
+      "source": "economictimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5"
     },
     {
       "id": "20260929-uk-uk-eases-immigration-rules-for-erasm",
@@ -397,17 +441,6 @@
       "summary": "Canada has raised the financial requirement for study permit applicants. The specific amount is not stated in the headline, but the change takes effect in September 2026.",
       "source": "cic times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUdWaEhqVWMwSjJ6TXNPaXVMcnpjVk1SbzJxdldneFVQa3ZucDY0N2xFQkx3UkZQQzJ3ZUVoMEJvVDhfZzhydmY4YmFEdVpPWDZwc3ItN181UElJbmI5bU0yWUgwVmcwYUYwZXlkWTZxeDFXVlg2d1lCTUpocWh2NGw5N0o1bWtYeTJ5UFdzY1dBR25vSkdRREotMzM?oc=5"
-    },
-    {
-      "id": "20260901-canada-canada-updates-financial-requirement",
-      "date": "2026-09-01",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada updates financial requirements for study applicants",
-      "summary": "Canada reported updated financial requirements for foreigners seeking to study in the country, effective September 2026.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3E3RkxLMkhpbFY4aU5rRk1NM0xVSjFKcnZhZGtwUFdLRHpLUG5RNFdSSDhVZWVzRlJDaDl6NWo2Y3ZVNzF2eXBiSnNHcFdrSHhJWS1KMVBnWlJVcDRNRDR1TW9rU0RGY19MamZUTlFJSWhZcmdDaDAzNGxVejVWLVBSUFFlQ0d3OTIweGFqem5EaklqOHV0SER6QjZuQXJVeUZRWGx1anZFYnZ0amZLdlVoWHFKZmM?oc=5"
     }
   ]
 }
