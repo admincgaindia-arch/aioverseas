@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-06T02:15:11.713+05:30",
+  "checked_at": "2026-10-07T02:15:12.179+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261006-uk-uk-sets-minimum-salary-for-skilled-w",
+      "date": "2026-10-06",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK sets minimum salary for skilled worker visa",
+      "summary": "UK reported publishing a minimum salary threshold that foreigners must earn to qualify for the Skilled Worker Visa. Specific threshold amount not stated in headline.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWFzUFFqaDFvWTlQZjZ1SHR1V1ZHNGhUbkthZjdUVVRMVE54Y1pSTzNJb2l1SGsxTGhBTW96bG0tLU52U2xtcjNpV1ZyMTRFdTRjSmp6LTd1Z3pZZ1B6c0RIb3hFeWVEUGVlTVU1Uk8wM3ZRa2x4WDJPV01DRGxHX1V2UjhkcVpvWkhacGVrTUo5VVgta0hfN2RlN2ctQmhnMVN5TE8yemh0dGtR?oc=5"
+    },
     {
       "id": "20261005-australia-australia-tightens-student-visa-rule",
       "date": "2026-10-05",
@@ -9,7 +20,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia tightens student visa rules for Indian students",
-      "summary": "Australia reported changes to student visa rules affecting Indian applicants, including modifications to English language requirements, visa hopping restrictions, and family member sponsorship eligibility.",
+      "summary": "Australia reported changes to student visa rules affecting Indian applicants, including modifications to English language requirements (EL3), visa hopping restrictions, and family member sponsorship policies.",
       "source": "EdexLive",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5"
     },
@@ -69,13 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX0djV243QUZUNDR1UU82SlIwbnNEWGxVaVBGZ3plcTkyYko1RTR3MThBNVhjMHFyUEZQYU9WMDNBQ3JURXhFZXYtcG0wd1VjcXdoM2NGTzNabmQxOWsyZ051MjNDSld3MFprYlNuRklKSHl0VlQ4d3duaU5GaUpxZlN1cmI4aVpWRFJGdDU4TXJ0cXpFMy1XUFZvdzRTV3p0eGk3VEpXRURDTzdOSjROMlZBYkxwcWtXZjlZUm9zQUx6SzR5TEVmX05rY01wWWtYNG93Q1RRc0FNa1lqOVlQTlVNLUtHeVA1X1BKbjJYaXotQWRUUWVfd2lB0gH_AUFVX3lxTE9OcWhfSHZlR25oQTNLNWZBYnliaHRLMU10elppNWZMUzFUNXdNeFFfYUN0U2c5TVdZcUp1bWo5RVNxT25SdG5PQVBFcDAxRmNCQm9FSVNUWVZVSEtQVmhDLWp1SjF5LVY2b3hRUTg5RmxmbG5GOGJwQ0RhRlNXVkdtS0xEdFR6Y3ZQN05wV0V5bWlqX0dudG9FTk9Ycnp0OUE1d0o0cm9BcUFtLXp2Unpzb2Q0TkhIRHJSSG9RUHdxaVRDQUdXY2Jod1FkOHhsaGN5cVdYQkhZVkJnSm1lbkpraXlId3doTXBnZFlYb1ZNaUhZck9BVzRjOFBxRmJFUQ?oc=5"
     },
     {
-      "id": "20260930-uk-uk-removes-time-limit-on-religious-w",
+      "id": "20260930-uk-uk-removes-time-limit-for-religious",
       "date": "2026-09-30",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Rule change",
-      "title": "UK removes time limit on religious worker visas",
-      "summary": "UK reported changes to religious worker visa rules, removing the duration limit for ministers staying in the country.",
+      "title": "UK removes time limit for religious worker visa",
+      "summary": "UK reported changes to religious worker visa rules, removing the previous limit on how long ministers and religious workers can stay in the country.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
     },
@@ -135,13 +146,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFd2NzZEV2xJd1huR0Fta2c0Wno3S0YyQ3ZiaWMxamZ6Z09MMk1aTzZ3Y25Kem1TODlmdDRuTTF4akdTS0xPUmUxNEViR2VOT05NY0hvWXVLMW5nMlMwdF9aczBYMFVXbWlEMzloR2dySDhSQ3JBZXhqQ0ZSckFDZ056RjdlN0R0eXNhUVpfZDVmU2hoeEJzZ3ctbW1RdlR3S3MtWA?oc=5"
     },
     {
-      "id": "20260929-usa-uscis-increases-eb-5-fees-effective",
+      "id": "20260929-usa-uscis-increases-eb-5-investment-visa",
       "date": "2026-09-29",
       "country": "United States",
       "slug": "usa",
       "kind": "Fee change",
-      "title": "USCIS increases EB-5 fees effective November 30",
-      "summary": "USCIS reported a final rule increasing EB-5 visa fees, effective November 30.",
+      "title": "USCIS increases EB-5 investment visa fees",
+      "summary": "USCIS reported a final rule increasing EB-5 visa fees, effective November 30. Specific fee amounts were not disclosed in the headline.",
       "source": "Fragomen",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVFnV1Z2Sm9Jc2tDY1dRQkwzOVBjM3hmZFZpUUg0XzZKQXJqMXdoWVJzSlJpS2F4ZWRCb2F4NFBzUWxyajZGc2gxLVBDYWdHYXR0bElBZXhLY1V1UHYySlJJUjZ1OFZ2MVI5bDZCbDY5bUg5YjNtdWFEYkNsWXE2OHBfdzJYaTM3TlR3Zi1fVWgycWlSVU5wenM1dVAzdw?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "The UK is raising the student visa maintenance financial requirement effective November 2026. The specific new amount was not stated in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
-    },
-    {
-      "id": "20260903-usa-usa-plans-fees-for-opt-and-h-1b-visa",
-      "date": "2026-09-03",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "USA plans fees for OPT and H-1B visas",
-      "summary": "The USA reported planned fee introductions for OPT and H-1B visa categories, with warnings also issued regarding CPT implications.",
-      "source": "StudyTravel Network",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54TDRLYWJuMUVObk1KYUhjekMwRjdFNkNXYzczVkJxV0Y4S095dXM2d0huNTVMVzBqa3J4eU5qTEtySUNBV3k3U2JOS1FMVnY4ME5fZDBGeGdQVVZzeVE?oc=5"
     }
   ]
 }
