@@ -1,7 +1,40 @@
 {
-  "checked_at": "2026-10-07T02:15:12.179+05:30",
+  "checked_at": "2026-10-08T02:15:13.215+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261007-australia-australia-enforces-new-rules-for-dep",
+      "date": "2026-10-07",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia enforces new rules for dependants and student visas",
+      "summary": "Australia has implemented new rules affecting accompanying dependants and onshore student visa applications. These changes are now in force for applicants.",
+      "source": "ICEF Monitor",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
+    },
+    {
+      "id": "20261006-canada-canada-eases-open-work-permit-rules",
+      "date": "2026-10-06",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada eases open work permit rules for Quebec spouses",
+      "summary": "Canada has eased open work permit eligibility rules for spouses of workers in a specific category in Quebec. The change expands access to open work permits for this spouse category.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0pUNmVxakxCMjZReWVXd3d5a01tc2VheDNqSzh1TGdqMnZtdGtqTGJxQjdIaDlpd0tnQnFYZlZ1ZnVIX05RRzBJNGg2RVg3NkprT2NTVmE1UG5pTk84RG9YQ0JoWHBiX05Tamx2Y0pkdFpqU1BkNG0tbWF6Ry1jYUdiOHc2NzBBZWVSeEVKaFRsZ1VOaGZ0Qzg3US1nQ0ZCd1NwY0QtUElDQQ?oc=5"
+    },
+    {
+      "id": "20261006-uk-uk-sets-skilled-worker-visa-salary-t",
+      "date": "2026-10-06",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK sets skilled worker visa salary threshold at £33,400",
+      "summary": "The UK has announced a minimum salary threshold of £33,400 for foreigners to qualify for a Skilled Worker Visa, establishing a new financial eligibility requirement.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnQ4NXIxRk5EbWlMNjVGWUdJQ3VpLTVXeDFsTGxDdmxHcFBqUDZtVzVnYmNqUkFoaFBNYU11ZnJvS2JCcTdTN1ZZbm5DTDZER0YxeFNZWm5YMGRBV2FGVEpqXzBjZWVXRFEyeGRYaW5YU2VWR2luNmZPR1B1S0QyeUJnUHd6UG1ITGc5Y29tTTc5MUt2OGpz?oc=5"
+    },
     {
       "id": "20261006-uk-uk-sets-minimum-salary-for-skilled-w",
       "date": "2026-10-06",
@@ -19,8 +52,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens student visa rules for Indian students",
-      "summary": "Australia reported changes to student visa rules affecting Indian applicants, including modifications to English language requirements (EL3), visa hopping restrictions, and family member sponsorship policies.",
+      "title": "Australia tightens student visa rules for Indian applicants",
+      "summary": "Australia has tightened student visa rules affecting Indian students, with changes to EL3 requirements, visa hopping restrictions, and family member provisions.",
       "source": "EdexLive",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5"
     },
@@ -47,13 +80,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5"
     },
     {
-      "id": "20261003-australia-australia-tightens-training-visa-ext",
+      "id": "20261003-australia-australia-restricts-training-visa-ex",
       "date": "2026-10-03",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens training visa extension rules",
-      "summary": "Australia reported new restrictions on training visa rules to prevent foreign workers from extending their stays. The tightened eligibility criteria affect visa extension pathways for training visa holders.",
+      "title": "Australia restricts training visa extensions for foreign workers",
+      "summary": "Australia has tightened training visa rules to prevent foreign workers from extending their stays, reported as a policy change to limit visa extensions.",
       "source": "VnExpress International",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXNUX2R5Ml9XMEpaYk15TVlzUElrU3RvbUk2Qk5jV1JGUlJyQW1GMHZYMkZuWGlQcUdoS2ZxeXFjZUhqZ09mejJtMTV3Tkw2TnZpQlZzYzZCV2lra2V1cGRHeHVBTVBXaUp1Z1FfLVhISkZUYWJQUzlsYzFabHlTa2hRT0JSTVZJd1VhTmdJVFdJbW40WHRkQzhtZy1ma0VUbGNOajJTU05TclR3QWV5T3hWVDF2QnhRU00wOTNOeklSNXo2UVNPdVZhQW56QQ?oc=5"
     },
@@ -408,39 +441,6 @@
       "summary": "The UK raised the student visa financial requirement to $19,100 for applicants from specified countries, effective November 30, 2026.",
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZjVnb3h0MFBVSFpudTBnbExobFRRck00U3E2YkRPMTVST3FLNmpTaW1WT2hxU1k2dkE2dThNUHlRRWhyVUhYQ0JOaWowUWVDZmNmZGhONHdyZjZrS3poZ1NQSi1vRXUxQXV5Q1Jad1B5bXpnRE16YWlSeGVmUzkydkZaa2JvZE9zQVlWQ083NU1RaWgxRlBFQ1pMLUYtUWk2SUZObXJfV1ZmUUc1QnU4VkZWOTNtSk0waDN3Z0JwZFA1QW5BYUV1SUYwVHJVYnRLaG5DcHBUMHVMZw?oc=5"
-    },
-    {
-      "id": "20260908-usa-trump-proposes-doubling-h-1b-visa-fe",
-      "date": "2026-09-08",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "Trump proposes doubling H-1B visa fee to $203,265",
-      "summary": "A proposal to double the H-1B visa fee to $203,265 was reported, significantly affecting Indian skilled worker applicants to the United States.",
-      "source": "ababnews.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WdVpSaDFLMjdDNVpRSFd4dXB6aHF3YzlnNk42aWdVTG5yZjNvOVFGSHVuV0JHb1F0Y3RzVG5STDFJa21SU3Z2UmdvaEQzaEZCdUJLSWRRTXpBaWdsQVJWRkEtUTdZcmZvYk1WZ3psSWc1NHA2?oc=5"
-    },
-    {
-      "id": "20260907-usa-h-1b-fee-hike-could-exceed-200-000",
-      "date": "2026-09-07",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "H-1B fee hike could exceed $200,000",
-      "summary": "A Trump administration plan reported potential H-1B visa fee increases that could push total costs above $200,000, significantly raising applicant expenses.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcFBuMVdZZzVHTTluOExXbUFKZWl6ZUg0U01OcXY0ZDg2aDdmTlFHSE5jd0JQVElFZS1aRW1ZY1NnZkF2RktxREFnZXk5eEkzLUJpSkw0YVJaVFB6RXRrY1lFeWhMZEZxZWRxenJ4NERha1RkWWVaS3pEcDQzSjhYYVBHbkRnbEhvQlozN3FIcGJYYm8wZjc3SkxhMzFDV3gyOWNZZ29VTS1sNmE5QnI2REp6UjUzU2tJcVRzb9IBvAFBVV95cUxNcFBuMVdZZzVHTTluOExXbUFKZWl6ZUg0U01OcXY0ZDg2aDdmTlFHSE5jd0JQVElFZS1aRW1ZY1NnZkF2RktxREFnZXk5eEkzLUJpSkw0YVJaVFB6RXRrY1lFeWhMZEZxZWRxenJ4NERha1RkWWVaS3pEcDQzSjhYYVBHbkRnbEhvQlozN3FIcGJYYm8wZjc3SkxhMzFDV3gyOWNZZ29VTS1sNmE5QnI2REp6UjUzU2tJcVRzbw?oc=5"
-    },
-    {
-      "id": "20260904-uk-uk-raises-student-visa-maintenance-r",
-      "date": "2026-09-04",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises student visa maintenance requirement",
-      "summary": "The UK is raising the student visa maintenance financial requirement effective November 2026. The specific new amount was not stated in the headline.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmZXVGNSalJaaVJoZ2RZUFRBa3gtc2tKbmdmNnZLUkRjSmthX0hKa0pFUkdUSDRrdE9HU3RDV2ZjYkFJZ01EZ2RxRFlsOFBJVlE0RzFtWmxCcU1ZSk9EUTBQcGI1UUxiX2IwY1lQeEpzT0FVWkV4V2xVSDZxclpNOHN4UHhBUEZBeTNaUlUwdzNUYk8zcnVhRW9tNjlobkh0azdpekd2Z2M5V0xhZUJIYXU3RTE0VXdOZnEyRnMwQkVRVmxGdGhLS2RWNNIB0AFBVV95cUxNcnZIdjFvVzRwdEFJUHNpck14Q19vZXVNUHpnd2ZpLXV4MTFaUm9wRkVseU1KQWFhaUpuc0dya0daRU5xQmZqZkRpdFNCVHptV2wzV3NQV1BHdkdJdmNmNGxzSEFDLWJJNzhYMkdiNUFXMld4ZG9UbnBmanU0Y0F1UHZKUGcxV3hwNldxcC1NM0Npck9rbEVBTmxHTzNhSGFxUk85cVhCT2RRY0F5T24xXzlDZUZGZ3d0aHllQmVIbWxhRkx5YkdiOThMRVlxNjRr?oc=5"
     }
   ]
 }
