@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-09T02:15:15.794+05:30",
+  "checked_at": "2026-10-10T02:15:13.375+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261009-canada-canada-announces-immigration-fee-exe",
+      "date": "2026-10-09",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Fee change",
+      "title": "Canada announces immigration fee exemption for special groups",
+      "summary": "Canada reported a new policy exempting families of certain special groups from immigration fees. The specific groups and exemption scope are not detailed in the headline.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
+    },
     {
       "id": "20261008-usa-us-announces-new-opt-fees-for-f-1-st",
       "date": "2026-10-08",
@@ -9,7 +20,7 @@
       "slug": "usa",
       "kind": "Fee change",
       "title": "US announces new OPT fees for F-1 students",
-      "summary": "The US has announced new OPT fees for F-1 students, with reported costs reaching up to $100,000. The change affects work authorization expenses for international students.",
+      "summary": "The US reported new Optional Practical Training fees for F-1 visa holders, with costs potentially reaching up to $100,000 in total expenses.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFB2SEdCM3Zoa1BqWFNOZXV3dEI2clFrdV9DVkxyNm50UnBQOFgwQW9kSmp6UnhMVGtZTURCXzFya2RzeDZ5TjV1TEJDckZSejF4Y2NRaXlmSlNtWHFocWxLcWNlRl9ONXR2TFRzNzA2dzBNUFJFN1FaSldZRW1HTjdSV0ZfSVoyQTZzcTBhY3JBZGtpS1dnb2pzb1ROdFBjYTVxeWp6bkduOUtRc2U1UEZEQk8tUkhRVi10bkV30gHEAUFVX3lxTE9VVE9wWTFOZGIyTXFMT2NSRmdWUzg5Wk4zTW95bWkxNlhNZ09yRGd2VnhoZi1EaU1pNUloSzExRnhKUjh1c2lvS3lFTUNHZnliRXg4U09USUVNbG5TMDVtWVdaUmtqek1TSjBuOTNCSnBkNnJ4Q0hrU3ZBcE1Uc3ZrSlBPX25iaUt4ZURzMnlBZ0hQQWhmQ1VhWDc5NGRDTEp3c1JxQjhFZC1Da2RlWG1BQWNaNHVHdXRaZmg4Umx1bmFIR0o?oc=5"
     },
@@ -19,8 +30,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia enforces new rules for dependants and onshore applications",
-      "summary": "Australia has enforced new rules for accompanying dependants and onshore student visa applications. The changes affect eligibility and application procedures.",
+      "title": "Australia enforces new rules for dependants and onshore student visas",
+      "summary": "Australia reported new eligibility and processing rules now in force for accompanying dependants and onshore student visa applications affecting international students.",
       "source": "ICEF Monitor",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
     },
@@ -52,10 +63,21 @@
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada eases open work permit rules for Quebec spouses",
-      "summary": "Canada has eased open work permit eligibility rules for spouses of a category of workers in Quebec. The change expands access to work authorization for affected family members.",
+      "title": "Canada eases open work permit rules for Quebec worker spouses",
+      "summary": "Canada reported eased eligibility rules for open work permits for spouses of a specific category of workers in Quebec, expanding access to this visa pathway.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0pUNmVxakxCMjZReWVXd3d5a01tc2VheDNqSzh1TGdqMnZtdGtqTGJxQjdIaDlpd0tnQnFYZlZ1ZnVIX05RRzBJNGg2RVg3NkprT2NTVmE1UG5pTk84RG9YQ0JoWHBiX05Tamx2Y0pkdFpqU1BkNG0tbWF6Ry1jYUdiOHc2NzBBZWVSeEVKaFRsZ1VOaGZ0Qzg3US1nQ0ZCd1NwY0QtUElDQQ?oc=5"
+    },
+    {
+      "id": "20261006-australia-australia-student-visa-fees-hiked-fo",
+      "date": "2026-10-06",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia student visa fees hiked for 2026",
+      "summary": "Australia reported increased fees for Student Visa Subclass 500 in 2026. The exact fee amounts are not specified in the headline.",
+      "source": "Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9nZ3h3cDN3VFBkaXJUcGhSdVNGSEtCTEhjRWEyUzMxSjhQTENJdkRUdm1uWF9TWmhfZ2NCb2VqSDBRb3FSOUpGOF9JeUJZclNBQ3RNUHBaRDBmbC1BdXd2cWN1QzJqM3h4V3U5OEVUZVBnQ2NFT2NiN3dGOEJvWjBLNGo1blFJ?oc=5"
     },
     {
       "id": "20261006-canada-canada-confirms-deadline-for-asylum",
@@ -96,8 +118,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens student visa rules for Indian students",
-      "summary": "Australia has tightened student visa rules affecting Indian applicants, including changes to EL3 requirements, visa hopping restrictions, and family member sponsorship rules.",
+      "title": "Australia tightens student visa rules for Indian applicants",
+      "summary": "Australia reported tightened student visa rules affecting Indian students, including changes to EL3 requirements, visa hopping restrictions, and family member provisions.",
       "source": "EdexLive",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "UK reported an increase to the student visa financial requirement effective November 30, 2026. The change raises the proof-of-funds threshold for international student visa applicants.",
       "source": "KollegeApply News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
-    },
-    {
-      "id": "20260911-usa-dhs-proposes-ending-60-day-h-1b-grac",
-      "date": "2026-09-11",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "DHS proposes ending 60-day H-1B grace period",
-      "summary": "DHS reported a proposed rule change to eliminate the 60-day grace period for H-1B visa holders. The change would affect work authorization rules for H-1B visa category.",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5"
-    },
-    {
-      "id": "20260911-usa-us-f-1-j-1-visa-rules-change-septemb",
-      "date": "2026-09-11",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "US F-1 J-1 visa rules change September 15, 2026",
-      "summary": "The United States reported changes to F-1 and J-1 visa rules taking effect September 15, 2026, affecting student and exchange visitor visa categories.",
-      "source": "KollegeApply News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1pWTEtDT1VoUFBCMHpfQU9mN0ZmR0JkbDQtRG5TTS1wTDRvTEIxQldIVi15dWVjZmpoWF8wVldEWlBUN2N3SWFFeElVV2EwWHlnN01odlJkbENJdDIwQ1Ywa3Uxa0dtMXFyT2R4RTJZRWJmczJwRi1UaEluQWpJN0NJek1jaGFuMFZUTHhKU1lZX1E?oc=5"
     }
   ]
 }
