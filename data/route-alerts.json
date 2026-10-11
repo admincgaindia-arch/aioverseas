@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T02:15:13.580+05:30",
+  "checked_at": "2026-10-12T02:15:12.175+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -20,18 +20,18 @@
       "slug": "usa",
       "kind": "Fee change",
       "title": "US announces new OPT fees for F-1 students",
-      "summary": "The US reported new Optional Practical Training fees for F-1 visa holders, with costs potentially reaching up to $100,000 in total expenses.",
+      "summary": "The United States has announced new Optional Practical Training fees for F-1 visa holders, with reported costs potentially reaching up to $100,000.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFB2SEdCM3Zoa1BqWFNOZXV3dEI2clFrdV9DVkxyNm50UnBQOFgwQW9kSmp6UnhMVGtZTURCXzFya2RzeDZ5TjV1TEJDckZSejF4Y2NRaXlmSlNtWHFocWxLcWNlRl9ONXR2TFRzNzA2dzBNUFJFN1FaSldZRW1HTjdSV0ZfSVoyQTZzcTBhY3JBZGtpS1dnb2pzb1ROdFBjYTVxeWp6bkduOUtRc2U1UEZEQk8tUkhRVi10bkV30gHEAUFVX3lxTE9VVE9wWTFOZGIyTXFMT2NSRmdWUzg5Wk4zTW95bWkxNlhNZ09yRGd2VnhoZi1EaU1pNUloSzExRnhKUjh1c2lvS3lFTUNHZnliRXg4U09USUVNbG5TMDVtWVdaUmtqek1TSjBuOTNCSnBkNnJ4Q0hrU3ZBcE1Uc3ZrSlBPX25iaUt4ZURzMnlBZ0hQQWhmQ1VhWDc5NGRDTEp3c1JxQjhFZC1Da2RlWG1BQWNaNHVHdXRaZmg4Umx1bmFIR0o?oc=5"
     },
     {
-      "id": "20261007-australia-australia-enforces-new-rules-for-stu",
+      "id": "20261007-australia-australia-enforces-new-rules-for-dep",
       "date": "2026-10-07",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia enforces new rules for student dependants and onshore applications",
-      "summary": "Australia reported new eligibility and processing rules now in force for accompanying dependants and onshore student visa applications.",
+      "title": "Australia enforces new rules for dependants and onshore student visas",
+      "summary": "Australia has implemented new rules affecting accompanying dependants and onshore student visa applications. The changes are reported as now in force.",
       "source": "ICEF Monitor",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
     },
@@ -58,6 +58,17 @@
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5"
     },
     {
+      "id": "20261006-australia-australia-student-visa-fees-hiked-fo",
+      "date": "2026-10-06",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia Student Visa fees hiked for 2026",
+      "summary": "Australia has increased fees for Student Visa Subclass 500 in 2026. The headline reports new hiked fees, though specific amounts are not detailed in the snippet provided.",
+      "source": "Shiksha.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9nZ3h3cDN3VFBkaXJUcGhSdVNGSEtCTEhjRWEyUzMxSjhQTENJdkRUdm1uWF9TWmhfZ2NCb2VqSDBRb3FSOUpGOF9JeUJZclNBQ3RNUHBaRDBmbC1BdXd2cWN1QzJqM3h4V3U5OEVUZVBnQ2NFT2NiN3dGOEJvWjBLNGo1blFJ?oc=5"
+    },
+    {
       "id": "20261006-canada-canada-eases-open-work-permit-rules",
       "date": "2026-10-06",
       "country": "Canada",
@@ -67,17 +78,6 @@
       "summary": "Canada reported relaxed eligibility rules for open work permits for spouses of a specific category of workers in Quebec, effective immediately.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0pUNmVxakxCMjZReWVXd3d5a01tc2VheDNqSzh1TGdqMnZtdGtqTGJxQjdIaDlpd0tnQnFYZlZ1ZnVIX05RRzBJNGg2RVg3NkprT2NTVmE1UG5pTk84RG9YQ0JoWHBiX05Tamx2Y0pkdFpqU1BkNG0tbWF6Ry1jYUdiOHc2NzBBZWVSeEVKaFRsZ1VOaGZ0Qzg3US1nQ0ZCd1NwY0QtUElDQQ?oc=5"
-    },
-    {
-      "id": "20261006-australia-australia-student-visa-fees-hiked-fo",
-      "date": "2026-10-06",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Australia student visa fees hiked for 2026",
-      "summary": "Australia reported increased fees for Student Visa Subclass 500 in 2026. The exact fee amount is not specified in the headline.",
-      "source": "Shiksha.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9nZ3h3cDN3VFBkaXJUcGhSdVNGSEtCTEhjRWEyUzMxSjhQTENJdkRUdm1uWF9TWmhfZ2NCb2VqSDBRb3FSOUpGOF9JeUJZclNBQ3RNUHBaRDBmbC1BdXd2cWN1QzJqM3h4V3U5OEVUZVBnQ2NFT2NiN3dGOEJvWjBLNGo1blFJ?oc=5"
     },
     {
       "id": "20261006-canada-canada-confirms-deadline-for-asylum",
@@ -118,8 +118,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens student visa rules affecting Indian students",
-      "summary": "Australia reported tightened eligibility rules for student visas affecting Indian students, including changes to EL3 requirements, visa hopping restrictions, and family member provisions.",
+      "title": "Australia tightens student visa rules for Indian students",
+      "summary": "Australia has tightened student visa eligibility rules for Indian applicants, with changes affecting EL3 requirements, visa hopping restrictions, and family member sponsorship provisions.",
       "source": "EdexLive",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5"
     },
