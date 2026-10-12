@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-12T02:15:12.175+05:30",
+  "checked_at": "2026-10-13T02:15:14.757+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261012-canada-canada-eases-study-permit-rule-for-t",
+      "date": "2026-10-12",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada eases study permit rule for temporary workers",
+      "summary": "Canada has eased study permit eligibility rules for temporary workers, reported by the official immigration authority. The change affects work permit holders seeking to pursue studies.",
+      "source": "ircc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
+    },
     {
       "id": "20261009-canada-canada-announces-immigration-fee-exe",
       "date": "2026-10-09",
@@ -20,40 +31,40 @@
       "slug": "usa",
       "kind": "Fee change",
       "title": "US announces new OPT fees for F-1 students",
-      "summary": "The United States has announced new Optional Practical Training fees for F-1 visa holders, with reported costs potentially reaching up to $100,000.",
+      "summary": "The US has announced new Optional Practical Training fees for F-1 students, with reported costs reaching up to $100,000. The change affects work authorization expenses.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFB2SEdCM3Zoa1BqWFNOZXV3dEI2clFrdV9DVkxyNm50UnBQOFgwQW9kSmp6UnhMVGtZTURCXzFya2RzeDZ5TjV1TEJDckZSejF4Y2NRaXlmSlNtWHFocWxLcWNlRl9ONXR2TFRzNzA2dzBNUFJFN1FaSldZRW1HTjdSV0ZfSVoyQTZzcTBhY3JBZGtpS1dnb2pzb1ROdFBjYTVxeWp6bkduOUtRc2U1UEZEQk8tUkhRVi10bkV30gHEAUFVX3lxTE9VVE9wWTFOZGIyTXFMT2NSRmdWUzg5Wk4zTW95bWkxNlhNZ09yRGd2VnhoZi1EaU1pNUloSzExRnhKUjh1c2lvS3lFTUNHZnliRXg4U09USUVNbG5TMDVtWVdaUmtqek1TSjBuOTNCSnBkNnJ4Q0hrU3ZBcE1Uc3ZrSlBPX25iaUt4ZURzMnlBZ0hQQWhmQ1VhWDc5NGRDTEp3c1JxQjhFZC1Da2RlWG1BQWNaNHVHdXRaZmg4Umx1bmFIR0o?oc=5"
     },
     {
-      "id": "20261007-australia-australia-enforces-new-rules-for-dep",
+      "id": "20261007-australia-australia-new-rules-for-dependants-a",
       "date": "2026-10-07",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia enforces new rules for dependants and onshore student visas",
-      "summary": "Australia has implemented new rules affecting accompanying dependants and onshore student visa applications. The changes are reported as now in force.",
+      "title": "Australia new rules for dependants and student visas",
+      "summary": "Australia has implemented new eligibility rules for accompanying dependants and onshore student visa applications. The changes are now in force.",
       "source": "ICEF Monitor",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
     },
     {
-      "id": "20261007-australia-australia-student-visa-family-rules",
+      "id": "20261007-australia-australia-enforces-six-critical-fami",
       "date": "2026-10-07",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia student visa family rules now in force",
-      "summary": "Six critical family rules for Australia student visas are now in force. The changes affect dependent sponsorship and family member eligibility requirements.",
+      "title": "Australia enforces six critical family rules for students",
+      "summary": "Australia has implemented six new family-related eligibility rules for student visa holders. The rules are now in force and affect dependent applications.",
       "source": "NRI Affairs",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXNQTHo0ME04ZVBPNG1GXzQ1MnlTZHRTcFgycnZMbXl5MEQ2MEI4QmJCcVVwQlpzMFZnT2tmSko1WEplSFg0ajByQ05oUzFhUk5HdVhNZVdpNmxZM3JISUpsLVpSS3dZVjdGd0FSMWU?oc=5"
     },
     {
-      "id": "20261007-usa-us-proposes-new-opt-fees-for-f-1-stu",
+      "id": "20261007-usa-us-proposes-opt-fees-for-colleges-an",
       "date": "2026-10-07",
       "country": "United States",
       "slug": "usa",
       "kind": "Fee change",
-      "title": "US proposes new OPT fees for F-1 students",
-      "summary": "The US has proposed new OPT fees: $70,000 for first-time F-1 students and $30,000 for extensions. The change affects work authorization costs for international students.",
+      "title": "US proposes OPT fees for colleges and F-1 students",
+      "summary": "The US Department of Homeland Security has proposed new OPT fees: $70,000 for first-time F-1 students and $30,000 for extensions. The change affects work authorization costs.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5"
     },
@@ -63,10 +74,21 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Fee change",
-      "title": "Australia Student Visa fees hiked for 2026",
-      "summary": "Australia has increased fees for Student Visa Subclass 500 in 2026. The headline reports new hiked fees, though specific amounts are not detailed in the snippet provided.",
+      "title": "Australia student visa fees hiked for 2026",
+      "summary": "Australia has increased fees for Student Visa Subclass 500 in 2026. The reported change affects eligibility and financial requirements for student visa applicants.",
       "source": "Shiksha.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9nZ3h3cDN3VFBkaXJUcGhSdVNGSEtCTEhjRWEyUzMxSjhQTENJdkRUdm1uWF9TWmhfZ2NCb2VqSDBRb3FSOUpGOF9JeUJZclNBQ3RNUHBaRDBmbC1BdXd2cWN1QzJqM3h4V3U5OEVUZVBnQ2NFT2NiN3dGOEJvWjBLNGo1blFJ?oc=5"
+    },
+    {
+      "id": "20261006-australia-australia-tightens-student-visa-rule",
+      "date": "2026-10-06",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia tightens student visa rules against visa hopping",
+      "summary": "Australia has tightened student visa eligibility rules to curb visa hopping. The reported change affects processing and approval criteria for student applicants.",
+      "source": "Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW5pMkcxd0c1dWhLQl9Tc3JESzE5elRZVktvWDZQNU5CajhOYlVhbWtLZVdOZ2EtMUJGc0dHNWU1eVNQaTN1dDlLbnNaU0tMaFZFYmlGalEwbUVKS1owdktrdHpvUmZWUlJ3WkdtbE1QanRGTU9ScTIxOU8xRjU4U2ExNktkLWM?oc=5"
     },
     {
       "id": "20261006-canada-canada-eases-open-work-permit-rules",
@@ -419,28 +441,6 @@
       "summary": "The UK reported establishing a minimum salary threshold of £52,500 for the expansion worker visa category, representing a new eligibility requirement.",
       "source": "streamlinefeed.co.ke",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVjUHY1VDcyTEVoUGJWLUNQWjFXRVk1eW5Vci1yRkQ5RlpxcHY4eHB5cTZCeE5oRW9zMk82YjN2dDBkeEFNa0t0VXdTTWlNcmhtTU00RWppcnVtalJVLVlObk5VaEVpc1k1YnE1TWhjdmdEWmRlcmR3dFgwWFJCbHFYaldMXzZzdzc4RE13QQ?oc=5"
-    },
-    {
-      "id": "20260915-usa-us-f-1-visa-rules-change-from-septem",
-      "date": "2026-09-15",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "US F-1 visa rules change from September 15, 2026",
-      "summary": "The US reported new F-1 visa rules effective September 15, 2026, affecting international students, OPT, and visa programs.",
-      "source": "Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNRTl3U0lvbEZWM2l3dHNGeXVWMG8tX1AwZDN1Q3pySmpPNGFzdUZaOE1xTEtqRkNsVTFtc2Z1cXdxTjZKMWpsendoYkhWcE1PdlFMVjg0ODlxZk1yd2I3aUdCc1JwOXlZTzhnNmwtNm02ai1RVHJKaS1pOFJxUURDNVJ6X3h2Skx1b0NCVmtNRFFXZDVmZVFKRGtaVDBMdEdLdkRPV29sWFRwUnB6NC12NndobElHV0hCWnRYdFd6a20zU05MU3dhTmRKcnowYWx4Z3lPZlpUMldrWXVVbFhpUURIYnROOXRqbmVWb1FjYU1uLUJZREMydlRHdDU2YXVYZTVJd1lDSzJkZURiU2dYemRfUjhWWXFNN0dvd3doWWdHbjd1RTRB0gGsAkFVX3lxTFB5LVUySDNEY1BkRGd2RmJJN2ZUZVhuVE1VWnlsZm5GMU15M1dFdXB1R1pDTTA3c2NZb0pYT0RtZVRHbF9xSVB6Wmp1dlFlM2I2QS01MjQ2RWY2aDgxdVNiTUhRUXNITENYTGJZYlE2c0JJZ0VuUTl1VWg5NTY0aHpiWFpxcUJsb2dsaW93Z2ctYzVnNHhvVFlnZldiWHBpUlhORW9tQXd2SmpyQ3JtOHBvNTFLZXBfNmpzTzR5bHBHZmdPMmJLWG5pWl92T2NpVkVTTkJPdWZXekJtQmxqN01nOUNpc1pZNjNxZjcxbUdjTFJqcHdxeFpZU1FzZzljUVB5X3ExanRocmwzNUp3ZXpiRy0zYm91WUJuelVtRHg4ZWVEeU1zdGNoRnlHdQ?oc=5"
-    },
-    {
-      "id": "20260911-uk-uk-student-visa-financial-requiremen",
-      "date": "2026-09-11",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK student visa financial requirement rises from November 30",
-      "summary": "UK reported an increase to the student visa financial requirement effective November 30, 2026. The change raises the proof-of-funds threshold for international student visa applicants.",
-      "source": "KollegeApply News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0xzS1BDMGFPNG1BREJYTXNTNmVWeWVyVnV3NnhCTEVRRThlSHlCMGR6RGVOTDB2NUxsZ1I2NVVNTWpJYzU1NzltVm5HNTJlOWVMdEhFRldkTTZKRzZRUXRFT2hfSThRbjloSWtiNXAxZEZyV2FBVnM1RHlBa0NoZDlyS1BPMDViYW9uMTFtbXdyRjdVSjdaejZ2cw?oc=5"
     }
   ]
 }
