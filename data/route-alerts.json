@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T02:15:14.757+05:30",
+  "checked_at": "2026-10-14T02:15:11.358+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -14,14 +14,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
     },
     {
-      "id": "20261009-canada-canada-announces-immigration-fee-exe",
+      "id": "20261009-canada-canada-exempts-special-groups-from-i",
       "date": "2026-10-09",
       "country": "Canada",
       "slug": "canada",
       "kind": "Fee change",
-      "title": "Canada announces immigration fee exemption for special groups",
-      "summary": "Canada reported a new policy exempting immigration fees for families of certain special groups. The specific groups and exemption scope are not detailed in the headline.",
-      "source": "Legit News",
+      "title": "Canada exempts special groups from immigration fees",
+      "summary": "Canada announced fee exemptions for families of certain special groups applying for immigration. The specific groups and exemption scope are detailed in the official announcement.",
+      "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
     },
     {
@@ -36,15 +36,26 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFB2SEdCM3Zoa1BqWFNOZXV3dEI2clFrdV9DVkxyNm50UnBQOFgwQW9kSmp6UnhMVGtZTURCXzFya2RzeDZ5TjV1TEJDckZSejF4Y2NRaXlmSlNtWHFocWxLcWNlRl9ONXR2TFRzNzA2dzBNUFJFN1FaSldZRW1HTjdSV0ZfSVoyQTZzcTBhY3JBZGtpS1dnb2pzb1ROdFBjYTVxeWp6bkduOUtRc2U1UEZEQk8tUkhRVi10bkV30gHEAUFVX3lxTE9VVE9wWTFOZGIyTXFMT2NSRmdWUzg5Wk4zTW95bWkxNlhNZ09yRGd2VnhoZi1EaU1pNUloSzExRnhKUjh1c2lvS3lFTUNHZnliRXg4U09USUVNbG5TMDVtWVdaUmtqek1TSjBuOTNCSnBkNnJ4Q0hrU3ZBcE1Uc3ZrSlBPX25iaUt4ZURzMnlBZ0hQQWhmQ1VhWDc5NGRDTEp3c1JxQjhFZC1Da2RlWG1BQWNaNHVHdXRaZmg4Umx1bmFIR0o?oc=5"
     },
     {
-      "id": "20261007-australia-australia-new-rules-for-dependants-a",
+      "id": "20261007-australia-australia-enforces-new-rules-for-dep",
       "date": "2026-10-07",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia new rules for dependants and student visas",
-      "summary": "Australia has implemented new eligibility rules for accompanying dependants and onshore student visa applications. The changes are now in force.",
+      "title": "Australia enforces new rules for dependants and students",
+      "summary": "Australia implemented new eligibility and processing rules for accompanying dependants and onshore student visa applications, now in force.",
       "source": "ICEF Monitor",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
+    },
+    {
+      "id": "20261007-usa-us-proposes-opt-fees-for-f-1-student",
+      "date": "2026-10-07",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "US proposes OPT fees for F-1 students and extensions",
+      "summary": "US Department of Homeland Security proposed new OPT fees: $70,000 for first-time F-1 students and $30,000 for extensions, shifting costs to educational institutions.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5"
     },
     {
       "id": "20261007-australia-australia-enforces-six-critical-fami",
@@ -56,17 +67,6 @@
       "summary": "Australia has implemented six new family-related eligibility rules for student visa holders. The rules are now in force and affect dependent applications.",
       "source": "NRI Affairs",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXNQTHo0ME04ZVBPNG1GXzQ1MnlTZHRTcFgycnZMbXl5MEQ2MEI4QmJCcVVwQlpzMFZnT2tmSko1WEplSFg0ajByQ05oUzFhUk5HdVhNZVdpNmxZM3JISUpsLVpSS3dZVjdGd0FSMWU?oc=5"
-    },
-    {
-      "id": "20261007-usa-us-proposes-opt-fees-for-colleges-an",
-      "date": "2026-10-07",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "US proposes OPT fees for colleges and F-1 students",
-      "summary": "The US Department of Homeland Security has proposed new OPT fees: $70,000 for first-time F-1 students and $30,000 for extensions. The change affects work authorization costs.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5"
     },
     {
       "id": "20261006-australia-australia-student-visa-fees-hiked-fo",
