@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T02:15:11.358+05:30",
+  "checked_at": "2026-10-15T02:15:11.940+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -14,15 +14,26 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
     },
     {
-      "id": "20261009-canada-canada-exempts-special-groups-from-i",
+      "id": "20261009-canada-canada-announces-fee-exemption-for-s",
       "date": "2026-10-09",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Fee change",
-      "title": "Canada exempts special groups from immigration fees",
-      "summary": "Canada announced fee exemptions for families of certain special groups applying for immigration. The specific groups and exemption scope are detailed in the official announcement.",
+      "kind": "Rule change",
+      "title": "Canada announces fee exemption for special groups",
+      "summary": "Canada reported a new immigration fee exemption for families of certain special groups. The specific groups and exemption scope are not detailed in the headline.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
+    },
+    {
+      "id": "20261008-usa-us-finalizes-9-11-biometric-fee-for",
+      "date": "2026-10-08",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "US finalizes 9-11 biometric fee for H-1B and L-1 visas",
+      "summary": "The US issued a final rule on the 9-11 biometric fee applicable to H-1B and L-1 visa petitions. The specific fee amount is not stated in the headline.",
+      "source": "Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1hNLVdYbThyRzI1ZkFCSHNlYWxRQVpWdGZUR0JBNWt3bnNTX3NOQU5oWVBPaDd2dTFpckZ0RzJUQXk5QWdIcTA4V2FkTFAxTEJiSzJaM3JhZzNlX1hQcFVlZzlnNU5nbmhkQ3l5ekZibE51ZXVLenJyWVVtOEpFMmVieUFPLUZQSHVCOHVodDlxaldnVUpPaWhEbDR2V3d3?oc=5"
     },
     {
       "id": "20261008-usa-us-announces-new-opt-fees-for-f-1-st",
@@ -430,17 +441,6 @@
       "summary": "Canada reported a new financial threshold for study visa applicants requiring demonstration of 1.7 million in funds. This represents an updated proof-of-funds requirement for student visa eligibility.",
       "source": "True Scoop",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0xUVnppaHhETTZXcWFkcEdtX2xqN0Q2SEFGX3NUV254MFZKak5Yd0laeW5PWkFUQ3EycGRYVXFqTEhjQWZZWHZrOGRJWVI3SkNRMk9lYlIwdXdUTDZVYnRVSmpISkRCV19UXzVxN3Y2Zlp5VDlJeV9HZlN2OE9ZQnhucTBsbV9oS3FnaGhkLVpGLUMxd2RTQnBId2dfM0NQdEhjVG0tQ3BZVFUtWDFGNjNsc01zeGZ4NGFQN2JUeVFfd9IBzwFBVV95cUxQbGlzb3MydDFuMTlULVE5MVBOZWdoTW1XR0xmbHRaeHJ6SUw1aC1hZUI2OWYwUzJqa3VobGFZSlA4YXBrSmQ5UmdTaG1lT21NOUVYYjVZM3NyNVJaVFIxQ1QyMW1ET2J0VDdYZE1SOTMyVHpHTmxNZGlNeGl6Q3FaMjdFYUd2dVVJZ1VqLW9NQUJpNVNHTUxlRkJFbk1zRC1mN1l5ZGRIQlVHYWpaa0FVcnNBdm9CVkFSMVFrMklFdnRzcjNvYnNuOFdHSW5wT1k?oc=5"
-    },
-    {
-      "id": "20260916-uk-uk-sets-52-500-salary-floor-for-expa",
-      "date": "2026-09-16",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK sets £52,500 salary floor for expansion worker visa",
-      "summary": "The UK reported establishing a minimum salary threshold of £52,500 for the expansion worker visa category, representing a new eligibility requirement.",
-      "source": "streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVVjUHY1VDcyTEVoUGJWLUNQWjFXRVk1eW5Vci1yRkQ5RlpxcHY4eHB5cTZCeE5oRW9zMk82YjN2dDBkeEFNa0t0VXdTTWlNcmhtTU00RWppcnVtalJVLVlObk5VaEVpc1k1YnE1TWhjdmdEWmRlcmR3dFgwWFJCbHFYaldMXzZzdzc4RE13QQ?oc=5"
     }
   ]
 }
