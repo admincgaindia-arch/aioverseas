@@ -1,7 +1,51 @@
 {
-  "checked_at": "2026-10-15T02:15:11.940+05:30",
+  "checked_at": "2026-10-16T02:15:12.660+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
+      "date": "2026-10-14",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Timeline change",
+      "title": "US DHS to amend premium processing timeframes",
+      "summary": "The US Department of Homeland Security reported plans to propose amendments to premium processing timeframes for visa applications, though specific new timelines are not stated.",
+      "source": "Fragomen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NSQmtZZ0dyd2NjLTROYk5lckZOV1pTQWx5S3ROQzdIeWxNUXF5bHNPZWpTMUlwS2N0NXNPRnN5UU1ONVd0NWw0Y1FoWVFyYWtHUzljYURza1dDOUlCNTAwNlFqVHBUWF9tOWxwcGh3cUV1TThYNEFuY3RFQlRPOW5jZ240NU9JSmNRUl9mV3ZMSU0yZmg1b0toWUhkMGhhWnNWM1VvcEJNQQ?oc=5"
+    },
+    {
+      "id": "20261014-australia-australia-updates-migration-rules-wi",
+      "date": "2026-10-14",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia updates migration rules with higher salaries and costlier visas",
+      "summary": "Australia reported updated migration rules for 2026 including increased visa costs and higher salary requirements, though specific amounts are not stated in the headline.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
+    },
+    {
+      "id": "20261013-usa-us-treats-h-1b-visa-extensions-as-fr",
+      "date": "2026-10-13",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US treats H-1B visa extensions as fresh cases under new rule",
+      "summary": "A new US rule reported that H-1B visa extensions will be processed as fresh cases rather than routine renewals, affecting extension procedures and requirements.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS3ljMzkwRFMtYzhpVlBCQ3RnUjFySy1wQXJVMnh5TEhnTkJ5S2tBTG9kb0JRSXBXZXhqcGxwaUtpWHlDRlhJX2tCOUtrd1lMU1NQNGNuNWhUSzFqV0pfaEVENTZjV3JKcEs5Z2JZSUQyazBDX0dKTXRfUjd2NW9LcVdtanBWZzNGWWlXQmw5NTZBN3BIRHpmakgyd3dXMEg4NjE3dTU2ajNnS3VNWC1PdDdvNDYzd2tQc0VEbnRKc3JrMFhkUjUyMkJXb1llZU1YczVRMVFpRG5uaTlyODBpOW1FTlhpUXZIa0czVko4UUQ4dVhsVElMclJlM1hoZmR6RXk5bmxtYlJLanItV1NQS3lrRS0yZzhTcGVwcWtaOF9yOTExS1HSAasCQVVfeXFMTUxGaDhIaVJaSGxKTnhZU3RsNW9BMVduYzh0eGhnUEU0TzZFeGRleGZHNHVZT3Fhb3oweDg0ZktfZlRGRmtxRGdKaUtLbTRoaDBNOHc5czBfeHNHb1dZUDRVQU9uNU42SDc1TThibmxnWTRVQUYwMjJLSU1BdTAxV2t4SjhhS3VvNkxyQUpLRnJGNWhBTWd6bmoxNmVFOUZEMnRVMmN2aDMwcVpvNEp5Ti1hUGlwdUZGRE9IT0c2STdlUE1OR3ZTcmdVNDVJTEFqZWI3MjFNcVZuaV8tTkVzUGVzUmp4Y1dTM1d2dm41UlM5M0xfYU4tWGRoUzNhTVBnbkRMTHY1OWhQU1YySGg5Z05MMkJBNzFXaXQwa25WYldPbjY2ZERIZ09xMnM?oc=5"
+    },
+    {
+      "id": "20261012-uk-uk-allows-modern-slavery-victims-to",
+      "date": "2026-10-12",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK allows modern slavery victims to change employers on skilled worker visas",
+      "summary": "The UK reported a rule change permitting recognised modern slavery victims holding skilled worker visas to change employers, expanding flexibility for this protected group.",
+      "source": "Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
+    },
     {
       "id": "20261012-canada-canada-eases-study-permit-rule-for-t",
       "date": "2026-10-12",
@@ -14,13 +58,13 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
     },
     {
-      "id": "20261009-canada-canada-announces-fee-exemption-for-s",
+      "id": "20261009-canada-canada-announces-immigration-fee-exe",
       "date": "2026-10-09",
       "country": "Canada",
       "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada announces fee exemption for special groups",
-      "summary": "Canada reported a new immigration fee exemption for families of certain special groups. The specific groups and exemption scope are not detailed in the headline.",
+      "kind": "Fee change",
+      "title": "Canada announces immigration fee exemption for special groups",
+      "summary": "Canada reported a new policy exempting certain special groups and their families from immigration fees. The specific groups and exemption scope are not detailed in the headline.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
     },
@@ -397,50 +441,6 @@
       "summary": "Australia reported new rules banning student dependents and introducing modified visa extension procedures. The changes affect eligibility for family member sponsorship.",
       "source": "StudyTravel Network",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSkdlV0p4RmNEQXB2R1lSUU96dGEwRXM1SF9qX3g0Q09qWV92ZWNxNHJPbXYwZTduYnk3bFl5aWlmNnJCTjRsZmN1bTRPQ2NuUWRlcDJqa0xMYWtIZXc?oc=5"
-    },
-    {
-      "id": "20260916-canada-canada-study-visa-funds-requirement",
-      "date": "2026-09-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada study visa funds requirement increases",
-      "summary": "Canada reported a change to study visa financial requirements effective September 1. Students must now demonstrate higher funds to qualify for study permits under the new rule.",
-      "source": "ptcnews.tv",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHcyTUVDUDNTdm81ZDE0dVJhQk5GNVFDVENXZXZ1T0dYMjAzV1E5S2lGTWN4LV9sOFU1c08zN3FyRzJIZGstS09JbHhfWlc0aHN0MERqMDVocVI3US1VQ3h2TEo4X0YzMXdkY0h6WkhNSzIyQ0NWMDJSTG5Rb2NOUmhmbTVBd0hBckQ0YVFtczl2UnotdmdXVFdUNXowem04NFHSAacBQVVfeXFMTmk4Y1pxWmZIcnBoME9vR1ZDS3pkaWZVRi11WUNHRVhLckNyaC1UZWo4ODlvRWh1clF5NkJoYVVrTWZFZmdJM0xMQTRKak1iRXl6ZzN3eldaclB2RnZsck1XNnBfeTYwZHVGVlFTZGZQNHlFcHRmOFg0cFhEZXYtODlmeUpwX0J5ZDIzbHFjU0ZzcXNmTG9mNUNfbFVDRnVvRWs1VXEzMU0?oc=5"
-    },
-    {
-      "id": "20260916-canada-canada-study-visa-higher-funds-requi",
-      "date": "2026-09-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada study visa: Higher funds requirement from September 1",
-      "summary": "Canada reported that students must demonstrate increased financial resources starting September 1 to qualify for study visas, raising the funds threshold for applicants.",
-      "source": "PTC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTdIBpwFBVV95cUxOaThjWnFaZkhycGgwT29HVkNLemRpZlVGLXVZQ0dFWEtyQ3JoLVRlajg4OW9FaHVyUXk2QmhhVWtNZkVmZ0kzTExBNEpqTWJFeXpnM3d6V1pyUHZGdmxyTVc2cF95NjBkdUZWUVNkZlA0eUVwdGY4WDRwWERldi04OWZ5SnBfQnlkMjNscWNTRnNxc2ZMb2Y1Q19sVUNGdW9FazVVcTMxTQ?oc=5"
-    },
-    {
-      "id": "20260916-canada-canada-study-visa-new-1-7-million-fu",
-      "date": "2026-09-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada study visa: New 1.7 million funds requirement",
-      "summary": "Canada reported new financial requirements for study visa applicants, requiring demonstration of 1.7 million in funds under updated eligibility rules.",
-      "source": "True Scoop",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGlzb3MydDFuMTlULVE5MVBOZWdoTW1XR0xmbHRaeHJ6SUw1aC1hZUI2OWYwUzJqa3VobGFZSlA4YXBrSmQ5UmdTaG1lT21NOUVYYjVZM3NyNVJaVFIxQ1QyMW1ET2J0VDdYZE1SOTMyVHpHTmxNZGlNeGl6Q3FaMjdFYUd2dVVJZ1VqLW9NQUJpNVNHTUxlRkJFbk1zRC1mN1l5ZGRIQlVHYWpaa0FVcnNBdm9CVkFSMVFrMklFdnRzcjNvYnNuOFdHSW5wT1nSAc8BQVVfeXFMUGxpc29zMnQxbjE5VC1ROTFQTmVnaE1tV0dMZmx0WnhyeklMNWgtYWVCNjlmMFMyamt1aGxhWUpQOGFwa0pkOVJnU2htZU9tTTlFWGI1WTNzcjVSWlRSMUNUMjFtRE9idFQ3WGRNUjkzMlR6R05sTWRpTXhpekNxWjI3RWFHdnVVSWdVai1vTUFCaTVTR01MZUZCRW5Nc0QtZjdZeWRkSEJVR2FqWmtBVXJzQXZvQlZBUjFRazJJRXZ0c3Izb2JzbjhXR0lucE9Z?oc=5"
-    },
-    {
-      "id": "20260916-canada-canada-study-visa-financial-requirem",
-      "date": "2026-09-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Threshold change",
-      "title": "Canada study visa financial requirement set at 1.7 million",
-      "summary": "Canada reported a new financial threshold for study visa applicants requiring demonstration of 1.7 million in funds. This represents an updated proof-of-funds requirement for student visa eligibility.",
-      "source": "True Scoop",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0xUVnppaHhETTZXcWFkcEdtX2xqN0Q2SEFGX3NUV254MFZKak5Yd0laeW5PWkFUQ3EycGRYVXFqTEhjQWZZWHZrOGRJWVI3SkNRMk9lYlIwdXdUTDZVYnRVSmpISkRCV19UXzVxN3Y2Zlp5VDlJeV9HZlN2OE9ZQnhucTBsbV9oS3FnaGhkLVpGLUMxd2RTQnBId2dfM0NQdEhjVG0tQ3BZVFUtWDFGNjNsc01zeGZ4NGFQN2JUeVFfd9IBzwFBVV95cUxQbGlzb3MydDFuMTlULVE5MVBOZWdoTW1XR0xmbHRaeHJ6SUw1aC1hZUI2OWYwUzJqa3VobGFZSlA4YXBrSmQ5UmdTaG1lT21NOUVYYjVZM3NyNVJaVFIxQ1QyMW1ET2J0VDdYZE1SOTMyVHpHTmxNZGlNeGl6Q3FaMjdFYUd2dVVJZ1VqLW9NQUJpNVNHTUxlRkJFbk1zRC1mN1l5ZGRIQlVHYWpaa0FVcnNBdm9CVkFSMVFrMklFdnRzcjNvYnNuOFdHSW5wT1k?oc=5"
     }
   ]
 }
