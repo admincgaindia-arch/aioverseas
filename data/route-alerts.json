@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-10-16T02:15:12.660+05:30",
+  "checked_at": "2026-10-17T02:15:12.198+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261016-canada-ottawa-rejects-country-based-study-p",
+      "date": "2026-10-16",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Ottawa rejects country-based study permit caps",
+      "summary": "Canada has rejected the implementation of country-based caps on study permits, removing a previous restriction on international student admissions by nationality.",
+      "source": "IRCC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkRDYTVncTdlNlhvcm44RXJzOUJnZ0xvTC1ycEF4RXJvZ0tZR1pJN191V2sweDJ1cVNWbWtWMU9seGg3MnZzNWplcFJ3cGx0N0lqYUtkLXFybmg4b3E2Q3VmdE1WMGR1X01QdzhRc1ZBSF9jREFSUGtLbU5PZHBadWZ5dllkbDI4bk82MkR1OUZpbmlqWEs1YjRGY0k2aTlFWVE?oc=5"
+    },
+    {
+      "id": "20261016-usa-us-proposes-70-000-opt-fee-for-f-1-s",
+      "date": "2026-10-16",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "US proposes $70,000 OPT fee for F-1 students",
+      "summary": "US has proposed a new Optional Practical Training fee of $70,000 for F-1 visa students, significantly increasing costs for post-graduation work authorization.",
+      "source": "The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5"
+    },
     {
       "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
       "date": "2026-10-14",
@@ -36,26 +58,37 @@
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS3ljMzkwRFMtYzhpVlBCQ3RnUjFySy1wQXJVMnh5TEhnTkJ5S2tBTG9kb0JRSXBXZXhqcGxwaUtpWHlDRlhJX2tCOUtrd1lMU1NQNGNuNWhUSzFqV0pfaEVENTZjV3JKcEs5Z2JZSUQyazBDX0dKTXRfUjd2NW9LcVdtanBWZzNGWWlXQmw5NTZBN3BIRHpmakgyd3dXMEg4NjE3dTU2ajNnS3VNWC1PdDdvNDYzd2tQc0VEbnRKc3JrMFhkUjUyMkJXb1llZU1YczVRMVFpRG5uaTlyODBpOW1FTlhpUXZIa0czVko4UUQ4dVhsVElMclJlM1hoZmR6RXk5bmxtYlJLanItV1NQS3lrRS0yZzhTcGVwcWtaOF9yOTExS1HSAasCQVVfeXFMTUxGaDhIaVJaSGxKTnhZU3RsNW9BMVduYzh0eGhnUEU0TzZFeGRleGZHNHVZT3Fhb3oweDg0ZktfZlRGRmtxRGdKaUtLbTRoaDBNOHc5czBfeHNHb1dZUDRVQU9uNU42SDc1TThibmxnWTRVQUYwMjJLSU1BdTAxV2t4SjhhS3VvNkxyQUpLRnJGNWhBTWd6bmoxNmVFOUZEMnRVMmN2aDMwcVpvNEp5Ti1hUGlwdUZGRE9IT0c2STdlUE1OR3ZTcmdVNDVJTEFqZWI3MjFNcVZuaV8tTkVzUGVzUmp4Y1dTM1d2dm41UlM5M0xfYU4tWGRoUzNhTVBnbkRMTHY1OWhQU1YySGg5Z05MMkJBNzFXaXQwa25WYldPbjY2ZERIZ09xMnM?oc=5"
     },
     {
-      "id": "20261012-uk-uk-allows-modern-slavery-victims-to",
-      "date": "2026-10-12",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK allows modern slavery victims to change employers on skilled worker visas",
-      "summary": "The UK reported a rule change permitting recognised modern slavery victims holding skilled worker visas to change employers, expanding flexibility for this protected group.",
-      "source": "Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
-    },
-    {
       "id": "20261012-canada-canada-eases-study-permit-rule-for-t",
       "date": "2026-10-12",
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada eases study permit rule for temporary workers",
-      "summary": "Canada has eased study permit eligibility rules for temporary workers, reported by the official immigration authority. The change affects work permit holders seeking to pursue studies.",
-      "source": "ircc.com",
+      "summary": "Canada has eased study permit rules for temporary workers. The specific eligibility or processing requirements have been modified to facilitate access.",
+      "source": "IRCC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
+    },
+    {
+      "id": "20261012-uk-uk-allows-modern-slavery-victims-to",
+      "date": "2026-10-12",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK allows modern slavery victims to change employers",
+      "summary": "UK has updated Skilled Worker visa rules to permit recognised modern slavery victims to change employers, expanding eligibility and employment flexibility.",
+      "source": "Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
+    },
+    {
+      "id": "20261011-uk-uk-removes-24-occupations-from-salar",
+      "date": "2026-10-11",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK removes 24 occupations from salary list by December",
+      "summary": "UK announced 24 occupations will lose Immigration Salary List status by December 31, affecting salary threshold eligibility for those roles.",
+      "source": "Legit.ng",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlBtWGIta3RtVFFSWkFFMVJRXzFnRVRxRVdKZ1N1bHFIbkthZ2hfcnR2YnJCZ0xIZUNPNlg3UkhNZ3RGUENSTldyTk9WSFlud0xBeWJTYmFTQy00R1FiSUR0SDlpaFI0STBnaUdmSW5NUWJVUGJVT0FSdDVLRlBLc3dRVHRWVElkT0xVaHRhRzAyeDVOR29MZDB3Z2d4ZzViZHhRbkk0N2FXY2JpdVV6dFV1aw?oc=5"
     },
     {
       "id": "20261009-canada-canada-announces-immigration-fee-exe",
@@ -408,39 +441,6 @@
       "summary": "The H-1B visa fee extension was reported to continue for an additional year amid ongoing legal challenges. The fee amount remains at the previously established level.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlg0dEM0Rll5T0JPZGEyZlRUdXlIY0JtUWhkUXNydnVINUx4bHplQ1pFTEU4cGlwdjIzSDZZeTRfc1dPOWZ1SlRkRmkzUlB6YnZHaFVtbk04djRVVUxjZF94dXhabjRma0FYU192QzhOVmtLcnRYU1d4OEFDSkhud2hHVldicHViYXRlS2Nvc3NjVWUwSGhnUTRwWElkMjg?oc=5"
-    },
-    {
-      "id": "20260917-canada-canada-extends-student-and-visitor-v",
-      "date": "2026-09-17",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Timeline change",
-      "title": "Canada extends student and visitor visa processing times",
-      "summary": "Canada reported increased processing times for student permits and visitor visas. The exact timeline extension was not specified in the announcement.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0lhNGZPS1pIbGRNbWMwekdUU2lYdFFERG9RUDN5blRtY3FFYlJpMTFhOHhpazlpaHc4ck5ydW9yOHA3ZlNVaDhiNmdkYnhRRDhxeUo1Z0dKWWV3ZVZVMV9KNXBVWEZ0cjBUcFdlc2RaVjBHM3ZwQVF2cWJDa0Q5MVVDSUM1aVI2WU5lQ2xsQVJyZUp6aHV3ZzNkNUxHUFNfZ3dmWjBJcXozWEppZVdmSHpXTFA?oc=5"
-    },
-    {
-      "id": "20260917-australia-australia-restricts-family-and-partn",
-      "date": "2026-09-17",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia restricts family and partner visas for students",
-      "summary": "Australia reported tightened study visa rules restricting most students from bringing family members and partners. The eligibility criteria for dependent visas have been modified.",
-      "source": "hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUVlkZXlVamxYZnl3VEhUWWtQLU1WSjByZkEyMEY1YnRocHJ1WVBFU3dGQzJJLTFwcFhueTdzTlNnSmwzdzY3LWxMS2Vna1lzNENHZFZzQ2Y4aXp5cmhvR2h0cHRNMXdqMXJwUEdZWFNxMTBlWHdKYjBoVXJUS01KRU1lNWRNMUVqZVVNQXFHSTlSSnVoOWxsS183OE1udHJNT1h0c2QyY3NGMkNOaUctZUF3dWUyZGxzMWF5d3hnTlFVSmIwRVVNb19zaEE1QVVTTmNibGY4emVhTTIydU9IS3RHLUdROExZMHg1M0pVTy14LUxlV1EzU1d5SGI1MDl50gGGAkFVX3lxTE1od2VZUG4zbG5wS2tMTk9PLTBYRmdYSTllV0hYa0F3bkoxeGJqZmRzQjZRVVBVYTY1Unp1ZTlheDZzblN1cUlLZDU0ZDZxc3RhM3I2SS0wNW4xX042dzNGMnJweWtPS2l6LVJ3Z2d3eGtZN3paekhkWGlfMWVsNTVNUE9iWUhwNWZnLXFNTC1WdkhzV2lIYXFDSUVXdXJkcHVqV2FIR2laQUo0SGJKUE5BT1RWSlFxX2Vob0tZMHBhZEVqYXg0djVFSjhtOVc1b3d1YjdJLThPeU93UFNPUHdTX3dHS0trQ1dQbTc0VE9uV0dmUHc1NWxxNEdGZ3lkM2VQWmtveHc?oc=5"
-    },
-    {
-      "id": "20260917-australia-australia-bans-student-dependents-an",
-      "date": "2026-09-17",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia bans student dependents and changes extensions",
-      "summary": "Australia reported new rules banning student dependents and introducing modified visa extension procedures. The changes affect eligibility for family member sponsorship.",
-      "source": "StudyTravel Network",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSkdlV0p4RmNEQXB2R1lSUU96dGEwRXM1SF9qX3g0Q09qWV92ZWNxNHJPbXYwZTduYnk3bFl5aWlmNnJCTjRsZmN1bTRPQ2NuUWRlcDJqa0xMYWtIZXc?oc=5"
     }
   ]
 }
