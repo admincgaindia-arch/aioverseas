@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-17T02:15:12.198+05:30",
+  "checked_at": "2026-10-18T02:15:12.065+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261017-australia-australia-tightens-student-visa-fami",
+      "date": "2026-10-17",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia tightens student visa family restrictions",
+      "summary": "Australia reported new eligibility rules for student visas, introducing family restrictions that affect international student visa applications and dependant sponsorship.",
+      "source": "The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWxsRzBieUdWT0l3b3FndDhkS2UtR3p3UjRuMjhCLWdjSmRHa0RjM0ZZRlNXbDVMbzdvYnRLYW5YdDBhRkw0Mi16N0V2T3FIOWhwblByN1hOeGU1bkJDMjVMMVZ5Q2JHUTd4LWhyOFhTSE02bG5TMC1sVDh4ZHIxYmNEa09pZ0hpWDd3QkFmbUFXcXF5d2RlSVpQTXNNdGFhOUUtNTVxSlFTR0ZJR0JMeWZ5bWktNTVEQWZZamJfemQ3Vmkwb2VLYWZLa2FoaGN1RDNpTUtvcFJCbHfSAeIBQVVfeXFMUHV1MkxmQ1hrSS1YazJjVHNCdHdnc2dNYWNZOXRDeVBxWFNmaWxULTVfQWxJdWw0OFNOOUlnOHdRN3NxYWhFYUhTX1hwS3EyRVJhZEZZT3RYbmkyaTVJVS1NbUZ0c2VwU29aeUNaRXFXNTZwb3FYUkJZYmhyWFphT0V3ZnFhaVpJNXJtVlFhTklkTThkWDVONXkyVnBEV082MHo4YzhWRGNEdnY0cmplQlpCS1dkZEpJaFRVb0NvcVU3N2I5QkpHdDEzOUZyeHhJYVBPMjZjU1B2a01QeFpGdGhaZw?oc=5"
+    },
     {
       "id": "20261016-canada-ottawa-rejects-country-based-study-p",
       "date": "2026-10-16",
@@ -9,7 +20,7 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Ottawa rejects country-based study permit caps",
-      "summary": "Canada has rejected the implementation of country-based caps on study permits, removing a previous restriction on international student admissions by nationality.",
+      "summary": "Canada reported a policy change rejecting country-based caps on study permits, affecting international student admissions rules and eligibility criteria for applicants.",
       "source": "IRCC",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkRDYTVncTdlNlhvcm44RXJzOUJnZ0xvTC1ycEF4RXJvZ0tZR1pJN191V2sweDJ1cVNWbWtWMU9seGg3MnZzNWplcFJ3cGx0N0lqYUtkLXFybmg4b3E2Q3VmdE1WMGR1X01QdzhRc1ZBSF9jREFSUGtLbU5PZHBadWZ5dllkbDI4bk82MkR1OUZpbmlqWEs1YjRGY0k2aTlFWVE?oc=5"
     },
@@ -25,6 +36,28 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5"
     },
     {
+      "id": "20261014-australia-australia-updates-visa-fees-and-sala",
+      "date": "2026-10-14",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia updates visa fees and salary requirements",
+      "summary": "Australia reported changes to migration rules for 2026, including higher visa fees and updated salary thresholds for skilled worker visas.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
+    },
+    {
+      "id": "20261014-australia-australia-announces-new-visa-fees-an",
+      "date": "2026-10-14",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia announces new visa fees and income requirements",
+      "summary": "Australia reported new visa fees and income threshold requirements for skilled worker immigrants, effective from 2026.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
+    },
+    {
       "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
       "date": "2026-10-14",
       "country": "United States",
@@ -36,24 +69,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NSQmtZZ0dyd2NjLTROYk5lckZOV1pTQWx5S3ROQzdIeWxNUXF5bHNPZWpTMUlwS2N0NXNPRnN5UU1ONVd0NWw0Y1FoWVFyYWtHUzljYURza1dDOUlCNTAwNlFqVHBUWF9tOWxwcGh3cUV1TThYNEFuY3RFQlRPOW5jZ240NU9JSmNRUl9mV3ZMSU0yZmg1b0toWUhkMGhhWnNWM1VvcEJNQQ?oc=5"
     },
     {
-      "id": "20261014-australia-australia-updates-migration-rules-wi",
-      "date": "2026-10-14",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Australia updates migration rules with higher salaries and costlier visas",
-      "summary": "Australia reported updated migration rules for 2026 including increased visa costs and higher salary requirements, though specific amounts are not stated in the headline.",
-      "source": "Tuko News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
-    },
-    {
-      "id": "20261013-usa-us-treats-h-1b-visa-extensions-as-fr",
+      "id": "20261013-usa-h-1b-extensions-treated-as-fresh-cas",
       "date": "2026-10-13",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "US treats H-1B visa extensions as fresh cases under new rule",
-      "summary": "A new US rule reported that H-1B visa extensions will be processed as fresh cases rather than routine renewals, affecting extension procedures and requirements.",
+      "title": "H-1B extensions treated as fresh cases under new rule",
+      "summary": "United States reported a rule change treating H-1B visa extensions as fresh applications, affecting processing procedures and eligibility assessment for visa renewals.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS3ljMzkwRFMtYzhpVlBCQ3RnUjFySy1wQXJVMnh5TEhnTkJ5S2tBTG9kb0JRSXBXZXhqcGxwaUtpWHlDRlhJX2tCOUtrd1lMU1NQNGNuNWhUSzFqV0pfaEVENTZjV3JKcEs5Z2JZSUQyazBDX0dKTXRfUjd2NW9LcVdtanBWZzNGWWlXQmw5NTZBN3BIRHpmakgyd3dXMEg4NjE3dTU2ajNnS3VNWC1PdDdvNDYzd2tQc0VEbnRKc3JrMFhkUjUyMkJXb1llZU1YczVRMVFpRG5uaTlyODBpOW1FTlhpUXZIa0czVko4UUQ4dVhsVElMclJlM1hoZmR6RXk5bmxtYlJLanItV1NQS3lrRS0yZzhTcGVwcWtaOF9yOTExS1HSAasCQVVfeXFMTUxGaDhIaVJaSGxKTnhZU3RsNW9BMVduYzh0eGhnUEU0TzZFeGRleGZHNHVZT3Fhb3oweDg0ZktfZlRGRmtxRGdKaUtLbTRoaDBNOHc5czBfeHNHb1dZUDRVQU9uNU42SDc1TThibmxnWTRVQUYwMjJLSU1BdTAxV2t4SjhhS3VvNkxyQUpLRnJGNWhBTWd6bmoxNmVFOUZEMnRVMmN2aDMwcVpvNEp5Ti1hUGlwdUZGRE9IT0c2STdlUE1OR3ZTcmdVNDVJTEFqZWI3MjFNcVZuaV8tTkVzUGVzUmp4Y1dTM1d2dm41UlM5M0xfYU4tWGRoUzNhTVBnbkRMTHY1OWhQU1YySGg5Z05MMkJBNzFXaXQwa25WYldPbjY2ZERIZ09xMnM?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "Australia reported new rules affecting student visa holders regarding family sponsorship and duration of stay, effective from the announcement date.",
       "source": "Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERseFUyYjdwS3otU1dJWnVOSTR0MVhodHZqMlR2dWpfd1ZpSGxyVVVycWR0WUlOMEg1VFNCSDZKcDQ4TVNQVXR1a2dISTlQakJ0aXMxZE1yUFh5d0QzZVhCcC1uN1psMXpBWm5WXzVZT1ByU0VuVUxPT0pXSzVPT0JFVGg5VWFjam9OYk5WZGhLRVZnQUJBMGFCYnI3MVRJWndKUlJjWndQaTFzYUlYZFZHc3pNajNmbXhzOTVuY2QzQU4xMlRTdHdxenRmaVpR0gHWAUFVX3lxTE01MTZuWjY2UzJ3cGtNWEIxUWNjQkpQTjlVb3BHUktSTEMxY3NpRnFjVE92OTdCNjNsYmZDcDRUbi1pVWQtMGd4YTlaS2JheGpVTVlhZTlhYXNfSjYwalpGLWNYZFZCM25JSVMxNlBxMHFKdGxJLVRsblJudzV3TlFtNmplYkZhQkthRHdiVDJlZHJQNXU0NXpuZFVnLUVGMXlxYmdIY0tmY1JjcXhDTDFxbndjR2hCRXFnaF9UekUwOFM4M01OcVFxYUFqNHZTeXh2THJrdUE?oc=5"
-    },
-    {
-      "id": "20260925-canada-canada-waives-visa-fee-for-visitor-c",
-      "date": "2026-09-25",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Fee change",
-      "title": "Canada waives visa fee for visitor category",
-      "summary": "Canada reported a visa fee waiver for a category of visitors. The specific visitor category is not detailed in the headline, but the fee elimination represents a policy change affecting travel to Canada.",
-      "source": "Yen.com.gh",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTl0ektiT0FLa2tfM2xIckdDTXF6eGFMS0o0cGVSdkM5Y3ZwbW9fY2FxZVFzZ19WSmZRWFItbk5hcnpCQ2Q0eVo0OEJZLVRGZTlRMTkySWlDbnZxYXgtYU9OYi01TE1KU2tLczBsM2Juek84UDd1cUszLTRTaE1UUHl4UEo5cUMtMTE3ZzVONUV0TUV0WXAwWWVvSy1kb0NOZHBiNC04UGI?oc=5"
-    },
-    {
-      "id": "20260919-usa-trump-extends-h-1b-visa-fee-for-anot",
-      "date": "2026-09-19",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "Trump extends H-1B visa fee for another year",
-      "summary": "The H-1B visa fee extension was reported to continue for an additional year amid ongoing legal challenges. The fee amount remains at the previously established level.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlg0dEM0Rll5T0JPZGEyZlRUdXlIY0JtUWhkUXNydnVINUx4bHplQ1pFTEU4cGlwdjIzSDZZeTRfc1dPOWZ1SlRkRmkzUlB6YnZHaFVtbk04djRVVUxjZF94dXhabjRma0FYU192QzhOVmtLcnRYU1d4OEFDSkhud2hHVldicHViYXRlS2Nvc3NjVWUwSGhnUTRwWElkMjg?oc=5"
     }
   ]
 }
