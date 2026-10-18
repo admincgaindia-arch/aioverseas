@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T02:15:12.065+05:30",
+  "checked_at": "2026-10-19T02:15:12.344+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia tightens student visa family restrictions",
-      "summary": "Australia reported new eligibility rules for student visas, introducing family restrictions that affect international student visa applications and dependant sponsorship.",
+      "summary": "Australia has tightened student visa rules, introducing new restrictions on family members of international students. The specific restrictions are not detailed in the headline.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWxsRzBieUdWT0l3b3FndDhkS2UtR3p3UjRuMjhCLWdjSmRHa0RjM0ZZRlNXbDVMbzdvYnRLYW5YdDBhRkw0Mi16N0V2T3FIOWhwblByN1hOeGU1bkJDMjVMMVZ5Q2JHUTd4LWhyOFhTSE02bG5TMC1sVDh4ZHIxYmNEa09pZ0hpWDd3QkFmbUFXcXF5d2RlSVpQTXNNdGFhOUUtNTVxSlFTR0ZJR0JMeWZ5bWktNTVEQWZZamJfemQ3Vmkwb2VLYWZLa2FoaGN1RDNpTUtvcFJCbHfSAeIBQVVfeXFMUHV1MkxmQ1hrSS1YazJjVHNCdHdnc2dNYWNZOXRDeVBxWFNmaWxULTVfQWxJdWw0OFNOOUlnOHdRN3NxYWhFYUhTX1hwS3EyRVJhZEZZT3RYbmkyaTVJVS1NbUZ0c2VwU29aeUNaRXFXNTZwb3FYUkJZYmhyWFphT0V3ZnFhaVpJNXJtVlFhTklkTThkWDVONXkyVnBEV082MHo4YzhWRGNEdnY0cmplQlpCS1dkZEpJaFRVb0NvcVU3N2I5QkpHdDEzOUZyeHhJYVBPMjZjU1B2a01QeFpGdGhaZw?oc=5"
     },
@@ -36,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5"
     },
     {
+      "id": "20261014-australia-australia-raises-visa-fees-and-incom",
+      "date": "2026-10-14",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia raises visa fees and income requirements",
+      "summary": "Australia has raised visa fees and income requirements for skilled worker immigrants. Specific fee amounts and threshold figures are not provided in the headline.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
+    },
+    {
       "id": "20261014-australia-australia-updates-visa-fees-and-sala",
       "date": "2026-10-14",
       "country": "Australia",
@@ -45,17 +56,6 @@
       "summary": "Australia reported changes to migration rules for 2026, including higher visa fees and updated salary thresholds for skilled worker visas.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
-    },
-    {
-      "id": "20261014-australia-australia-announces-new-visa-fees-an",
-      "date": "2026-10-14",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Australia announces new visa fees and income requirements",
-      "summary": "Australia reported new visa fees and income threshold requirements for skilled worker immigrants, effective from 2026.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
     },
     {
       "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
@@ -86,18 +86,18 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada eases study permit rule for temporary workers",
-      "summary": "Canada has eased study permit rules for temporary workers. The specific eligibility or processing requirements have been modified to facilitate access.",
+      "summary": "Canada has eased study permit eligibility rules for temporary workers, reported by the immigration authority. The specific details of the relaxed requirements are not itemized in available reporting.",
       "source": "IRCC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
     },
     {
-      "id": "20261012-uk-uk-allows-modern-slavery-victims-to",
+      "id": "20261012-uk-uk-allows-modern-slavery-victims-emp",
       "date": "2026-10-12",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Rule change",
-      "title": "UK allows modern slavery victims to change employers",
-      "summary": "UK has updated Skilled Worker visa rules to permit recognised modern slavery victims to change employers, expanding eligibility and employment flexibility.",
+      "title": "UK allows modern slavery victims employer mobility",
+      "summary": "The UK has changed skilled worker visa rules to allow recognised modern slavery victims to change employers. This expands employment flexibility for this visa category.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
     },
