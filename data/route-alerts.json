@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-20T02:15:12.067+05:30",
+  "checked_at": "2026-10-21T02:15:11.576+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
+      "date": "2026-10-20",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada drops LMIA requirement for Express Entry",
+      "summary": "Canada reported removal of Labour Market Impact Assessment requirement for eligible Express Entry job offers, simplifying the application process for qualified candidates.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
+    },
     {
       "id": "20261017-australia-australia-tightens-student-visa-fami",
       "date": "2026-10-17",
@@ -47,6 +58,17 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5"
     },
     {
+      "id": "20261014-australia-australia-announces-new-visa-fees-an",
+      "date": "2026-10-14",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Threshold change",
+      "title": "Australia announces new visa fees and income requirements",
+      "summary": "Australia reported new visa fees and income requirements for skilled worker immigrants, though specific amounts were not detailed in the announcement.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
+    },
+    {
       "id": "20261014-australia-australia-updates-visa-fees-and-sala",
       "date": "2026-10-14",
       "country": "Australia",
@@ -56,17 +78,6 @@
       "summary": "Australia reported updated migration rules for 2026 including higher visa costs and increased salary thresholds for skilled worker migrants, effective in 2026.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
-    },
-    {
-      "id": "20261014-australia-australia-announces-new-visa-fees-an",
-      "date": "2026-10-14",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Threshold change",
-      "title": "Australia announces new visa fees and income requirements",
-      "summary": "Australia announced new visa fees and income requirements for skilled worker immigrants. Both financial thresholds and processing fees have been updated.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
     },
     {
       "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
@@ -430,17 +441,6 @@
       "summary": "The UK reported easing immigration requirements for Erasmus+ programme visitors effective October 8, affecting Indian students and participants.",
       "source": "The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOd9IB-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOdw?oc=5"
-    },
-    {
-      "id": "20260927-canada-canada-citizenship-fee-waiver-for-el",
-      "date": "2026-09-27",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Fee change",
-      "title": "Canada citizenship fee waiver for eligible categories",
-      "summary": "Canada announced fee-free citizenship applications for certain categories of people, eliminating processing fees for qualifying applicants.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1I2Z21vbjJ5VVhLRVFHelI1Z1dnSlN1a0hlQ3JqbXJ6ek01ZTJSWEE2al9YTHlFOWs3WWtNWlFWOW5nQmY1Qk8wZHV5blkwblExZk9pSzNlTUlEN0ZVWTlnYkVRcE5EOHBNZTZCVlBfazJzTFhVeXpVSWhDLWYyazFwNVI3TnNPODRyUmlqQnhacnRiMXpfN1Fsa1dPOW9EMXlENjFtdW9pZFQ4?oc=5"
     }
   ]
 }
