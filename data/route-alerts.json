@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T02:15:11.576+05:30",
+  "checked_at": "2026-10-22T02:15:13.528+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,9 +9,31 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada drops LMIA requirement for Express Entry",
-      "summary": "Canada reported removal of Labour Market Impact Assessment requirement for eligible Express Entry job offers, simplifying the application process for qualified candidates.",
+      "summary": "Canada reported removing the Labour Market Impact Assessment requirement for eligible Express Entry job offers. This simplifies the processing rules for work-based immigration pathways.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
+    },
+    {
+      "id": "20261019-uk-uk-tightens-immigration-application",
+      "date": "2026-10-19",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK tightens immigration application rules",
+      "summary": "The UK reported tightening immigration application rules effective October 2026. The headline confirms a rule change taking effect, though specific details are not provided in the snippet.",
+      "source": "The Kenyan Diaspora Media",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb29JNXJoN2ZCdFI1WktDR1ZETFUzQlhZVjU5Tk5Rci0ybTRJbUtkQmx0YkgtRURtZV81b2dDclRWdlJ4RHBUblVBeVVTcXpuejJnQ3pGOTdyNjA0djZhUHUtOEtMZDlIU09WZDE2TElOcUxxNGJWa256NTRwOWRZdFpQQUVnSnBnZlRqQWVBRUZVQ0xSeERtZVg5SVRYOUpGTUtaQ0R2X29OcWZ3bVRYV3B0UHZQdw?oc=5"
+    },
+    {
+      "id": "20261018-uk-uk-sets-condition-for-foreign-worker",
+      "date": "2026-10-18",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK sets condition for foreign workers to change employer",
+      "summary": "The UK Home Office reported publishing a condition that foreign workers must meet to change employers without losing their visa. This represents a new eligibility rule for visa holders.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm1NVmtmRi1USGRUcnl4c2gyVnJXV2RxTjA5WlVDMENvRjFaZURWM0d6V3lVMGxsNFRYT0Q3eEVYajh6UnN1SUdxNFpXd2szeFZUZGtXX2dadHlfLUlfNFRSUk1td2RiVnhaLU91azFqRUxBNlJ2MG1OV2xmVGhXWHlrTWFKX3Y1X3VCOXM3Z1BBLTZlYkdjX3E5NzlFaV9IX0pRbkhBYWVyX2ZUQlNHbjFlTnQ?oc=5"
     },
     {
       "id": "20261017-australia-australia-tightens-student-visa-fami",
@@ -20,7 +42,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia tightens student visa family restrictions",
-      "summary": "Australia reported tightened student visa rules with new family restrictions for international students. The eligibility and sponsorship rules for student visa holders have been modified.",
+      "summary": "Australia reported new restrictions on student visas, specifically tightening rules around family members accompanying international students. The change affects eligibility and sponsorship requirements for student visa holders.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWxsRzBieUdWT0l3b3FndDhkS2UtR3p3UjRuMjhCLWdjSmRHa0RjM0ZZRlNXbDVMbzdvYnRLYW5YdDBhRkw0Mi16N0V2T3FIOWhwblByN1hOeGU1bkJDMjVMMVZ5Q2JHUTd4LWhyOFhTSE02bG5TMC1sVDh4ZHIxYmNEa09pZ0hpWDd3QkFmbUFXcXF5d2RlSVpQTXNNdGFhOUUtNTVxSlFTR0ZJR0JMeWZ5bWktNTVEQWZZamJfemQ3Vmkwb2VLYWZLa2FoaGN1RDNpTUtvcFJCbHfSAeIBQVVfeXFMUHV1MkxmQ1hrSS1YazJjVHNCdHdnc2dNYWNZOXRDeVBxWFNmaWxULTVfQWxJdWw0OFNOOUlnOHdRN3NxYWhFYUhTX1hwS3EyRVJhZEZZT3RYbmkyaTVJVS1NbUZ0c2VwU29aeUNaRXFXNTZwb3FYUkJZYmhyWFphT0V3ZnFhaVpJNXJtVlFhTklkTThkWDVONXkyVnBEV082MHo4YzhWRGNEdnY0cmplQlpCS1dkZEpJaFRVb0NvcVU3N2I5QkpHdDEzOUZyeHhJYVBPMjZjU1B2a01QeFpGdGhaZw?oc=5"
     },
@@ -31,7 +53,7 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada Express Entry changes effective November 3",
-      "summary": "Canada reported new Express Entry changes taking effect November 3, 2026. Specific rule modifications were not detailed in the headline, but the change is confirmed as effective on a stated date.",
+      "summary": "Canada reported new Express Entry changes taking effect November 3, 2026. The snippet does not specify the nature of the changes, but the headline indicates a confirmed policy update to the Express Entry system.",
       "source": "INC News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TTViaHRPZDA3SW5qSFRtMy1tT25IUEpGdFJsbE5jWldlYTFCdTNvQ0dKVXpLTWxqYV9BRlFudEpNRERuZDg0bUdqRW9ZcUpuaG8yclFwMHJuWldicW9GYU9WRDlxWE9BQ2ZuQTRlWDZ3OVAtb19XQ0s1N19BZw?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "USCIS reported a final rule increasing EB-5 visa fees, effective November 30. Specific fee amounts were not disclosed in the headline.",
       "source": "Fragomen",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVFnV1Z2Sm9Jc2tDY1dRQkwzOVBjM3hmZFZpUUg0XzZKQXJqMXdoWVJzSlJpS2F4ZWRCb2F4NFBzUWxyajZGc2gxLVBDYWdHYXR0bElBZXhLY1V1UHYySlJJUjZ1OFZ2MVI5bDZCbDY5bUg5YjNtdWFEYkNsWXE2OHBfdzJYaTM3TlR3Zi1fVWgycWlSVU5wenM1dVAzdw?oc=5"
-    },
-    {
-      "id": "20260929-new-zealand-new-zealand-family-visa-system-moves",
-      "date": "2026-09-29",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Timeline change",
-      "title": "New Zealand family visa system moves online from November 16",
-      "summary": "New Zealand reported family visa applications will transition to an enhanced online system from November 16.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1ByWjh2bkdVbHBXekJISHRoaEQ2NllBRmlMREV3WWljNkx2OWc4TUtMZmRiNWk5N1hHMWZkaWtMWEtCelA5NmJMNW5BejQwajlVSDlnb3NRQUp2MlZNWjN1Y0dwOVVFNmVJczRWNUtUVG1ZckNOcnQ4eXFicjQ3SFdNRS1FNXVBQ2Q5ZjZ4UjFUckpUQldnRkNDWk5ULTkySVJ5eE5TQVo3UnFFbEd6cDRaS2RNVE1jVHE0V2RYZTNnWXEtYmpOYU1JMVNtcjlvTFcxU1dxUU56d3dDTGxpWDdFRnPSAeoBQVVfeXFMTzA1MjllcU5IX3JaR0R6WDNHX0h4UHlUdTZqemRUdy13MG93cG9BYUxHTHZlMTFFTDFiNW44MXRYZjI2RWRMbmltRjItTjl1OFJKSzhUUkxFOGY4aVp2czdkVU5IWUdvWmNVbjNvRzhXMzRYdFR4LTZfY0xCUkQxR2xzQ1p4YlNJYVJiV0oxX1NQNlR2YkZqWWtPRWZKV21HbFZQbTRLOGlKM25EdUx5bU9xa01HSjBWMmlEQXgzQlB0ZHFfQ1hrdHlpWUkwOVAxenU5OVVPWmdRcjVXaU9iMV9FYVNNYmdKWWJn?oc=5"
-    },
-    {
-      "id": "20260929-uk-uk-eases-immigration-rules-for-erasm",
-      "date": "2026-09-29",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK eases immigration rules for Erasmus+ visitors from October 8",
-      "summary": "The UK reported easing immigration requirements for Erasmus+ programme visitors effective October 8, affecting Indian students and participants.",
-      "source": "The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOd9IB-wFBVV95cUxQWUpnM3BrSGt3S0ltcTYyMjROV3RlRzNEcWJyVV9BY1EtaXp6b3VUaGN0OGRZLTRiSE5RZnpoYlIydEhMVS1tTS1uRmtGRmxWUVJYcmFpdWNHWWxmeEw1RG5KRFV3VTVmWW1fUWF3VlAxRXJaRzhROTdRRDZpTEVrR0FES1FnMUhpd0RCaDVxUm1HZmtnbmRpMFNCVEhBczhkSi1ISWNYQVhDcVUxTV9OZmVZQ1M4M0hoQjZWZk9CbDJPVmNYMXUtS1ZkNFlLbGtYa29pMk9OSFEwUkZMOHBBZFcyeVhOME5fVGVRbUJDNGFaUi11MlNPS2xOdw?oc=5"
     }
   ]
 }
