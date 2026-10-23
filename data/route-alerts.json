@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-10-23T02:15:13.386+05:30",
+  "checked_at": "2026-10-24T02:15:11.961+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261020-canada-canada-removes-lmia-requirement-for",
+      "date": "2026-10-20",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada removes LMIA requirement for Express Entry",
+      "summary": "Canada reported dropping the Labour Market Impact Assessment requirement for eligible Express Entry job offers. This simplifies the application process and eligibility pathway for skilled workers.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
+    },
     {
       "id": "20261020-new-zealand-new-zealand-opens-5-000-work-visas-f",
       "date": "2026-10-20",
@@ -12,17 +23,6 @@
       "summary": "New Zealand reported opening 5,000 work visa positions for Indian applicants with specific eligibility rules. The snippet confirms a new visa allocation and associated qualification criteria.",
       "source": "awaaz.co.nz",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5"
-    },
-    {
-      "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
-      "date": "2026-10-20",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada drops LMIA requirement for Express Entry",
-      "summary": "Canada reported removing the Labour Market Impact Assessment requirement for eligible Express Entry job offers. This simplifies the processing rules for work-based immigration pathways.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
     },
     {
       "id": "20261019-usa-us-proposes-h-1b-salary-threshold-in",
@@ -58,13 +58,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm1NVmtmRi1USGRUcnl4c2gyVnJXV2RxTjA5WlVDMENvRjFaZURWM0d6V3lVMGxsNFRYT0Q3eEVYajh6UnN1SUdxNFpXd2szeFZUZGtXX2dadHlfLUlfNFRSUk1td2RiVnhaLU91azFqRUxBNlJ2MG1OV2xmVGhXWHlrTWFKX3Y1X3VCOXM3Z1BBLTZlYkdjX3E5NzlFaV9IX0pRbkhBYWVyX2ZUQlNHbjFlTnQ?oc=5"
     },
     {
-      "id": "20261017-australia-australia-tightens-student-visa-fami",
+      "id": "20261017-canada-canada-express-entry-adds-points-for",
+      "date": "2026-10-17",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada Express Entry adds points for high-wage jobs",
+      "summary": "Canada reported changes to Express Entry scoring, awarding extra points to applicants in high-wage positions. This alters the eligibility and ranking criteria for skilled worker selection.",
+      "source": "The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ1pCSzhZeGlaTXBpTWZ0bnRzdkRTaVFVYXNTekRIY2wyWlJJTzZ6al8yWWlLeTV4QU5MaVlpc092aFZmQUtEOWRod3lOZ2w5YkI3NnBBOXRxenNtMlpweXYtRWR5X0xhN0QtaGtMMWp1eGstdzNfdUdUcFZXT0ZHa2oxc2kzYUxmelJkZ0hhSVNTY3N6czJBUnNqLXZBSWdqRC1NS2dPSV96d3Vxd05tTGpoS0pYWUh4MUhxNnhGeGtySzdLZG9yTGpUWWlUV1ZiZDN5NEt4ZXQ5TGFRVm5VaUo4M19HSkFCOGd5eHVTWHRDQjNUTzY2S0Nn0gGAAkFVX3lxTE95QV83UlN2M1FfS29UWFQwVVdaQW9yanRvbkNLWWsxd0w5RkRSWkN6YXBuMWUyWFpFdHlDMnU2YjBkN1lmR0RaUzU4Vjg1RnNjX3FSNU5FQVo1UEhYU2pORzc5RnJaSmlQQXRQeFlnUlpTOFA5N25LcE5Gc2RsM1pqbWs2cEk4MmFNSDdlaC10U3NCTndKQ2xYbGs3anZKUEotLUpaVkdmT2thbUNnRXpSSzJTQjF5Yk1zRmM1dTY2cTNENHJPcGstenNKUjNqU2o0RVo3RWp4ZmVXR05icEZnTXo1RE1tM3lwXzhLTi1qOFV0S2t1WXhEbDhWZjJjM2E?oc=5"
+    },
+    {
+      "id": "20261017-australia-australia-student-visa-family-restri",
       "date": "2026-10-17",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens student visa family restrictions",
-      "summary": "Australia reported tightened student visa rules introducing new family restrictions for international students. Specific details of the restrictions are not provided in the snippet.",
+      "title": "Australia student visa family restrictions tightened",
+      "summary": "Australia reported new family restrictions on student visas, tightening eligibility rules for international students. The change affects dependent sponsorship and family composition requirements.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWxsRzBieUdWT0l3b3FndDhkS2UtR3p3UjRuMjhCLWdjSmRHa0RjM0ZZRlNXbDVMbzdvYnRLYW5YdDBhRkw0Mi16N0V2T3FIOWhwblByN1hOeGU1bkJDMjVMMVZ5Q2JHUTd4LWhyOFhTSE02bG5TMC1sVDh4ZHIxYmNEa09pZ0hpWDd3QkFmbUFXcXF5d2RlSVpQTXNNdGFhOUUtNTVxSlFTR0ZJR0JMeWZ5bWktNTVEQWZZamJfemQ3Vmkwb2VLYWZLa2FoaGN1RDNpTUtvcFJCbHfSAeIBQVVfeXFMUHV1MkxmQ1hrSS1YazJjVHNCdHdnc2dNYWNZOXRDeVBxWFNmaWxULTVfQWxJdWw0OFNOOUlnOHdRN3NxYWhFYUhTX1hwS3EyRVJhZEZZT3RYbmkyaTVJVS1NbUZ0c2VwU29aeUNaRXFXNTZwb3FYUkJZYmhyWFphT0V3ZnFhaVpJNXJtVlFhTklkTThkWDVONXkyVnBEV082MHo4YzhWRGNEdnY0cmplQlpCS1dkZEpJaFRVb0NvcVU3N2I5QkpHdDEzOUZyeHhJYVBPMjZjU1B2a01QeFpGdGhaZw?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "UK toughened permanent residency rules by announcing a higher threshold for applicants seeking long-term settlement status.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHBBY084ZEUtLUpZalQwb1RHdFZJenRyVlctcEQyZUQ0M0NwU3BrZHpfd1dGNGdQMExBeUgtdnVsUUVaNW9oc1ZhWWFYZEg2MEsyMGlxMU1HOUc3Q2w3OGRfNW1zTkwwZ093M24zSXhUaHk1MXJGVlREeDlmOE5oQ1NyQkhTRTlhS1lWc2hENXF3elZxcDJCa3I0bU10Wkw4UUZqRTd6M0lPOXprN2c?oc=5"
-    },
-    {
-      "id": "20260930-uk-uk-implements-new-family-residency-a",
-      "date": "2026-09-30",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK implements new family residency and visa rules from October 1",
-      "summary": "The UK reported new family residency rules and visa updates effective October 1, 2026, affecting migrants including those from India.",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNSXRIZ3VYMmlwNmVucXZOQ2RMVDd6SGZTdUpwVnhOTWxTM0lhamo4Y3ZxYnVmUXlOZXYxZVFfYUZHS1I0M2ZDVmVqQmNUUFJfbmpLbDdpeHQ0V1B3d2I4M18zLTRPcmRlZjhraDJ4QnRUX1ZMd21XZzh1MHdCMlByV05kWkpEY3NJTEptamd5MTRrS0RDRU9RRkFTRDNaT0JhQW1RYUcwdDFlaGUyMjZKMkxMNFlyQzY3WlhtNEJBb2ZoVkVOX2hCb3U5Ql9wUGlaZmVjV0VfcWg3bFFUcWdHUFZ0MXVmNUhNUUhwdXhJUmdFUFllYnNXQlNuUzFIX1BabjZCaVBLRFFIRVR6ZkdtQVRRTEZTQ1phN3pWSnBwSUtVZ9IBpwJBVV95cUxNWXlfLVZkLWMzaEUyYjRMSTE4RzMzTWo0dWdVWXdtU0hJNEtZS0NUcHktQmtEWVZaSTIzV05kSUFJZ0lMc0pXX0QzTnBocjBLaUVCYVlveVpsYmpnaF9wOUZzWm5YV3QzRl9TV29KWndlZV9uNnU0Z0R2MERhdExTZU03YmhJcktQYkJoOTAyMDc1THAwUm45TFZ3ZndGWXdYYjRyRldjVTRTY3lZLUllbll4SnRBb1otMlhSVlhVa254bTZVMVEwazhOMENSLXBSRjEycTdJMGloeHhkcnpNYkcyM18yNnYtQmticGpwQ1RaWkpaMnRLZkxoZ3hTeFUwOUlKak5Lb1lQMUF2bVBvNW1ZTVJYWmFsQU5MMVVkcDZjUVR5MDFJ?oc=5"
     }
   ]
 }
