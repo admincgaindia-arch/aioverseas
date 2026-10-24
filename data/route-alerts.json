@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-10-24T02:15:11.961+05:30",
+  "checked_at": "2026-10-25T02:15:10.179+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20261020-canada-canada-removes-lmia-requirement-for",
+      "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
       "date": "2026-10-20",
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada removes LMIA requirement for Express Entry",
-      "summary": "Canada reported dropping the Labour Market Impact Assessment requirement for eligible Express Entry job offers. This simplifies the application process and eligibility pathway for skilled workers.",
+      "title": "Canada drops LMIA requirement for Express Entry",
+      "summary": "Canada has removed the Labour Market Impact Assessment requirement for eligible Express Entry job offers, simplifying the work permit application process for qualified candidates.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
     },
@@ -23,6 +23,17 @@
       "summary": "New Zealand reported opening 5,000 work visa positions for Indian applicants with specific eligibility rules. The snippet confirms a new visa allocation and associated qualification criteria.",
       "source": "awaaz.co.nz",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5"
+    },
+    {
+      "id": "20261019-new-zealand-new-zealand-updates-partnership-visa",
+      "date": "2026-10-19",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand updates partnership visa rules",
+      "summary": "New Zealand has introduced new visa rules affecting nine categories in partnership visa applications, reported to impact immigration eligibility and processing requirements.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5"
     },
     {
       "id": "20261019-usa-us-proposes-h-1b-salary-threshold-in",
@@ -430,17 +441,6 @@
       "summary": "New Zealand clarifies location requirements for accredited employer work visa holders, affecting where visa holders may be required to work.",
       "source": "Fragomen",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5"
-    },
-    {
-      "id": "20260930-uk-uk-raises-permanent-residency-thresh",
-      "date": "2026-09-30",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises permanent residency threshold",
-      "summary": "UK toughened permanent residency rules by announcing a higher threshold for applicants seeking long-term settlement status.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHBBY084ZEUtLUpZalQwb1RHdFZJenRyVlctcEQyZUQ0M0NwU3BrZHpfd1dGNGdQMExBeUgtdnVsUUVaNW9oc1ZhWWFYZEg2MEsyMGlxMU1HOUc3Q2w3OGRfNW1zTkwwZ093M24zSXhUaHk1MXJGVlREeDlmOE5oQ1NyQkhTRTlhS1lWc2hENXF3elZxcDJCa3I0bU10Wkw4UUZqRTd6M0lPOXprN2c?oc=5"
     }
   ]
 }
