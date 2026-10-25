@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T02:15:10.179+05:30",
+  "checked_at": "2026-10-26T02:15:10.303+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -25,26 +25,26 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5"
     },
     {
-      "id": "20261019-new-zealand-new-zealand-updates-partnership-visa",
-      "date": "2026-10-19",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand updates partnership visa rules",
-      "summary": "New Zealand has introduced new visa rules affecting nine categories in partnership visa applications, reported to impact immigration eligibility and processing requirements.",
-      "source": "Tuko News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5"
-    },
-    {
-      "id": "20261019-usa-us-proposes-h-1b-salary-threshold-in",
+      "id": "20261019-usa-us-h-1b-salary-threshold-raised-to-1",
       "date": "2026-10-19",
       "country": "United States",
       "slug": "usa",
       "kind": "Threshold change",
-      "title": "US proposes H-1B salary threshold increase to $140,000",
-      "summary": "The US reported a proposal to raise the H-1B visa salary threshold from $60,000 to $140,000. This represents a significant increase in the minimum wage requirement for H-1B eligibility.",
+      "title": "US H-1B salary threshold raised to $140,000",
+      "summary": "The US proposes raising the H-1B visa salary threshold from $60,000 to $140,000, affecting eligibility rules for Indian workers and employer requirements.",
       "source": "The Sunday Guardian",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNXzBMWUlRNDVRZXhCQTNCb09sQmxmOFFIMktsTzJHTUVkQjdPS254U192TWpmUkp3a3BkTk00TnRfZzZxUEpDNDZKRDF3c1lwdjZRQ0RSaUpTclQzRTZtZkpXLUREQnRnTWI4LW4wS2U1cUdmYjFQakRfWGZGX1BiYXdrV3BCSzRPdGJ3RXF5ZWJGWW5FRlpVQm1IUUgtd0NGNTQ0c3ZUVkFuc3NuYktMQWxBaldKUUtnMDV2YjBkMmIyMXBRSzNjem80VDlVSUNXRGhvZU1jenhYSVBwenkzOGJ3OHB0cWM5c2NPMDBPNUh0QjNhUGlUMGY1SUhEOURfQ2tWWWxtNGp1SVBWR0tuNWFkQ1ZWRzRIVkNOdG5OZDhNcDl3TTQ2V3lPX2FGQnJuTkhBX3JZY050UdIBvwJBVV95cUxPV09MaVptdmVrbFF0Yl84VmhvVUxiSFMxLXNwc3ZrOE1EQ2l2czZpMVI2ejhfUVZKc1ZIcDIwQ3Vvd1JWWm53VUY0TnU5Sk9JejZwbE9Kdm9sNFQxS0xscmt3cTRQQ3N1ZTZ5TktkdjVnQzd2b2MyRzBQYXNUVFppVzY1ejJWeERrd1AwdHR3VHI1V3FpQUNDVnR2NTdRbVhxS2FtUnRPUkVBQWhVNEF0M3k2YUhOaWs4NG5LOWptUDd5M2phSmU4RTQzT0VjazgxMG4yeEdpRmJqVlZUdDJXYlp4TVk0dTEyM0Jka3ZTakdOUmlGdDBmYzFJcVg5VHMyd3dlYnozZlJOQVlrMkdzejVrNVlla3NHdDBDWUVmbGtkbEZPSWRzQm5qSHV5ZnlfdUpmNmU4WF92NDRTQjZR?oc=5"
+    },
+    {
+      "id": "20261019-new-zealand-new-zealand-introduces-new-partnersh",
+      "date": "2026-10-19",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand introduces new partnership visa rules",
+      "summary": "New Zealand introduces new visa rules affecting nine categories in partnership visa applications, reported as a policy change effective immediately.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5"
     },
     {
       "id": "20261019-uk-uk-tightens-immigration-application",
