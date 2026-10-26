@@ -1,7 +1,40 @@
 {
-  "checked_at": "2026-10-26T02:15:10.303+05:30",
+  "checked_at": "2026-10-27T02:15:11.909+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261026-uk-uk-charges-universities-1-200-per-in",
+      "date": "2026-10-26",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK charges universities $1,200 per international student",
+      "summary": "UK introduces new $1,200 annual levy on universities for each international student, including those from India. Reported to generate $594 million in first-year revenue from affected institutions.",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlUWExjOUVoT1dSNFNOUXViTXhNdGdGMUg5VjRxSUVSLVUtWW42N05qcE5aQVpUUV9WSlMwdnN0QjdNTnI1UkpCSy1KamI2Tjg1UGtBQzRZcEMyWDhxN0FvbGVQLUMyWTl0M05QUGdiQUxHeG5TWjdka0szV0hUd2xoYWI0QVgxRFpqTnVtcDQwakVkVnNsaVpRMGRRRDczTGlDNEJPZHlsZTlvTDV2WnRFMjU2RW9qTTF1Wlk2Sm9pUjhram5lV1Iwenh0bmRwWVhNaVpnMA?oc=5"
+    },
+    {
+      "id": "20261026-usa-us-approves-h-1b-petitions-without-1",
+      "date": "2026-10-26",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "US approves H-1B petitions without $100,000 fee",
+      "summary": "US begins approving H-1B petitions without Trump's $100,000 fee requirement. Change affects workers and employers seeking H-1B visa sponsorship.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
+    },
+    {
+      "id": "20261026-australia-australia-requires-fingerprints-and",
+      "date": "2026-10-26",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia requires fingerprints and facial images for visas",
+      "summary": "Australia visa rules change to require Indian applicants to submit fingerprints and facial images as part of visa processing. New biometric documentation requirement reported.",
+      "source": "The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0RzTWJMR2trV2JhbXY0a0EyTFBFUFNZbUgyTGQ3VnVLdWlqRHkxcFhLdFJMR2xKOVhscDdJdE1pNUZnLWNMTDhoOEcwdnVoMnhtUTRqUkNJaWVLTk9YM2x0SHVYVHhCZXNxRmprVnNMU1VCa3dWUlVMX0VIMFlmYzk3UVItamwwQ1JQUF9IZkw2Q3l3UlRQeHA1d1Fnb0pkaGpkRlFrTldfeHdPcXJKdFAtNXVRZWlrejN4TW5TMGg2SUNCOFNaYm5Ld1dvNGZJ0gHXAUFVX3lxTE9HVk5WaXkxVUlEbGplWXlXYmtkcEkzZ2JtTjlLOTVDcExYd0o2b0RlS3VQczhoUUFZQTQ3WHlJenFaUFU4V2JqQ19waDFFZWFrakd1ZE5mQWtsUF83SVpPRWNhTVhSQThLLURjV3VDSEIyZXZhbVFRZ0swcXV1M3JFWFdyU0k1dHdwc1BDOWFfcU1ON0hkMmdEbmdoOUMwMWFFa3V5LU5CNWlPdGt0Sy1YNDJTME1ZS18zQUNoSnEzVjdwWTVhbXR6RTJwT0ZNYVgxanB3T0hF?oc=5"
+    },
     {
       "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
       "date": "2026-10-20",
@@ -408,39 +441,6 @@
       "summary": "US reported expanded social media screening requirements for I, TN, and TD visa applicants effective October 1.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX0djV243QUZUNDR1UU82SlIwbnNEWGxVaVBGZ3plcTkyYko1RTR3MThBNVhjMHFyUEZQYU9WMDNBQ3JURXhFZXYtcG0wd1VjcXdoM2NGTzNabmQxOWsyZ051MjNDSld3MFprYlNuRklKSHl0VlQ4d3duaU5GaUpxZlN1cmI4aVpWRFJGdDU4TXJ0cXpFMy1XUFZvdzRTV3p0eGk3VEpXRURDTzdOSjROMlZBYkxwcWtXZjlZUm9zQUx6SzR5TEVmX05rY01wWWtYNG93Q1RRc0FNa1lqOVlQTlVNLUtHeVA1X1BKbjJYaXotQWRUUWVfd2lB0gH_AUFVX3lxTE9OcWhfSHZlR25oQTNLNWZBYnliaHRLMU10elppNWZMUzFUNXdNeFFfYUN0U2c5TVdZcUp1bWo5RVNxT25SdG5PQVBFcDAxRmNCQm9FSVNUWVZVSEtQVmhDLWp1SjF5LVY2b3hRUTg5RmxmbG5GOGJwQ0RhRlNXVkdtS0xEdFR6Y3ZQN05wV0V5bWlqX0dudG9FTk9Ycnp0OUE1d0o0cm9BcUFtLXp2Unpzb2Q0TkhIRHJSSG9RUHdxaVRDQUdXY2Jod1FkOHhsaGN5cVdYQkhZVkJnSm1lbkpraXlId3doTXBnZFlYb1ZNaUhZck9BVzRjOFBxRmJFUQ?oc=5"
-    },
-    {
-      "id": "20260930-uk-uk-removes-time-limit-for-religious",
-      "date": "2026-09-30",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK removes time limit for religious worker visa",
-      "summary": "UK reported changes to religious worker visa rules, removing the previous limit on how long ministers and religious workers can stay in the country.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1YweV9vdjdCWU96dUFka1RObkFGU0lxTVFoY3Q0OHhRR2xOZTlKLW4tLTBjUk5iYUhydFNSY3hfdHBJMG1zTTI0ZWFEVzRvcGJOeHdsZFNqUDVJdTB3SzdqOUtCWkRGd18yZFVFZUJSU2NHb29qZ0JidUNXZWZWeWdIQ09vYnl1UHZZWVJ2ZHpwNjk1NlVRZlJLMXZfa3o2Y0Q3dDlLS0Q?oc=5"
-    },
-    {
-      "id": "20260930-usa-h-1b-lottery-shifts-to-wage-based-se",
-      "date": "2026-09-30",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "H-1B lottery shifts to wage-based selection from October 1",
-      "summary": "US H-1B visa selection system changes from October 1 to a wage-based model, replacing the previous lottery approach. This affects Indian workers applying for H-1B visas.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVThFb2Y5eEJnNGpYSW1xcmhfbUtKalUxeE1VT21lSHI3UnlNdTQxdXcySkZwNUozNWI4YkgxYk5NS3pOTUFvNEpSTjV3b01zWjNIVGVuZGU4U05oci1hYWZfRUZlVjJJSk93QmpxNmtzcFBLYjBMSk5mSlV3ajRKclpwaV85MTlkQUpzaFNMU0VEYlM4Yk40UFh0YXRhTXRob3FwUjBWTE5rZkxFcFpCZkw1R0M3Vnl1bWl1NVE3ZVhMTTF0ZzUyYmg1Qm4wQVlLLU9IcHNpdXBHZnlHVE9SMTIyYUo0VjFXaElvX3RFU1c3QmV3aUYwU0t4dk9FY0picDlzbjFCbEZPY1d00gGGAkFVX3lxTE1EaTl1b1FWcDJvRU1VMVdOWWxPaEZGTnlyOWF5aVF2eHY4QnVxRU4yVEZPeUNsN0x2SktOWFB1RmM4cXdNY1RKdW53SGUtVS1SMFVpWlhpZzlWNnY1d3kxZ2xSOWpIa3FxekZaSjBoWVBQR2NNanhLUTRwbm5DTDFjNUNnTm91S1dFSlg1VTJGLW85SHg5T2k3cnFaQmt0ZXZPUVg3ZkY4UUFlZUJlZmktTXdURTBKTUZ2WlZ1XzBRU01RTUVTa0ZYZ1MxRExrSGk5N09ONEdwTzN5V0RSWDRJbXFPWjhIR3VnY2EzYnhzOHFhSmhlTDFWa0JRZjBHbnlkNVVDTHc?oc=5"
-    },
-    {
-      "id": "20260930-new-zealand-new-zealand-clarifies-location-requi",
-      "date": "2026-09-30",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand clarifies location requirements for work visa holders",
-      "summary": "New Zealand clarifies location requirements for accredited employer work visa holders, affecting where visa holders may be required to work.",
-      "source": "Fragomen",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5"
     }
   ]
 }
