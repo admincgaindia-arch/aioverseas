@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-10-27T02:15:11.909+05:30",
+  "checked_at": "2026-10-28T02:15:10.738+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261027-uk-uk-introduces-1-200-annual-levy-on-u",
+      "date": "2026-10-27",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK introduces $1,200 annual levy on universities per international student",
+      "summary": "UK reported to charge universities $1,200 per international student annually, affecting Indian applicants. The levy targets revenue generation from international student enrollments at UK institutions.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOb3BEaGU5MGtCUWxRMDdlX21vaXJQQzJac2VaSTZFQVUxazhIZ3BxR1RpSi1BWkFOcHZTZHE5VmVENXljRTNOM0xoMXNPOE50Z1B0cFROTmlwckI2d3A3ekRaT0huSlpod1pfRVU0QXN5SWpScHNQeElwZnJkcmtVNW9XQ084UDFmQjgwS2EzNUhsS2NJR1BxbVdFZjVYQmV3SlBUYkp2SG9aeGY1RVhfNGdMal9nZnhoSjRfTzJ1dnp2ZFprZFdDbUh1d2hsYnF2MndxLWh3RVpBaU5XLVBPd1RGbXVMNS05SDdxSW9pMUlQSU9FTWpKS1Fud1VqRzhTZnZPX3BPODByVnliVGtiQVpydjlTQUl60gGeAkFVX3lxTFBEaHc5TW5mNWNrY01aOE5SS21EY3E4ZDNOWXZHcURnbGljaVBZb2lzbmlvTXgxaXh0TFl4OThCMTJGWDFLWGVJN21ZZWdCczFFMDMxd3VCWDJiSm93a2t3MnByOWctSkpDcEJFMFNOZTEwQUlpOTdEeWdtVEp5OHRkN2F2eHZXX0p6QjI0cFZGdWt2UFE1cmdTWGRncTloQ3k5WjlVM09qY3gxSld5MFlQN2NsbkkzMFc4Z2lLeDVoc19yM1M5NlBfVl9LWWF6X0ZzNUtLaTZ0NUtKdmh2V1V4bWR3YTRUWmtYME50ay05a0ZpQjZTS2dRTU1QRDQ2TEhMNGkzdDZpQ2k1ZHRMWHY1Q1VqOTFheGIwLVMxNlE?oc=5"
+    },
+    {
+      "id": "20261026-usa-us-approves-h-1b-petitions-without-1",
+      "date": "2026-10-26",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Fee change",
+      "title": "US approves H-1B petitions without $100,000 fee",
+      "summary": "US reported to begin approving H-1B petitions without Trump's $100,000 fee, reducing costs for Indian workers and employers seeking temporary specialty occupation visas.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
+    },
     {
       "id": "20261026-uk-uk-charges-universities-1-200-per-in",
       "date": "2026-10-26",
@@ -12,17 +34,6 @@
       "summary": "UK introduces new $1,200 annual levy on universities for each international student, including those from India. Reported to generate $594 million in first-year revenue from affected institutions.",
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlUWExjOUVoT1dSNFNOUXViTXhNdGdGMUg5VjRxSUVSLVUtWW42N05qcE5aQVpUUV9WSlMwdnN0QjdNTnI1UkpCSy1KamI2Tjg1UGtBQzRZcEMyWDhxN0FvbGVQLUMyWTl0M05QUGdiQUxHeG5TWjdka0szV0hUd2xoYWI0QVgxRFpqTnVtcDQwakVkVnNsaVpRMGRRRDczTGlDNEJPZHlsZTlvTDV2WnRFMjU2RW9qTTF1Wlk2Sm9pUjhram5lV1Iwenh0bmRwWVhNaVpnMA?oc=5"
-    },
-    {
-      "id": "20261026-usa-us-approves-h-1b-petitions-without-1",
-      "date": "2026-10-26",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "US approves H-1B petitions without $100,000 fee",
-      "summary": "US begins approving H-1B petitions without Trump's $100,000 fee requirement. Change affects workers and employers seeking H-1B visa sponsorship.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
     },
     {
       "id": "20261026-australia-australia-requires-fingerprints-and",
@@ -430,17 +441,6 @@
       "summary": "Canada reported a fee waiver for certain parents seeking long-term family visas, reducing or eliminating application costs for eligible applicants.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmV1Z1dFVXB4eDNTelR3OFFYTjNJbURRU0lIdkNOaGVuV1BEdjB3OS1NUVdaQ25nbWhFY3YtSXNzNlE5andpdV9FQk9OUUFxYzFyLUtqSlVwNmJoZWYxd1cwdzBPSnZxeDFxb2s2TVV5U3Y3S2s5OXdUMHNoblJuNVAya2hMYU15NEJsVzJrV2hjdldnM2QwejFIYXB1ZXpLVjVwTA?oc=5"
-    },
-    {
-      "id": "20261001-usa-us-expands-social-media-screening-fo",
-      "date": "2026-10-01",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "US expands social media screening for visa applicants",
-      "summary": "US reported expanded social media screening requirements for I, TN, and TD visa applicants effective October 1.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX0djV243QUZUNDR1UU82SlIwbnNEWGxVaVBGZ3plcTkyYko1RTR3MThBNVhjMHFyUEZQYU9WMDNBQ3JURXhFZXYtcG0wd1VjcXdoM2NGTzNabmQxOWsyZ051MjNDSld3MFprYlNuRklKSHl0VlQ4d3duaU5GaUpxZlN1cmI4aVpWRFJGdDU4TXJ0cXpFMy1XUFZvdzRTV3p0eGk3VEpXRURDTzdOSjROMlZBYkxwcWtXZjlZUm9zQUx6SzR5TEVmX05rY01wWWtYNG93Q1RRc0FNa1lqOVlQTlVNLUtHeVA1X1BKbjJYaXotQWRUUWVfd2lB0gH_AUFVX3lxTE9OcWhfSHZlR25oQTNLNWZBYnliaHRLMU10elppNWZMUzFUNXdNeFFfYUN0U2c5TVdZcUp1bWo5RVNxT25SdG5PQVBFcDAxRmNCQm9FSVNUWVZVSEtQVmhDLWp1SjF5LVY2b3hRUTg5RmxmbG5GOGJwQ0RhRlNXVkdtS0xEdFR6Y3ZQN05wV0V5bWlqX0dudG9FTk9Ycnp0OUE1d0o0cm9BcUFtLXp2Unpzb2Q0TkhIRHJSSG9RUHdxaVRDQUdXY2Jod1FkOHhsaGN5cVdYQkhZVkJnSm1lbkpraXlId3doTXBnZFlYb1ZNaUhZck9BVzRjOFBxRmJFUQ?oc=5"
     }
   ]
 }
