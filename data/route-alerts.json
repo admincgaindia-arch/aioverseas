@@ -1,7 +1,73 @@
 {
-  "checked_at": "2026-10-28T02:15:10.738+05:30",
+  "checked_at": "2026-10-29T02:15:12.167+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261028-australia-australia-updates-visa-requirements",
+      "date": "2026-10-28",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia updates visa requirements for Indian students",
+      "summary": "Australia has updated visa requirements affecting Indian students. The specific rule changes are reported but details are not provided in the headline or snippet.",
+      "source": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzR6WHdpdXZ4UERXek8yWkRkMXEtX1dDYlp3RDBPdVkxbTl3dVRla1NlTDVOanRsVFpjelMxMGxsUmFhbGl1YVhYbl9udWlZX3kzQ3huZTgzRnB2UDBxb0ppQy04RTRieWxBcnJtNW5nTE83dWZUVEFRTU9CdjhFODh6ZE9IU0Q3b0N4cGljYzZNMi1aVFpUVjRfbXYwVmg0SXM4VjQ4Q2JWRFRocHVHTS1EY0p2cE5qaDB2TXNtTVFXU0dXOTZTclEzMA?oc=5"
+    },
+    {
+      "id": "20261028-new-zealand-new-zealand-publishes-four-student-v",
+      "date": "2026-10-28",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand publishes four student visa rule changes",
+      "summary": "New Zealand has published four changes to student visa rules affecting foreign students. Specific rule modifications are reported.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-increases-student-visa-financial",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK increases student visa financial requirements",
+      "summary": "The UK has increased financial requirements for international student visas. The specific threshold amount is not stated in the headline.",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkJpT3NPOGxUbGVXODc0NDlSVlRRWlY5TmdzZ1NPMXdNc2lrNFlpbDN1bHJNb3pEdlhhOFBGcWtfNXZHTTd4TXdFd29mOUJrd0s4VW92TGlGZTlodTFoQWNDd2JHQW1RREl2OG9Mc3JNUFZJbFIyVzBUVEpfdVNLVEU2VmI3ZjF3TURkczVWcWhFMFRsc1B4SDFPNlY?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-raises-living-expense-threshold-f",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises living-expense threshold for student visas",
+      "summary": "The UK has raised the living-expense threshold for international student visas from 2026. The specific amount is not stated in the headline.",
+      "source": "Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGJfcE0xMmdGVkVlZmV0Y3V0aDhGX0FqR2xwQi1mZDhqa21URVU4RnA2dDhzdnR0NlFyM0VDSTdOWnM2RTBiSkJobk1NbC13dmVUVjlCU1kzakQxOEptSTRYbGx4SjByejhOaUtrazJJZ2JMV1A2bDFjMW5SZEZ6cHVuM3ZWZjQwZUZxcXk5LWpWNHpXcTRj?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa proof of funds requirement",
+      "summary": "The UK has raised the proof of funds requirement for student visas to £14,130, effective November 30. This affects international students including those from India.",
+      "source": "Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
+    },
+    {
+      "id": "20261027-australia-australia-tightens-student-visa-rule",
+      "date": "2026-10-27",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia tightens student visa rules",
+      "summary": "Australia has tightened student visa rules affecting Indian students and parents. Specific changes to eligibility or processing rules are reported.",
+      "source": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb3A2UjFvVHVlc1ZOVDVCbUJTMkJvS0h4S3lpVEFoaXBpYVc5NFNNcDFoaDlrWXpINzRVZU5vRG5rbkVvRmhkcEZreDFJMlcwZWlyNlZ0Q2c3aEFUUXBOdEtLZ2hsdGQzVk8zdGJiRjltdk1nc0VIYTNMbnRVZDlfdzNfOGUxdk5UcXhJYU82WGZUTXRnTEloaWsxSHFqZV9FYTlqeURRTGwwMlhocnJGTjZhYm52T09uVGpCbEpadVZVS1RQQmMydVJ3MWdLdndIVm5tLW9sNmxjUzY5dkQ5V3ZRelFUaHN5cTM1M21ZRlJPRmZQSks1X21hSHk2a1QwclNDMV9QSW14ZDJIV1ZySFVsbERQN3PSAZwCQVVfeXFMUDEtUGs1VFp5T29LUVJ6b0xqME1kUE5Jc0tjQkVnZnM3d0FBLWFjMHhvOHRtTWxOOERHaVl2ZVQ5QnEwemhpTU5lbEFUbDVLRzF0WUdOaENKXzkzYVBwX1VfQWRUTjRBNXJnVVlCLVlGTFhWdjRaYlpBUTFSSTlyMDMzUG81UEN4RGo0bHo1akxrLWxvRU5TSDdQbTZ4WmlPNDJJbGl6dmwwUXJnZk1pa0djVTloX3JibHBoM0dCend5bmdfWjJGSWZTNzZ3MlBMQksyQ0pRUHFjOFFPNnZVLThiRkM2TGpySnQyRnZ4NjlDTWxEUjdBYWxOSlEtX2lja09QOEdwdjRLY1BlLXlIRGpxaHJhMjdwLTBiTmk?oc=5"
+    },
     {
       "id": "20261027-uk-uk-introduces-1-200-annual-levy-on-u",
       "date": "2026-10-27",
@@ -375,72 +441,6 @@
       "summary": "The UK has announced a minimum salary threshold of £33,400 for foreigners to qualify for a Skilled Worker Visa, establishing a new financial eligibility requirement.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnQ4NXIxRk5EbWlMNjVGWUdJQ3VpLTVXeDFsTGxDdmxHcFBqUDZtVzVnYmNqUkFoaFBNYU11ZnJvS2JCcTdTN1ZZbm5DTDZER0YxeFNZWm5YMGRBV2FGVEpqXzBjZWVXRFEyeGRYaW5YU2VWR2luNmZPR1B1S0QyeUJnUHd6UG1ITGc5Y29tTTc5MUt2OGpz?oc=5"
-    },
-    {
-      "id": "20261005-australia-australia-tightens-student-visa-rule",
-      "date": "2026-10-05",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia tightens student visa rules for Indian students",
-      "summary": "Australia has tightened student visa eligibility rules for Indian applicants, with changes affecting EL3 requirements, visa hopping restrictions, and family member sponsorship provisions.",
-      "source": "EdexLive",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5jRkR2dm5kejVMSlhxc0RMMko0T3czTGpJbEoxbTcxRTQwOHcyU3VXZTd4dW03Z21TcEs0SUItblMta3FWLXhJUk91c0V0ZXBERGc3MnhuSGtBd1JBcklvY1ZZZDAzTHI2TnBvMHItT3F2Ty15ejJQNHFybk5yS3l6NER6UHBKUVNCOW80VGJFSWR4eERGbUlBbUxpSEdyM21BLXFwM2VDRGlmZkNuS1JVdFJjTlEzTDc4S215S3Z5QjlvQjhfYzZPZVdBMTZGaktaN1ZKX1NjNGRLWHBVeE16WdIB8AFBVV95cUxPLUlXeWkyRUtha1d6UGd2Q1E3eDFnV1RUWDc3d0xKU2VrbV9tSy1lcElESGhDMzNOT2k4N0xBZ3BtZ2hwWG5hYThMd3ZHUmZHTHVRTkFZUUVRS1VYbnltaWtQWnpNU0ZucE5JcXROSVlJYWFEUi1wLXR5dldBRTl1VERFUEdPYUlyMGRZc3ZuTzVCbU84bXFxT1Y1TEhSdlBXRnY3NXFWdUpNMEc3dkdrRHBfbk9qdy1xeXBTMlVfQ2U5dnA3cUFGUXg2Z29jTUswNFhNM19XRjVPVzAyT21yeTNHU3VuQ0JmSUphSDBsdW0?oc=5"
-    },
-    {
-      "id": "20261005-australia-australia-tightens-student-visa-rule",
-      "date": "2026-10-05",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia tightens student visa rules and onshore applications",
-      "summary": "Australia has tightened student visa rules and restricted onshore applications. The reported changes affect eligibility and application procedures for international students.",
-      "source": "Travel Daily News Asia-Pacific",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkxkSU1Gcl91XzVLbTBZaEdUZzdvT3hic3Q4OWpEMWZ0cldYaE9ZZHdjR3UyWkYtbkJ2RW5mUlNBcF9idElpTkRmMk5scGczMlZUYnlJT1FzN3N6RzhndXJxWm1ySDV1cDJxdE1sd1FMeFVpNkhxaDNEdXVrOUJQUkhiREVfZDdzdEN5MU16d2FVNzJFd01rY2xKUlVoSS1qS3lXbFlXMXIxbEpMZ0hKQ0JqWlZ0djBiajdLY3VkOWhQNmpo?oc=5"
-    },
-    {
-      "id": "20261005-new-zealand-new-zealand-changes-parent-resident",
-      "date": "2026-10-05",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand changes parent resident visa selection process",
-      "summary": "New Zealand reported changes to the Parent Resident Visa selection process, effective immediately.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5"
-    },
-    {
-      "id": "20261003-australia-australia-student-visa-measures-now",
-      "date": "2026-10-03",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia student visa measures now in effect",
-      "summary": "Australia's new student visa measures are now in effect, with changed rules for Indian applicants. The reported changes affect eligibility and application requirements.",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNamczWU9tWVg4YnQ4S2hIc0MxSWd3ZmdQT0VtWUpqLW9veXBUT3VFRUNKS0ZOMnhad2hZZDBjX25MdUg0Y0dZSHpvVVNValliTjkzU1lCTG1mNEVRTm5Ib013bU1TOU1GZU1lVmFSZHZTWWRKRGw3SFROMHdyR0o4eU9UeGNmNHpWeV9aanFCRnFBUE9FdTd6YjlxbXRGamEzU0Z5T1VVR2lBNWFGWFpyRWpVQ05mVHdOZVNZX1hPLVNtaVlKNVBBSFBVb1ZZRktrNDAyYXZuaW1wZjd1NWhYbzNVazJZa2p1djZlWThiendteDBuX2Y4cVdB0gH_AUFVX3lxTFB0TWhkUDdrN0NyeDFORDZLa1VrM0tSLUNRYmJWYmVzR0N4TFpVbERqSVhCeC0xNklVWkpGVDNyOV9mN1A4UUMzMHJlLWwxMDF5WUNBejk3Yk5Yc3BGcWtaN2x0RVVsclpOc0lkU3FMV2lPeTdxc1dqbVlpUUF1bW9xeHZVdUdlMWx3dGNvTm5zcmF5NHRZVzBBNExxT2V2aTJKUEZxaVlpa21BblNiVTR0blM0cWRjb2xERkd0NjhJcmtpeGtfUU0xYXRBOFZwenpDV3M3c0oxWkdEVmhpOElNU21pbzR4R3BMV09EVHVvRndzQzUwRmszNHdEMVF6SQ?oc=5"
-    },
-    {
-      "id": "20261003-australia-australia-restricts-training-visa-ex",
-      "date": "2026-10-03",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia restricts training visa extensions for foreign workers",
-      "summary": "Australia has tightened training visa rules to prevent foreign workers from extending their stays, reported as a policy change to limit visa extensions.",
-      "source": "VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXNUX2R5Ml9XMEpaYk15TVlzUElrU3RvbUk2Qk5jV1JGUlJyQW1GMHZYMkZuWGlQcUdoS2ZxeXFjZUhqZ09mejJtMTV3Tkw2TnZpQlZzYzZCV2lra2V1cGRHeHVBTVBXaUp1Z1FfLVhISkZUYWJQUzlsYzFabHlTa2hRT0JSTVZJd1VhTmdJVFdJbW40WHRkQzhtZy1ma0VUbGNOajJTU05TclR3QWV5T3hWVDF2QnhRU00wOTNOeklSNXo2UVNPdVZhQW56QQ?oc=5"
-    },
-    {
-      "id": "20261002-canada-canada-fee-waiver-for-parents-on-fam",
-      "date": "2026-10-02",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Fee change",
-      "title": "Canada fee waiver for parents on family visa",
-      "summary": "Canada reported a fee waiver for certain parents seeking long-term family visas, reducing or eliminating application costs for eligible applicants.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmV1Z1dFVXB4eDNTelR3OFFYTjNJbURRU0lIdkNOaGVuV1BEdjB3OS1NUVdaQ25nbWhFY3YtSXNzNlE5andpdV9FQk9OUUFxYzFyLUtqSlVwNmJoZWYxd1cwdzBPSnZxeDFxb2s2TVV5U3Y3S2s5OXdUMHNoblJuNVAya2hMYU15NEJsVzJrV2hjdldnM2QwejFIYXB1ZXpLVjVwTA?oc=5"
     }
   ]
 }
