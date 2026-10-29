@@ -1,7 +1,62 @@
 {
-  "checked_at": "2026-10-29T02:15:12.167+05:30",
+  "checked_at": "2026-10-30T02:15:13.371+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261029-canada-canada-limits-work-permit-applicatio",
+      "date": "2026-10-29",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada limits work permit applications during LMIA waits",
+      "summary": "Canada reported a change to work permit application limits during Labour Market Impact Assessment decision periods for foreign workers, affecting eligibility timing.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcy03YlU1TjZuRzJNT3kyeW9EX1RmLVZLRjc3d0t6N1QwRmJZRUhBQ2VHZzZBRDlETzFVNGdBQnJUOE5oYUpOSmU5bjhtWnl5YUFUSTVZamU5eHl3bWZtOXNYcnJzel8zQW85dEdhRVJ1RGVYVFptUkdoZU9kVmFMZllTc2pYUjJSUm91R1JiZGNaTEg1Qi1kc2ZBSEFsZl96MmdUU3R2ZmgweGo4RXR4UzVuTlJMekF4UUFDSERKYW45cnRXbmFrM2RmaDV6QzRpQktKaWZWOVlkNGJ0bFRWeXg2M0dCeVhvcGNQUmtZWdIB9AFBVV95cUxOdzBjZUhWNF9KV21ncmk2VEdXcFYyVTJ3bjJ3RHpveEtIVkJsSDdtRkR4SnlEamM0cmFWU211ZDJSNzl3NHJVTFMtQ21KenhwUFI1cnNFd2hYUEhkd2RBZVR3dmdMTjI4bkl6UjNfTkpQQnE4MmYwUnVJOGNCWUtINTRFaTMwYXFoNGwzMEhKMnFtdnRLNnBNYlFWbGpaazFHSkpoYy1semU3LVhVaWwwUzUyUUc4ODV1N1VPdUlKcVNLQ3RMeGJLWjY4OF9FQzZhODVZVWcyTmZ0YjQzdlBvakdiVFp5VEkzYUZBV1BFaGpZMTh0?oc=5"
+    },
+    {
+      "id": "20261028-new-zealand-new-zealand-publishes-four-student-v",
+      "date": "2026-10-28",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand publishes four student visa rule changes",
+      "summary": "New Zealand reported four changes to student visa rules affecting foreign students, though specific details were not enumerated in the headline.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-charges-universities-1-200-per-in",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK charges universities $1,200 per international student",
+      "summary": "UK reported a new levy of $1,200 per international student charged to universities, affecting Indian students among others.",
+      "source": "Education Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ21xQ1g4Zktnc2w5T0pMZGZIU2thS1JRdExnSVF3aUNxVkRCUzVRRjgxY2tSalRSdDdMZ09YSExvVWd5TVB6bndyQkU4RTYwX3NMR2pOY1hqWlhnWm1tVm1YYmhHNXQtTXdvdmpTU0xqU1FWMl9YRmN4NXBWYkVkOUQ3WFo4aVdodDFidTN3OC1sUlVyTGt4R3ZYT3JfM1FycEhzOFA5UlNCdnJxZ3QtcWxwc0JJc1ZWTGxqS1NWLUlkQ1VFMVNHMzNkX3JjU0lhbm1oUXFoMFZ4NjZVQmxub1oyZEhSZVprd01wX09jemNTM0hZcERlMmlFb3d0SDdVVk9uWXdpSzF5cWM?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-raises-living-expense-threshold-f",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises living-expense threshold for student visas",
+      "summary": "UK reported an increase to living-expense financial thresholds for international student visa applicants effective from 2026.",
+      "source": "Head Topics",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGJfcE0xMmdGVkVlZmV0Y3V0aDhGX0FqR2xwQi1mZDhqa21URVU4RnA2dDhzdnR0NlFyM0VDSTdOWnM2RTBiSkJobk1NbC13dmVUVjlCU1kzakQxOEptSTRYbGx4SjByejhOaUtrazJJZ2JMV1A2bDFjMW5SZEZ6cHVuM3ZWZjQwZUZxcXk5LWpWNHpXcTRj?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa proof of funds to £14,130",
+      "summary": "UK reported raising the proof of funds requirement for student visa applicants to £14,130, effective November 30.",
+      "source": "Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
+    },
     {
       "id": "20261028-australia-australia-updates-visa-requirements",
       "date": "2026-10-28",
@@ -12,17 +67,6 @@
       "summary": "Australia has updated visa requirements affecting Indian students. The specific rule changes are reported but details are not provided in the headline or snippet.",
       "source": "Deccan Herald",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQzR6WHdpdXZ4UERXek8yWkRkMXEtX1dDYlp3RDBPdVkxbTl3dVRla1NlTDVOanRsVFpjelMxMGxsUmFhbGl1YVhYbl9udWlZX3kzQ3huZTgzRnB2UDBxb0ppQy04RTRieWxBcnJtNW5nTE83dWZUVEFRTU9CdjhFODh6ZE9IU0Q3b0N4cGljYzZNMi1aVFpUVjRfbXYwVmg0SXM4VjQ4Q2JWRFRocHVHTS1EY0p2cE5qaDB2TXNtTVFXU0dXOTZTclEzMA?oc=5"
-    },
-    {
-      "id": "20261028-new-zealand-new-zealand-publishes-four-student-v",
-      "date": "2026-10-28",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand publishes four student visa rule changes",
-      "summary": "New Zealand has published four changes to student visa rules affecting foreign students. Specific rule modifications are reported.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5"
     },
     {
       "id": "20261028-uk-uk-increases-student-visa-financial",
@@ -36,26 +80,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkJpT3NPOGxUbGVXODc0NDlSVlRRWlY5TmdzZ1NPMXdNc2lrNFlpbDN1bHJNb3pEdlhhOFBGcWtfNXZHTTd4TXdFd29mOUJrd0s4VW92TGlGZTlodTFoQWNDd2JHQW1RREl2OG9Mc3JNUFZJbFIyVzBUVEpfdVNLVEU2VmI3ZjF3TURkczVWcWhFMFRsc1B4SDFPNlY?oc=5"
     },
     {
-      "id": "20261028-uk-uk-raises-living-expense-threshold-f",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises living-expense threshold for student visas",
-      "summary": "The UK has raised the living-expense threshold for international student visas from 2026. The specific amount is not stated in the headline.",
-      "source": "Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGJfcE0xMmdGVkVlZmV0Y3V0aDhGX0FqR2xwQi1mZDhqa21URVU4RnA2dDhzdnR0NlFyM0VDSTdOWnM2RTBiSkJobk1NbC13dmVUVjlCU1kzakQxOEptSTRYbGx4SjByejhOaUtrazJJZ2JMV1A2bDFjMW5SZEZ6cHVuM3ZWZjQwZUZxcXk5LWpWNHpXcTRj?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises student visa proof of funds requirement",
-      "summary": "The UK has raised the proof of funds requirement for student visas to £14,130, effective November 30. This affects international students including those from India.",
-      "source": "Arbiterz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
+      "id": "20261027-new-zealand-new-zealand-tightens-student-visa-ru",
+      "date": "2026-10-27",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand tightens student visa rules and work rights",
+      "summary": "New Zealand reported tightening student visa rules, cutting work rights for students, and toughening English language checks.",
+      "source": "awaaz.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTY0WDdFaUc2QUF1RU1xTEU5VDZHR3lLOGZPSElNWTNFczJNTndSV1l6Zk5YNUsyUXdRTlN4dlpYSHlGRXJNdUpqNWZtMHQ3N2xDQmNQUkx4SVY1YWZqNWR6M1VUS2c1WEMwQU1HM0lMenlSQXZOUFBGeGhMUDB4VmlVY3hkYk5qYnJTeUVhNjFEeHc0X2VvZUNNNGQwMW9VLTdzXzZxOUNmYzNzOFlIbFJwbW1FQkktVVNOaGl3?oc=5"
     },
     {
       "id": "20261027-australia-australia-tightens-student-visa-rule",
@@ -86,7 +119,7 @@
       "slug": "usa",
       "kind": "Fee change",
       "title": "US approves H-1B petitions without $100,000 fee",
-      "summary": "US reported to begin approving H-1B petitions without Trump's $100,000 fee, reducing costs for Indian workers and employers seeking temporary specialty occupation visas.",
+      "summary": "US reported beginning approval of H-1B petitions without Trump's $100,000 fee, reducing costs for workers and employers.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
     },
@@ -111,6 +144,17 @@
       "summary": "Australia visa rules change to require Indian applicants to submit fingerprints and facial images as part of visa processing. New biometric documentation requirement reported.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0RzTWJMR2trV2JhbXY0a0EyTFBFUFNZbUgyTGQ3VnVLdWlqRHkxcFhLdFJMR2xKOVhscDdJdE1pNUZnLWNMTDhoOEcwdnVoMnhtUTRqUkNJaWVLTk9YM2x0SHVYVHhCZXNxRmprVnNMU1VCa3dWUlVMX0VIMFlmYzk3UVItamwwQ1JQUF9IZkw2Q3l3UlRQeHA1d1Fnb0pkaGpkRlFrTldfeHdPcXJKdFAtNXVRZWlrejN4TW5TMGg2SUNCOFNaYm5Ld1dvNGZJ0gHXAUFVX3lxTE9HVk5WaXkxVUlEbGplWXlXYmtkcEkzZ2JtTjlLOTVDcExYd0o2b0RlS3VQczhoUUFZQTQ3WHlJenFaUFU4V2JqQ19waDFFZWFrakd1ZE5mQWtsUF83SVpPRWNhTVhSQThLLURjV3VDSEIyZXZhbVFRZ0swcXV1M3JFWFdyU0k1dHdwc1BDOWFfcU1ON0hkMmdEbmdoOUMwMWFFa3V5LU5CNWlPdGt0Sy1YNDJTME1ZS18zQUNoSnEzVjdwWTVhbXR6RTJwT0ZNYVgxanB3T0hF?oc=5"
+    },
+    {
+      "id": "20261024-canada-canada-allows-eligible-workers-to-st",
+      "date": "2026-10-24",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada allows eligible workers to study without permit",
+      "summary": "Canada reported new immigration rules permitting eligible workers to pursue studies without requiring a separate study permit.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbklvSF8yVzlyajlXZnRobTdmN2J1OFM4SkZmendiU0drNllIZENUdl9rMjUyUEVac2QzVUNlTDVXWUl6anRYVXY5azdQQWxUNXJwR3QyZkphWlQ5QVdxVGFQZkt6eU5ZeEVOX3lPaUtacThmRG1abjFOLXRZRXl0cVVLd0JvbXRfZmdJZVBxeUhDbThTSWRMX1R0V294dzY4SExKTTFJRVJwdw?oc=5"
     },
     {
       "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
@@ -397,50 +441,6 @@
       "summary": "Australia has tightened student visa eligibility rules to curb visa hopping. The reported change affects processing and approval criteria for student applicants.",
       "source": "Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW5pMkcxd0c1dWhLQl9Tc3JESzE5elRZVktvWDZQNU5CajhOYlVhbWtLZVdOZ2EtMUJGc0dHNWU1eVNQaTN1dDlLbnNaU0tMaFZFYmlGalEwbUVKS1owdktrdHpvUmZWUlJ3WkdtbE1QanRGTU9ScTIxOU8xRjU4U2ExNktkLWM?oc=5"
-    },
-    {
-      "id": "20261006-canada-canada-eases-open-work-permit-rules",
-      "date": "2026-10-06",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada eases open work permit rules for Quebec worker spouses",
-      "summary": "Canada reported relaxed eligibility rules for open work permits for spouses of a specific category of workers in Quebec, effective immediately.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0pUNmVxakxCMjZReWVXd3d5a01tc2VheDNqSzh1TGdqMnZtdGtqTGJxQjdIaDlpd0tnQnFYZlZ1ZnVIX05RRzBJNGg2RVg3NkprT2NTVmE1UG5pTk84RG9YQ0JoWHBiX05Tamx2Y0pkdFpqU1BkNG0tbWF6Ry1jYUdiOHc2NzBBZWVSeEVKaFRsZ1VOaGZ0Qzg3US1nQ0ZCd1NwY0QtUElDQQ?oc=5"
-    },
-    {
-      "id": "20261006-canada-canada-confirms-deadline-for-asylum",
-      "date": "2026-10-06",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Timeline change",
-      "title": "Canada confirms deadline for asylum portal changes",
-      "summary": "Canada has confirmed a deadline for changes to its online asylum claim portal. The reported change affects processing procedures for asylum applicants.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNnVscncyZFZzM2NzSUdCaEN4Y0ttYTN0X05wb2dwRklaMTF2cTdqZk5wS0pzaFBQVDh5N296RUFKN0l1M0xEZi1LSHR4OEhMWVJVXzlReUJCOGFDS18zTHFCakltbVg1VnZ0M0FJRTMxRU9KWXhQY2d3Uzg4V1NaTE5sZkRjeG9FZExGSF9hZ3A0QXlhZFFhWjYwRExOT3M?oc=5"
-    },
-    {
-      "id": "20261006-uk-uk-publishes-minimum-salary-for-skil",
-      "date": "2026-10-06",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK publishes minimum salary for skilled worker visa",
-      "summary": "The UK has published a minimum salary threshold that foreigners must earn to qualify for a skilled worker visa. The reported change affects income eligibility requirements.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWFzUFFqaDFvWTlQZjZ1SHR1V1ZHNGhUbkthZjdUVVRMVE54Y1pSTzNJb2l1SGsxTGhBTW96bG0tLU52U2xtcjNpV1ZyMTRFdTRjSmp6LTd1Z3pZZ1B6c0RIb3hFeWVEUGVlTVU1Uk8wM3ZRa2x4WDJPV01DRGxHX1V2UjhkcVpvWkhacGVrTUo5VVgta0hfN2RlN2ctQmhnMVN5TE8yemh0dGtR?oc=5"
-    },
-    {
-      "id": "20261006-uk-uk-sets-skilled-worker-visa-salary-t",
-      "date": "2026-10-06",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK sets skilled worker visa salary threshold at £33,400",
-      "summary": "The UK has announced a minimum salary threshold of £33,400 for foreigners to qualify for a Skilled Worker Visa, establishing a new financial eligibility requirement.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnQ4NXIxRk5EbWlMNjVGWUdJQ3VpLTVXeDFsTGxDdmxHcFBqUDZtVzVnYmNqUkFoaFBNYU11ZnJvS2JCcTdTN1ZZbm5DTDZER0YxeFNZWm5YMGRBV2FGVEpqXzBjZWVXRFEyeGRYaW5YU2VWR2luNmZPR1B1S0QyeUJnUHd6UG1ITGc5Y29tTTc5MUt2OGpz?oc=5"
     }
   ]
 }
