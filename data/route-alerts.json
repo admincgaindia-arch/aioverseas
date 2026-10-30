@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-10-30T02:15:13.371+05:30",
+  "checked_at": "2026-10-31T02:15:11.475+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20261029-canada-canada-limits-work-permit-applicatio",
+      "id": "20261029-canada-canada-changes-work-permit-applicati",
       "date": "2026-10-29",
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada limits work permit applications during LMIA waits",
-      "summary": "Canada reported a change to work permit application limits during Labour Market Impact Assessment decision periods for foreign workers, affecting eligibility timing.",
+      "title": "Canada changes work permit application limit during LMIA waits",
+      "summary": "Canada has modified the limit on work permit applications that can be submitted while awaiting Labour Market Impact Assessment decisions for foreign workers, reported by The Economic Times.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcy03YlU1TjZuRzJNT3kyeW9EX1RmLVZLRjc3d0t6N1QwRmJZRUhBQ2VHZzZBRDlETzFVNGdBQnJUOE5oYUpOSmU5bjhtWnl5YUFUSTVZamU5eHl3bWZtOXNYcnJzel8zQW85dEdhRVJ1RGVYVFptUkdoZU9kVmFMZllTc2pYUjJSUm91R1JiZGNaTEg1Qi1kc2ZBSEFsZl96MmdUU3R2ZmgweGo4RXR4UzVuTlJMekF4UUFDSERKYW45cnRXbmFrM2RmaDV6QzRpQktKaWZWOVlkNGJ0bFRWeXg2M0dCeVhvcGNQUmtZWdIB9AFBVV95cUxOdzBjZUhWNF9KV21ncmk2VEdXcFYyVTJ3bjJ3RHpveEtIVkJsSDdtRkR4SnlEamM0cmFWU211ZDJSNzl3NHJVTFMtQ21KenhwUFI1cnNFd2hYUEhkd2RBZVR3dmdMTjI4bkl6UjNfTkpQQnE4MmYwUnVJOGNCWUtINTRFaTMwYXFoNGwzMEhKMnFtdnRLNnBNYlFWbGpaazFHSkpoYy1semU3LVhVaWwwUzUyUUc4ODV1N1VPdUlKcVNLQ3RMeGJLWjY4OF9FQzZhODVZVWcyTmZ0YjQzdlBvakdiVFp5VEkzYUZBV1BFaGpZMTh0?oc=5"
     },
@@ -20,9 +20,20 @@
       "slug": "new-zealand",
       "kind": "Rule change",
       "title": "New Zealand publishes four student visa rule changes",
-      "summary": "New Zealand reported four changes to student visa rules affecting foreign students, though specific details were not enumerated in the headline.",
+      "summary": "New Zealand has published four changes to student visa rules affecting foreign students, reported by Yen News.",
       "source": "Yen News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK raises student visa proof of funds to £14,130",
+      "summary": "UK has raised the proof of funds requirement for student visas to £14,130, effective from November 30, reported by Arbiterz.",
+      "source": "Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
     },
     {
       "id": "20261028-uk-uk-charges-universities-1-200-per-in",
@@ -45,17 +56,6 @@
       "summary": "UK reported an increase to living-expense financial thresholds for international student visa applicants effective from 2026.",
       "source": "Head Topics",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGJfcE0xMmdGVkVlZmV0Y3V0aDhGX0FqR2xwQi1mZDhqa21URVU4RnA2dDhzdnR0NlFyM0VDSTdOWnM2RTBiSkJobk1NbC13dmVUVjlCU1kzakQxOEptSTRYbGx4SjByejhOaUtrazJJZ2JMV1A2bDFjMW5SZEZ6cHVuM3ZWZjQwZUZxcXk5LWpWNHpXcTRj?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises student visa proof of funds to £14,130",
-      "summary": "UK reported raising the proof of funds requirement for student visa applicants to £14,130, effective November 30.",
-      "source": "Arbiterz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
     },
     {
       "id": "20261028-australia-australia-updates-visa-requirements",
@@ -113,6 +113,17 @@
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOb3BEaGU5MGtCUWxRMDdlX21vaXJQQzJac2VaSTZFQVUxazhIZ3BxR1RpSi1BWkFOcHZTZHE5VmVENXljRTNOM0xoMXNPOE50Z1B0cFROTmlwckI2d3A3ekRaT0huSlpod1pfRVU0QXN5SWpScHNQeElwZnJkcmtVNW9XQ084UDFmQjgwS2EzNUhsS2NJR1BxbVdFZjVYQmV3SlBUYkp2SG9aeGY1RVhfNGdMal9nZnhoSjRfTzJ1dnp2ZFprZFdDbUh1d2hsYnF2MndxLWh3RVpBaU5XLVBPd1RGbXVMNS05SDdxSW9pMUlQSU9FTWpKS1Fud1VqRzhTZnZPX3BPODByVnliVGtiQVpydjlTQUl60gGeAkFVX3lxTFBEaHc5TW5mNWNrY01aOE5SS21EY3E4ZDNOWXZHcURnbGljaVBZb2lzbmlvTXgxaXh0TFl4OThCMTJGWDFLWGVJN21ZZWdCczFFMDMxd3VCWDJiSm93a2t3MnByOWctSkpDcEJFMFNOZTEwQUlpOTdEeWdtVEp5OHRkN2F2eHZXX0p6QjI0cFZGdWt2UFE1cmdTWGRncTloQ3k5WjlVM09qY3gxSld5MFlQN2NsbkkzMFc4Z2lLeDVoc19yM1M5NlBfVl9LWWF6X0ZzNUtLaTZ0NUtKdmh2V1V4bWR3YTRUWmtYME50ay05a0ZpQjZTS2dRTU1QRDQ2TEhMNGkzdDZpQ2k1ZHRMWHY1Q1VqOTFheGIwLVMxNlE?oc=5"
     },
     {
+      "id": "20261026-uk-uk-introduces-1-200-levy-per-interna",
+      "date": "2026-10-26",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK introduces $1,200 levy per international student",
+      "summary": "UK universities will charge $1,200 per international student including those from India, targeting $594 million in first-year revenue, reported by Business Insider Africa.",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlUWExjOUVoT1dSNFNOUXViTXhNdGdGMUg5VjRxSUVSLVUtWW42N05qcE5aQVpUUV9WSlMwdnN0QjdNTnI1UkpCSy1KamI2Tjg1UGtBQzRZcEMyWDhxN0FvbGVQLUMyWTl0M05QUGdiQUxHeG5TWjdka0szV0hUd2xoYWI0QVgxRFpqTnVtcDQwakVkVnNsaVpRMGRRRDczTGlDNEJPZHlsZTlvTDV2WnRFMjU2RW9qTTF1Wlk2Sm9pUjhram5lV1Iwenh0bmRwWVhNaVpnMA?oc=5"
+    },
+    {
       "id": "20261026-usa-us-approves-h-1b-petitions-without-1",
       "date": "2026-10-26",
       "country": "United States",
@@ -122,17 +133,6 @@
       "summary": "US reported beginning approval of H-1B petitions without Trump's $100,000 fee, reducing costs for workers and employers.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
-    },
-    {
-      "id": "20261026-uk-uk-charges-universities-1-200-per-in",
-      "date": "2026-10-26",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Fee change",
-      "title": "UK charges universities $1,200 per international student",
-      "summary": "UK introduces new $1,200 annual levy on universities for each international student, including those from India. Reported to generate $594 million in first-year revenue from affected institutions.",
-      "source": "Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWlUWExjOUVoT1dSNFNOUXViTXhNdGdGMUg5VjRxSUVSLVUtWW42N05qcE5aQVpUUV9WSlMwdnN0QjdNTnI1UkpCSy1KamI2Tjg1UGtBQzRZcEMyWDhxN0FvbGVQLUMyWTl0M05QUGdiQUxHeG5TWjdka0szV0hUd2xoYWI0QVgxRFpqTnVtcDQwakVkVnNsaVpRMGRRRDczTGlDNEJPZHlsZTlvTDV2WnRFMjU2RW9qTTF1Wlk2Sm9pUjhram5lV1Iwenh0bmRwWVhNaVpnMA?oc=5"
     },
     {
       "id": "20261026-australia-australia-requires-fingerprints-and",
