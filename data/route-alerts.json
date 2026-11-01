@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-01T02:15:14.118+05:30",
+  "checked_at": "2026-11-02T02:15:11.821+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261101-uk-uk-budget-2026-updates-skilled-worke",
+      "date": "2026-11-01",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK Budget 2026 updates Skilled Worker salary thresholds",
+      "summary": "UK Budget 2026 reported changes to Skilled Worker visa salary thresholds and Graduate visa rules, signaling new immigration policy adjustments for applicants.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObHJBTUtVNVFsMWl0dGJGS3pxWllLV3RoNTA1eU1nSHZwYkszaDB0Z1BZd3ZrbkdTNUVHei1FbFdfdGNoS2dtN25JWThpbmMtMU83cUJIX3Z0UFNna1MyTnVvUnhpSklwMnhCMzQxc0UxSGJ2YklObTc5b3E1N2lIbHlLOWJPbElaaWFHZFM5SXpUWEZ5eG1nczRXYTVwZEtGM0dLcDdxa29LOGZHb1h2MUVqWHZrUVIzQlpvbHgwWk9rTktVQXRJcElDVUR1a0dBRUQwNzNzMUQ2a2NSaHJMaXpLdzc2em5HTGFtdk1kQ2pIWFBhY3FzVmd0QWdjeDdqWDFSSjRkT3VPeWPSAZACQVVfeXFMTUkzQllkbS0wSE5kNTB3YlVLdV9lYXlqOGxfZmVjV0xSY1p6cnNHM3lMVENyMFhpUEJDcGFwQ3RHc2kzT1NPTkpyVTFiWGlhSWhsVFVDb3FzcUFtM0lod05sdTUtajQwLWFLdy1OSmdFVjZPZ09tOGd2b2I4SnNTOXRlQzVaV0lLWnVYMS0wQzhmWGxxX0lHb3IxMlR4dUxMenJacmR5d29NZEtLOTlhaTA3Q3hpV1cwUVBoRWRlY1ZabjN4cnNHOTV0QTNrbXNzTVh2cjRSeGk1NXFSRWRaR1NxTEZxenlKRVdfdHc1VmFBYlNSaTBaS3ZqV2tJY1FpMXNjVUtWUUZvS3BJWnFoVks?oc=5"
+    },
     {
       "id": "20261030-uk-uk-lists-25-jobs-with-lower-skilled",
       "date": "2026-10-30",
@@ -31,9 +42,20 @@
       "slug": "new-zealand",
       "kind": "Rule change",
       "title": "New Zealand publishes four student visa rule changes",
-      "summary": "New Zealand reported four changes to student visa rules affecting foreign students. Specific details of the four changes were not provided in the headline.",
+      "summary": "New Zealand reported four changes to student visa rules affecting foreign students, though specific details of each change were not itemized in the headline.",
       "source": "Yen News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUxKbEd3MWhHNXN4aDJmeC11cmIwYU1GV1U3dnAyellCMElfc3JiTDNTS1hTcGpMYmoxM09OZzR6MTVvUGpLTngzSVZQbU94eXlmYk4wbWV2NmF5NzNQNE1sNjRxcnRMT1lUeUJQZWpuMWhHa0VNVHNieFFOTXJZbWJxQUgtVXdGbkdYSjBHOHkxZ3BISERMcmpvNTg0cHprRHc?oc=5"
+    },
+    {
+      "id": "20261028-uk-uk-introduces-university-levy-for-in",
+      "date": "2026-10-28",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK introduces university levy for international students",
+      "summary": "UK reported a new levy of $1,200 per international student charged to universities, affecting Indian and other international students' costs.",
+      "source": "Education Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ21xQ1g4Zktnc2w5T0pMZGZIU2thS1JRdExnSVF3aUNxVkRCUzVRRjgxY2tSalRSdDdMZ09YSExvVWd5TVB6bndyQkU4RTYwX3NMR2pOY1hqWlhnWm1tVm1YYmhHNXQtTXdvdmpTU0xqU1FWMl9YRmN4NXBWYkVkOUQ3WFo4aVdodDFidTN3OC1sUlVyTGt4R3ZYT3JfM1FycEhzOFA5UlNCdnJxZ3QtcWxwc0JJc1ZWTGxqS1NWLUlkQ1VFMVNHMzNkX3JjU0lhbm1oUXFoMFZ4NjZVQmxub1oyZEhSZVprd01wX09jemNTM0hZcERlMmlFb3d0SDdVVk9uWXdpSzF5cWM?oc=5"
     },
     {
       "id": "20261028-uk-uk-increases-student-visa-financial",
@@ -42,7 +64,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK increases student visa financial requirements",
-      "summary": "UK reported an increase to financial requirements for international student visas. Specific threshold amounts were not stated in the headline.",
+      "summary": "UK reported an increase to financial requirements for international student visa applicants, raising the threshold for proof of funds.",
       "source": "Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkJpT3NPOGxUbGVXODc0NDlSVlRRWlY5TmdzZ1NPMXdNc2lrNFlpbDN1bHJNb3pEdlhhOFBGcWtfNXZHTTd4TXdFd29mOUJrd0s4VW92TGlGZTlodTFoQWNDd2JHQW1RREl2OG9Mc3JNUFZJbFIyVzBUVEpfdVNLVEU2VmI3ZjF3TURkczVWcWhFMFRsc1B4SDFPNlY?oc=5"
     },
@@ -67,17 +89,6 @@
       "summary": "UK has raised the proof of funds requirement for student visas to £14,130, effective from November 30, reported by Arbiterz.",
       "source": "Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-charges-universities-1-200-per-in",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Fee change",
-      "title": "UK charges universities $1,200 per international student",
-      "summary": "UK reported a new levy of $1,200 per international student charged to universities, affecting Indian students among others.",
-      "source": "Education Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ21xQ1g4Zktnc2w5T0pMZGZIU2thS1JRdExnSVF3aUNxVkRCUzVRRjgxY2tSalRSdDdMZ09YSExvVWd5TVB6bndyQkU4RTYwX3NMR2pOY1hqWlhnWm1tVm1YYmhHNXQtTXdvdmpTU0xqU1FWMl9YRmN4NXBWYkVkOUQ3WFo4aVdodDFidTN3OC1sUlVyTGt4R3ZYT3JfM1FycEhzOFA5UlNCdnJxZ3QtcWxwc0JJc1ZWTGxqS1NWLUlkQ1VFMVNHMzNkX3JjU0lhbm1oUXFoMFZ4NjZVQmxub1oyZEhSZVprd01wX09jemNTM0hZcERlMmlFb3d0SDdVVk9uWXdpSzF5cWM?oc=5"
     },
     {
       "id": "20261028-australia-australia-updates-visa-requirements",
@@ -430,17 +441,6 @@
       "summary": "US Department of Homeland Security proposed new OPT fees: $70,000 for first-time F-1 students and $30,000 for extensions, shifting costs to educational institutions.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU3lHZld2c0dydlMyMEVqdk1iZHFxai0wVDVJUExBMHJRSnhTWEg2ZGRGcWRqUTJ5RUk2ZG9TZC1ZV3JJZHRDcVN4Z1lnUzR5bVJfWmZTZmYzNnJxcUFoU2VaQUh1d2JNRU5KaFdoUmd1MzZqYUMtTjlSclBKM05ydEEzRmRJNEpPOXNxYnJkb3pmWmlxV2RoZlh4Y3Exc05KZlQ2Uzl5NkNBdTN1c1JVTC1mQm44QzV3ejBfaDRoQjEzQjNVeFIwOTdHZjRmeFdqTWZEQmJlUS1DLXBIbHFTNTd6SUdaRUFYc1BjS3BnampkaEhORl81UHBVejVESHBlY0xqVkFMV0JCSXVGMzViSExMMWNZSmxndFJVM9IBogJBVV95cUxNdEpVRF9ZOTVPOXUyVTN6QU8zdmhqckhOTjBYU0VpME80eHpSZGdTMnlzcXRZV21JRlJnaUxRNFZWdV9YTklFejRRRlJVMG5KMzNzY09aUEwtOWJtQnNQdS1pQnBMRjJnXzNHWmdDMjQ4OTh2NnpJbDI5WFZpREZyTTlTd1dSLVRrNHRrSGNfV2k0WEpUOXVtRWc4dTkyNk15MVNYc2tsWHV6UU52NTBtUUxYMW9RNHVRRThuSDc4dU10aUM4SU81UHExQ0h2YmtydWpxcW05cFpCeUJEMWhFbEw3VF8xZzFOSzBub3Jib0RIcWk5cVZyLTFDNjBVbWdCWEpuTnJOVVpLMDFaSFNOeVhsODNjU3dMNG0yQ1hFQUtNZw?oc=5"
-    },
-    {
-      "id": "20261007-australia-australia-enforces-six-critical-fami",
-      "date": "2026-10-07",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia enforces six critical family rules for students",
-      "summary": "Australia has implemented six new family-related eligibility rules for student visa holders. The rules are now in force and affect dependent applications.",
-      "source": "NRI Affairs",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40aXNQTHo0ME04ZVBPNG1GXzQ1MnlTZHRTcFgycnZMbXl5MEQ2MEI4QmJCcVVwQlpzMFZnT2tmSko1WEplSFg0ajByQ05oUzFhUk5HdVhNZVdpNmxZM3JISUpsLVpSS3dZVjdGd0FSMWU?oc=5"
     }
   ]
 }
