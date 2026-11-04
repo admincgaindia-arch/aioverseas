@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T02:15:09.624+05:30",
+  "checked_at": "2026-11-05T02:15:10.504+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -8,8 +8,8 @@
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Threshold change",
-      "title": "UK Budget 2026 updates Skilled Worker salary thresholds",
-      "summary": "UK Budget 2026 reported changes to Skilled Worker visa salary thresholds and Graduate visa rules, signaling new immigration policy adjustments for applicants.",
+      "title": "UK Budget 2026 updates skilled worker salary thresholds",
+      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds, Graduate visa, and High Potential Individual route eligibility criteria.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObHJBTUtVNVFsMWl0dGJGS3pxWllLV3RoNTA1eU1nSHZwYkszaDB0Z1BZd3ZrbkdTNUVHei1FbFdfdGNoS2dtN25JWThpbmMtMU83cUJIX3Z0UFNna1MyTnVvUnhpSklwMnhCMzQxc0UxSGJ2YklObTc5b3E1N2lIbHlLOWJPbElaaWFHZFM5SXpUWEZ5eG1nczRXYTVwZEtGM0dLcDdxa29LOGZHb1h2MUVqWHZrUVIzQlpvbHgwWk9rTktVQXRJcElDVUR1a0dBRUQwNzNzMUQ2a2NSaHJMaXpLdzc2em5HTGFtdk1kQ2pIWFBhY3FzVmd0QWdjeDdqWDFSSjRkT3VPeWPSAZACQVVfeXFMTUkzQllkbS0wSE5kNTB3YlVLdV9lYXlqOGxfZmVjV0xSY1p6cnNHM3lMVENyMFhpUEJDcGFwQ3RHc2kzT1NPTkpyVTFiWGlhSWhsVFVDb3FzcUFtM0lod05sdTUtajQwLWFLdy1OSmdFVjZPZ09tOGd2b2I4SnNTOXRlQzVaV0lLWnVYMS0wQzhmWGxxX0lHb3IxMlR4dUxMenJacmR5d29NZEtLOTlhaTA3Q3hpV1cwUVBoRWRlY1ZabjN4cnNHOTV0QTNrbXNzTVh2cjRSeGk1NXFSRWRaR1NxTEZxenlKRVdfdHc1VmFBYlNSaTBaS3ZqV2tJY1FpMXNjVUtWUUZvS3BJWnFoVks?oc=5"
     },
@@ -25,13 +25,13 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUFSYjlmd0xGanp5QTlhOGQwbkR3cE1rXy1la0k4ZTdhUDFPVUNSdUtORFRlZzlacmpjQlBZd05IOW9pSlhVSnF1d2RTSWlEazhoYnh5NXMzU1piRFVPNkx0ZnpmV3FCa2Nldlc2Wk5DS0xlNE1KT2JneXJSbHpVQzlsY1E2VFM4VndIOVRwc2hFY1NXLXRUbkxsY0JUTzVocnVibzZBRGRIQV96Tjh4RjctNA?oc=5"
     },
     {
-      "id": "20261029-canada-canada-limits-work-permit-applicatio",
+      "id": "20261029-canada-canada-changes-work-permit-applicati",
       "date": "2026-10-29",
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada limits work permit applications during LMIA waits",
-      "summary": "Canada reported a change to work permit application limits during Labour Market Impact Assessment decision periods for foreign workers, affecting application processing rules.",
+      "title": "Canada changes work permit application limits during LMIA waits",
+      "summary": "Canada reported a change to limits on work permit applications submitted while awaiting Labour Market Impact Assessment decisions for foreign workers.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcy03YlU1TjZuRzJNT3kyeW9EX1RmLVZLRjc3d0t6N1QwRmJZRUhBQ2VHZzZBRDlETzFVNGdBQnJUOE5oYUpOSmU5bjhtWnl5YUFUSTVZamU5eHl3bWZtOXNYcnJzel8zQW85dEdhRVJ1RGVYVFptUkdoZU9kVmFMZllTc2pYUjJSUm91R1JiZGNaTEg1Qi1kc2ZBSEFsZl96MmdUU3R2ZmgweGo4RXR4UzVuTlJMekF4UUFDSERKYW45cnRXbmFrM2RmaDV6QzRpQktKaWZWOVlkNGJ0bFRWeXg2M0dCeVhvcGNQUmtZWdIB9AFBVV95cUxOdzBjZUhWNF9KV21ncmk2VEdXcFYyVTJ3bjJ3RHpveEtIVkJsSDdtRkR4SnlEamM0cmFWU211ZDJSNzl3NHJVTFMtQ21KenhwUFI1cnNFd2hYUEhkd2RBZVR3dmdMTjI4bkl6UjNfTkpQQnE4MmYwUnVJOGNCWUtINTRFaTMwYXFoNGwzMEhKMnFtdnRLNnBNYlFWbGpaazFHSkpoYy1semU3LVhVaWwwUzUyUUc4ODV1N1VPdUlKcVNLQ3RMeGJLWjY4OF9FQzZhODVZVWcyTmZ0YjQzdlBvakdiVFp5VEkzYUZBV1BFaGpZMTh0?oc=5"
     },
