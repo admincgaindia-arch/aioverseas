@@ -1,15 +1,37 @@
 {
-  "checked_at": "2026-11-05T02:15:10.504+05:30",
+  "checked_at": "2026-11-06T02:15:09.990+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20261101-uk-uk-budget-2026-updates-skilled-worke",
+      "id": "20261105-canada-canada-confirms-official-fee-for-10",
+      "date": "2026-11-05",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Fee change",
+      "title": "Canada confirms official fee for 10-year multiple-entry visitor visa",
+      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount was not disclosed in available reporting.",
+      "source": "Legit News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
+    },
+    {
+      "id": "20261102-uk-home-secretary-unveils-new-rules-for",
+      "date": "2026-11-02",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "Home Secretary unveils new rules for migrants settling in UK",
+      "summary": "The UK Home Secretary has unveiled new rules for migrants settling in the country. Details of specific eligibility or processing changes were not provided in the headline.",
+      "source": "GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnlEbGQ4ajUyUWFYQWJwcWNlaURGV0hlY0p0OS1zSUFqZE5sMjBCNW9BNVVHWEltWHJGNWNxVGotUGRPZXFWZUZlRmdTM0hmMjB3M2lsV3VIVXQtTzhod3RBNGptMXRHdmZNTDNXNnhEdXRfUGtjeTY2MmlDZVlSSS1EMDByOS0weFRENDNBT0Z4WWZwOU45dFU2dnlHV3M4?oc=5"
+    },
+    {
+      "id": "20261101-uk-uk-budget-2026-skilled-worker-salary",
       "date": "2026-11-01",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Threshold change",
-      "title": "UK Budget 2026 updates skilled worker salary thresholds",
-      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds, Graduate visa, and High Potential Individual route eligibility criteria.",
+      "title": "UK Budget 2026: Skilled Worker salary thresholds and visa route changes",
+      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds, Graduate visa, and HPI route. Specific threshold amounts were not stated in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObHJBTUtVNVFsMWl0dGJGS3pxWllLV3RoNTA1eU1nSHZwYkszaDB0Z1BZd3ZrbkdTNUVHei1FbFdfdGNoS2dtN25JWThpbmMtMU83cUJIX3Z0UFNna1MyTnVvUnhpSklwMnhCMzQxc0UxSGJ2YklObTc5b3E1N2lIbHlLOWJPbElaaWFHZFM5SXpUWEZ5eG1nczRXYTVwZEtGM0dLcDdxa29LOGZHb1h2MUVqWHZrUVIzQlpvbHgwWk9rTktVQXRJcElDVUR1a0dBRUQwNzNzMUQ2a2NSaHJMaXpLdzc2em5HTGFtdk1kQ2pIWFBhY3FzVmd0QWdjeDdqWDFSSjRkT3VPeWPSAZACQVVfeXFMTUkzQllkbS0wSE5kNTB3YlVLdV9lYXlqOGxfZmVjV0xSY1p6cnNHM3lMVENyMFhpUEJDcGFwQ3RHc2kzT1NPTkpyVTFiWGlhSWhsVFVDb3FzcUFtM0lod05sdTUtajQwLWFLdy1OSmdFVjZPZ09tOGd2b2I4SnNTOXRlQzVaV0lLWnVYMS0wQzhmWGxxX0lHb3IxMlR4dUxMenJacmR5d29NZEtLOTlhaTA3Q3hpV1cwUVBoRWRlY1ZabjN4cnNHOTV0QTNrbXNzTVh2cjRSeGk1NXFSRWRaR1NxTEZxenlKRVdfdHc1VmFBYlNSaTBaS3ZqV2tJY1FpMXNjVUtWUUZvS3BJWnFoVks?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "The US issued a final rule on the 9-11 biometric fee applicable to H-1B and L-1 visa petitions. The specific fee amount is not stated in the headline.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1hNLVdYbThyRzI1ZkFCSHNlYWxRQVpWdGZUR0JBNWt3bnNTX3NOQU5oWVBPaDd2dTFpckZ0RzJUQXk5QWdIcTA4V2FkTFAxTEJiSzJaM3JhZzNlX1hQcFVlZzlnNU5nbmhkQ3l5ekZibE51ZXVLenJyWVVtOEpFMmVieUFPLUZQSHVCOHVodDlxaldnVUpPaWhEbDR2V3d3?oc=5"
-    },
-    {
-      "id": "20261008-usa-us-announces-new-opt-fees-for-f-1-st",
-      "date": "2026-10-08",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "US announces new OPT fees for F-1 students",
-      "summary": "The US has announced new Optional Practical Training fees for F-1 students, with reported costs reaching up to $100,000. The change affects work authorization expenses.",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFB2SEdCM3Zoa1BqWFNOZXV3dEI2clFrdV9DVkxyNm50UnBQOFgwQW9kSmp6UnhMVGtZTURCXzFya2RzeDZ5TjV1TEJDckZSejF4Y2NRaXlmSlNtWHFocWxLcWNlRl9ONXR2TFRzNzA2dzBNUFJFN1FaSldZRW1HTjdSV0ZfSVoyQTZzcTBhY3JBZGtpS1dnb2pzb1ROdFBjYTVxeWp6bkduOUtRc2U1UEZEQk8tUkhRVi10bkV30gHEAUFVX3lxTE9VVE9wWTFOZGIyTXFMT2NSRmdWUzg5Wk4zTW95bWkxNlhNZ09yRGd2VnhoZi1EaU1pNUloSzExRnhKUjh1c2lvS3lFTUNHZnliRXg4U09USUVNbG5TMDVtWVdaUmtqek1TSjBuOTNCSnBkNnJ4Q0hrU3ZBcE1Uc3ZrSlBPX25iaUt4ZURzMnlBZ0hQQWhmQ1VhWDc5NGRDTEp3c1JxQjhFZC1Da2RlWG1BQWNaNHVHdXRaZmg4Umx1bmFIR0o?oc=5"
-    },
-    {
-      "id": "20261007-australia-australia-enforces-new-rules-for-dep",
-      "date": "2026-10-07",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia enforces new rules for dependants and students",
-      "summary": "Australia implemented new eligibility and processing rules for accompanying dependants and onshore student visa applications, now in force.",
-      "source": "ICEF Monitor",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGVoeTYybjNCUTgzU0dNQjBmZ1l6Sk0zXzRrMmk3V3JvN1hZRVhSUEc2M1VDT0JtY1hIX3oxeUxGbG1OdHFTZXV2TVZ3VlhtNnN3cnlvZkRUOUdGMTVfNGNoZnhvVUVpbHp6Z05IRExaV3B0Mi1waWtHQVRrMTlxOUViNG1pQ3VTUnI2UnViVzN4VFhXem1fYVZ6RkU0SFdWMFBHQ1dPZFY0OHNDZjFWVmgxVkN4bDBxSGc3UWxVSnhIQ0p3MzZZNEhwODE?oc=5"
     }
   ]
 }
