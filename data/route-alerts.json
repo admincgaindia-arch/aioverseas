@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T02:15:09.990+05:30",
+  "checked_at": "2026-11-07T02:15:09.024+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "canada",
       "kind": "Fee change",
       "title": "Canada confirms official fee for 10-year multiple-entry visitor visa",
-      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount was not disclosed in available reporting.",
+      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount was not disclosed in the headline.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
     },
@@ -30,8 +30,8 @@
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Threshold change",
-      "title": "UK Budget 2026: Skilled Worker salary thresholds and visa route changes",
-      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds, Graduate visa, and HPI route. Specific threshold amounts were not stated in the headline.",
+      "title": "UK Budget 2026: Skilled Worker salary thresholds change",
+      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds and modifications to Graduate visa and HPI route eligibility criteria affecting international applicants.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObHJBTUtVNVFsMWl0dGJGS3pxWllLV3RoNTA1eU1nSHZwYkszaDB0Z1BZd3ZrbkdTNUVHei1FbFdfdGNoS2dtN25JWThpbmMtMU83cUJIX3Z0UFNna1MyTnVvUnhpSklwMnhCMzQxc0UxSGJ2YklObTc5b3E1N2lIbHlLOWJPbElaaWFHZFM5SXpUWEZ5eG1nczRXYTVwZEtGM0dLcDdxa29LOGZHb1h2MUVqWHZrUVIzQlpvbHgwWk9rTktVQXRJcElDVUR1a0dBRUQwNzNzMUQ2a2NSaHJMaXpLdzc2em5HTGFtdk1kQ2pIWFBhY3FzVmd0QWdjeDdqWDFSSjRkT3VPeWPSAZACQVVfeXFMTUkzQllkbS0wSE5kNTB3YlVLdV9lYXlqOGxfZmVjV0xSY1p6cnNHM3lMVENyMFhpUEJDcGFwQ3RHc2kzT1NPTkpyVTFiWGlhSWhsVFVDb3FzcUFtM0lod05sdTUtajQwLWFLdy1OSmdFVjZPZ09tOGd2b2I4SnNTOXRlQzVaV0lLWnVYMS0wQzhmWGxxX0lHb3IxMlR4dUxMenJacmR5d29NZEtLOTlhaTA3Q3hpV1cwUVBoRWRlY1ZabjN4cnNHOTV0QTNrbXNzTVh2cjRSeGk1NXFSRWRaR1NxTEZxenlKRVdfdHc1VmFBYlNSaTBaS3ZqV2tJY1FpMXNjVUtWUUZvS3BJWnFoVks?oc=5"
     },
