@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T02:15:09.024+05:30",
+  "checked_at": "2026-11-08T02:15:10.907+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -8,30 +8,41 @@
       "country": "Canada",
       "slug": "canada",
       "kind": "Fee change",
-      "title": "Canada confirms official fee for 10-year multiple-entry visitor visa",
-      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount was not disclosed in the headline.",
+      "title": "Canada confirms official fee for 10-year visitor visa",
+      "summary": "Canada has confirmed the official fee for its 10-year multiple-entry visitor visa. The specific amount is not stated in the headline.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
     },
     {
-      "id": "20261102-uk-home-secretary-unveils-new-rules-for",
+      "id": "20261104-canada-canada-introduces-new-asylum-rules-w",
+      "date": "2026-11-04",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada introduces new asylum rules with 60-day deadline",
+      "summary": "Canada has introduced new asylum rules that set a 60-day deadline for applicants. This represents a confirmed change to processing rules for asylum seekers.",
+      "source": "Arbiterz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVS1raUJYb0lqVVBXTXVNNFUweXNaS2dQdjlGOGZkVlFpaVFjV21mS0p0a3dkWUVCZkw0aFp5MlV5UkszOFlUbUJlRGlqRFVjX21fM3A3ZUJZQ2dubjQ5eS1JMDBhVzVuWUxzdExhb0dMVEN1Z0dyTVlOR0NZT29QMmU4V2lRTzhZTWwwNTYxOEtLWWYxdjFQOHUyamtOeG03MUNJRHFRcw?oc=5"
+    },
+    {
+      "id": "20261102-uk-uk-unveils-new-rules-for-migrants-se",
       "date": "2026-11-02",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Rule change",
-      "title": "Home Secretary unveils new rules for migrants settling in UK",
-      "summary": "The UK Home Secretary has unveiled new rules for migrants settling in the country. Details of specific eligibility or processing changes were not provided in the headline.",
+      "title": "UK unveils new rules for migrants settling in country",
+      "summary": "The UK Home Secretary has unveiled new rules for migrants settling in the UK. The specific details of these settlement rule changes are not provided in the headline.",
       "source": "GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnlEbGQ4ajUyUWFYQWJwcWNlaURGV0hlY0p0OS1zSUFqZE5sMjBCNW9BNVVHWEltWHJGNWNxVGotUGRPZXFWZUZlRmdTM0hmMjB3M2lsV3VIVXQtTzhod3RBNGptMXRHdmZNTDNXNnhEdXRfUGtjeTY2MmlDZVlSSS1EMDByOS0weFRENDNBT0Z4WWZwOU45dFU2dnlHV3M4?oc=5"
     },
     {
-      "id": "20261101-uk-uk-budget-2026-skilled-worker-salary",
+      "id": "20261101-uk-uk-budget-2026-changes-skilled-worke",
       "date": "2026-11-01",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Threshold change",
-      "title": "UK Budget 2026: Skilled Worker salary thresholds change",
-      "summary": "UK Budget 2026 reported changes to Skilled Worker salary thresholds and modifications to Graduate visa and HPI route eligibility criteria affecting international applicants.",
+      "title": "UK Budget 2026 changes skilled worker salary thresholds",
+      "summary": "UK Budget 2026 reports changes to Skilled Worker salary thresholds, Graduate visa, and HPI route. Specific threshold amounts are not stated in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObHJBTUtVNVFsMWl0dGJGS3pxWllLV3RoNTA1eU1nSHZwYkszaDB0Z1BZd3ZrbkdTNUVHei1FbFdfdGNoS2dtN25JWThpbmMtMU83cUJIX3Z0UFNna1MyTnVvUnhpSklwMnhCMzQxc0UxSGJ2YklObTc5b3E1N2lIbHlLOWJPbElaaWFHZFM5SXpUWEZ5eG1nczRXYTVwZEtGM0dLcDdxa29LOGZHb1h2MUVqWHZrUVIzQlpvbHgwWk9rTktVQXRJcElDVUR1a0dBRUQwNzNzMUQ2a2NSaHJMaXpLdzc2em5HTGFtdk1kQ2pIWFBhY3FzVmd0QWdjeDdqWDFSSjRkT3VPeWPSAZACQVVfeXFMTUkzQllkbS0wSE5kNTB3YlVLdV9lYXlqOGxfZmVjV0xSY1p6cnNHM3lMVENyMFhpUEJDcGFwQ3RHc2kzT1NPTkpyVTFiWGlhSWhsVFVDb3FzcUFtM0lod05sdTUtajQwLWFLdy1OSmdFVjZPZ09tOGd2b2I4SnNTOXRlQzVaV0lLWnVYMS0wQzhmWGxxX0lHb3IxMlR4dUxMenJacmR5d29NZEtLOTlhaTA3Q3hpV1cwUVBoRWRlY1ZabjN4cnNHOTV0QTNrbXNzTVh2cjRSeGk1NXFSRWRaR1NxTEZxenlKRVdfdHc1VmFBYlNSaTBaS3ZqV2tJY1FpMXNjVUtWUUZvS3BJWnFoVks?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "Canada reported a new policy exempting certain special groups and their families from immigration fees. The specific groups and exemption scope are not detailed in the headline.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
-    },
-    {
-      "id": "20261008-usa-us-finalizes-9-11-biometric-fee-for",
-      "date": "2026-10-08",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "US finalizes 9-11 biometric fee for H-1B and L-1 visas",
-      "summary": "The US issued a final rule on the 9-11 biometric fee applicable to H-1B and L-1 visa petitions. The specific fee amount is not stated in the headline.",
-      "source": "Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1hNLVdYbThyRzI1ZkFCSHNlYWxRQVpWdGZUR0JBNWt3bnNTX3NOQU5oWVBPaDd2dTFpckZ0RzJUQXk5QWdIcTA4V2FkTFAxTEJiSzJaM3JhZzNlX1hQcFVlZzlnNU5nbmhkQ3l5ekZibE51ZXVLenJyWVVtOEpFMmVieUFPLUZQSHVCOHVodDlxaldnVUpPaWhEbDR2V3d3?oc=5"
     }
   ]
 }
