@@ -1,15 +1,26 @@
 {
-  "checked_at": "2026-11-08T02:15:10.907+05:30",
+  "checked_at": "2026-11-09T02:15:11.940+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261108-australia-australia-proposes-four-new-financia",
+      "date": "2026-11-08",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Threshold change",
+      "title": "Australia proposes four new financial requirements for student visas",
+      "summary": "Australia has proposed tougher student visa rules with four new financial requirements for applicants. Specific threshold amounts were not detailed in the headline.",
+      "source": "GistReel",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWJvTlAzYnNzWU4yMFg3dFpWVl8wa21tUnZfd1BzLWd6QmVYUTV4UXZwendxR3N3c3FOYUxlR3pQR3F0MW1uVGc3QmdFWVRaZUhnTDAtQzU1YWpMY0tuNWpWVHFjcEdDaWNxU1ZJS3VIMWt1Zzhfb1Ftckxqa2dfX0NsV2JWMG55UEZNalhlb0h0NmxVWHJLRmllMnpVaVplUGtNbk5HdjhycnIxTzZoNlFSMnlXWDJ1aGx2Y1FB?oc=5"
+    },
     {
       "id": "20261105-canada-canada-confirms-official-fee-for-10",
       "date": "2026-11-05",
       "country": "Canada",
       "slug": "canada",
       "kind": "Fee change",
-      "title": "Canada confirms official fee for 10-year visitor visa",
-      "summary": "Canada has confirmed the official fee for its 10-year multiple-entry visitor visa. The specific amount is not stated in the headline.",
+      "title": "Canada confirms official fee for 10-year multiple-entry visitor visa",
+      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific fee amount was not disclosed in the available reporting.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
     },
@@ -20,20 +31,31 @@
       "slug": "canada",
       "kind": "Rule change",
       "title": "Canada introduces new asylum rules with 60-day deadline",
-      "summary": "Canada has introduced new asylum rules that set a 60-day deadline for applicants. This represents a confirmed change to processing rules for asylum seekers.",
+      "summary": "Canada has introduced new asylum rules that set a 60-day deadline for applicants. This represents a change to processing rules for asylum seekers.",
       "source": "Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVS1raUJYb0lqVVBXTXVNNFUweXNaS2dQdjlGOGZkVlFpaVFjV21mS0p0a3dkWUVCZkw0aFp5MlV5UkszOFlUbUJlRGlqRFVjX21fM3A3ZUJZQ2dubjQ5eS1JMDBhVzVuWUxzdExhb0dMVEN1Z0dyTVlOR0NZT29QMmU4V2lRTzhZTWwwNTYxOEtLWWYxdjFQOHUyamtOeG03MUNJRHFRcw?oc=5"
     },
     {
-      "id": "20261102-uk-uk-unveils-new-rules-for-migrants-se",
+      "id": "20261102-uk-home-secretary-unveils-new-rules-for",
       "date": "2026-11-02",
       "country": "United Kingdom",
       "slug": "uk",
       "kind": "Rule change",
-      "title": "UK unveils new rules for migrants settling in country",
-      "summary": "The UK Home Secretary has unveiled new rules for migrants settling in the UK. The specific details of these settlement rule changes are not provided in the headline.",
+      "title": "Home Secretary unveils new rules for migrants settling in UK",
+      "summary": "The UK Home Secretary has unveiled new rules for migrants settling in the country. This represents a change to settlement eligibility or processing rules.",
       "source": "GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnlEbGQ4ajUyUWFYQWJwcWNlaURGV0hlY0p0OS1zSUFqZE5sMjBCNW9BNVVHWEltWHJGNWNxVGotUGRPZXFWZUZlRmdTM0hmMjB3M2lsV3VIVXQtTzhod3RBNGptMXRHdmZNTDNXNnhEdXRfUGtjeTY2MmlDZVlSSS1EMDByOS0weFRENDNBT0Z4WWZwOU45dFU2dnlHV3M4?oc=5"
+    },
+    {
+      "id": "20261102-uk-uk-revises-care-workers-immigration",
+      "date": "2026-11-02",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK revises care workers immigration policy for legal migrants",
+      "summary": "The UK has revised its care workers policy affecting immigration rules for legal migrants. This represents a change to eligibility rules for a specific occupational category.",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLWNoQTNaUGtzRUhPWHJmNGlVRll6SklJREFkVHBkeHBZZ3pCZjliZU9QWGgxRnM4N01LaFk0YTVPc1VQRGtrM2dPaDZodVM1dmMtV3JhdU5iRE1LU3fSAWNBVV95cUxOZWNHVUdGSTlNWF9qaTdDU2RqYnkxYzN2VXEyYkFOLXBjQXJBZ3FsdG5majhkQWtPWFJDWUR2dndzVGNoTnFTU21UZnQxd3RJV0hCQ1RiaUFHM3RXYVB2eXVMdkE?oc=5"
     },
     {
       "id": "20261101-uk-uk-budget-2026-changes-skilled-worke",
@@ -419,28 +441,6 @@
       "summary": "The UK has changed skilled worker visa rules to allow recognised modern slavery victims to change employers. This expands employment flexibility for this visa category.",
       "source": "Legit.ng",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
-    },
-    {
-      "id": "20261011-uk-uk-removes-24-occupations-from-salar",
-      "date": "2026-10-11",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK removes 24 occupations from salary list by December",
-      "summary": "UK announced 24 occupations will lose Immigration Salary List status by December 31, affecting salary threshold eligibility for those roles.",
-      "source": "Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlBtWGIta3RtVFFSWkFFMVJRXzFnRVRxRVdKZ1N1bHFIbkthZ2hfcnR2YnJCZ0xIZUNPNlg3UkhNZ3RGUENSTldyTk9WSFlud0xBeWJTYmFTQy00R1FiSUR0SDlpaFI0STBnaUdmSW5NUWJVUGJVT0FSdDVLRlBLc3dRVHRWVElkT0xVaHRhRzAyeDVOR29MZDB3Z2d4ZzViZHhRbkk0N2FXY2JpdVV6dFV1aw?oc=5"
-    },
-    {
-      "id": "20261009-canada-canada-announces-immigration-fee-exe",
-      "date": "2026-10-09",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Fee change",
-      "title": "Canada announces immigration fee exemption for special groups",
-      "summary": "Canada reported a new policy exempting certain special groups and their families from immigration fees. The specific groups and exemption scope are not detailed in the headline.",
-      "source": "Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjZHTlVDVjFab1F4WGhCbEhKaVV4TC1GcjVyY1ZPYWlJMnhIRm1XOWJrcWZLRnpKMkM4dW5CLU1ldEJ1QUluYXBDcC1NQzBiV0Q3RjRod1NWeldueXI4Q0lrdEg0S3NKTmdhTi03QkU2MTNZaU5LSjB2Snl5UzNKYklEYkliT2NST2NJNkp6c2dYTkZJY24wTEIxNGdXX1FDN1NjX09zZEtkdw?oc=5"
     }
   ]
 }
