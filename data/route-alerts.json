@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T02:15:11.940+05:30",
+  "checked_at": "2026-11-10T02:15:09.916+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -14,15 +14,26 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWJvTlAzYnNzWU4yMFg3dFpWVl8wa21tUnZfd1BzLWd6QmVYUTV4UXZwendxR3N3c3FOYUxlR3pQR3F0MW1uVGc3QmdFWVRaZUhnTDAtQzU1YWpMY0tuNWpWVHFjcEdDaWNxU1ZJS3VIMWt1Zzhfb1Ftckxqa2dfX0NsV2JWMG55UEZNalhlb0h0NmxVWHJLRmllMnpVaVplUGtNbk5HdjhycnIxTzZoNlFSMnlXWDJ1aGx2Y1FB?oc=5"
     },
     {
-      "id": "20261105-canada-canada-confirms-official-fee-for-10",
+      "id": "20261105-canada-canada-confirms-10-year-visitor-visa",
       "date": "2026-11-05",
       "country": "Canada",
       "slug": "canada",
       "kind": "Fee change",
-      "title": "Canada confirms official fee for 10-year multiple-entry visitor visa",
-      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific fee amount was not disclosed in the available reporting.",
+      "title": "Canada confirms 10-year visitor visa fee",
+      "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount is not stated in the available reporting.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
+    },
+    {
+      "id": "20261105-canada-canada-introduces-60-day-refugee-cla",
+      "date": "2026-11-05",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada introduces 60-day refugee claim deadline",
+      "summary": "Canada has introduced new refugee claim rules establishing a 60-day application deadline for asylum seekers. This represents a change to processing requirements for refugee applications.",
+      "source": "Immigration.ca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVByTFBvT0I0blRlaWVYa2xfT3ZINWFHZFh4S2FoVzhRbjNkQU5kRFJidUR0aUFuc0p3NXEyZUgzZzA4WDJrVHlmaDR5SXNnRGNNU25rbkZVWFdKWEZtMDVwREhVY3F5V3h1Y1Zfd1U4aGszb0JYNHZpTmdURjIwSmVZSW56Q0NwUFV4NlE4WThnQjVTWlNzeG44bHBQXzQ?oc=5"
     },
     {
       "id": "20261104-canada-canada-introduces-new-asylum-rules-w",
@@ -34,6 +45,17 @@
       "summary": "Canada has introduced new asylum rules that set a 60-day deadline for applicants. This represents a change to processing rules for asylum seekers.",
       "source": "Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVS1raUJYb0lqVVBXTXVNNFUweXNaS2dQdjlGOGZkVlFpaVFjV21mS0p0a3dkWUVCZkw0aFp5MlV5UkszOFlUbUJlRGlqRFVjX21fM3A3ZUJZQ2dubjQ5eS1JMDBhVzVuWUxzdExhb0dMVEN1Z0dyTVlOR0NZT29QMmU4V2lRTzhZTWwwNTYxOEtLWWYxdjFQOHUyamtOeG03MUNJRHFRcw?oc=5"
+    },
+    {
+      "id": "20261103-uk-uk-settlement-wait-period-doubled-to",
+      "date": "2026-11-03",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK settlement wait period doubled to 10 years",
+      "summary": "The UK has changed settlement rules, doubling the wait period for permanent residency to 10 years under new immigration policy. This affects the timeline for ILR eligibility.",
+      "source": "UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaTN0ZUVPZzZrNVdmbkc0X3RQcTFCbTBmdGhOZW5SeHBUOEFnclJDLU5oU1FNdURQZnVQaHBBMmZKbWI4bzVWZTVhWUlwRTk1YXhJdnBxNFpuVHdJcUpBWnA2MHVqYVpSOGlSNVdmVjFKUWRMZ0lBektOaUxZZTFuTHc3eU1pNXNLb2tfQVNRUHhlN05hMnd5R09rcm1yY2tJbXpj?oc=5"
     },
     {
       "id": "20261102-uk-home-secretary-unveils-new-rules-for",
@@ -419,28 +441,6 @@
       "summary": "United States reported a rule change treating H-1B visa extensions as fresh applications, affecting processing procedures and eligibility assessment for visa renewals.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS3ljMzkwRFMtYzhpVlBCQ3RnUjFySy1wQXJVMnh5TEhnTkJ5S2tBTG9kb0JRSXBXZXhqcGxwaUtpWHlDRlhJX2tCOUtrd1lMU1NQNGNuNWhUSzFqV0pfaEVENTZjV3JKcEs5Z2JZSUQyazBDX0dKTXRfUjd2NW9LcVdtanBWZzNGWWlXQmw5NTZBN3BIRHpmakgyd3dXMEg4NjE3dTU2ajNnS3VNWC1PdDdvNDYzd2tQc0VEbnRKc3JrMFhkUjUyMkJXb1llZU1YczVRMVFpRG5uaTlyODBpOW1FTlhpUXZIa0czVko4UUQ4dVhsVElMclJlM1hoZmR6RXk5bmxtYlJLanItV1NQS3lrRS0yZzhTcGVwcWtaOF9yOTExS1HSAasCQVVfeXFMTUxGaDhIaVJaSGxKTnhZU3RsNW9BMVduYzh0eGhnUEU0TzZFeGRleGZHNHVZT3Fhb3oweDg0ZktfZlRGRmtxRGdKaUtLbTRoaDBNOHc5czBfeHNHb1dZUDRVQU9uNU42SDc1TThibmxnWTRVQUYwMjJLSU1BdTAxV2t4SjhhS3VvNkxyQUpLRnJGNWhBTWd6bmoxNmVFOUZEMnRVMmN2aDMwcVpvNEp5Ti1hUGlwdUZGRE9IT0c2STdlUE1OR3ZTcmdVNDVJTEFqZWI3MjFNcVZuaV8tTkVzUGVzUmp4Y1dTM1d2dm41UlM5M0xfYU4tWGRoUzNhTVBnbkRMTHY1OWhQU1YySGg5Z05MMkJBNzFXaXQwa25WYldPbjY2ZERIZ09xMnM?oc=5"
-    },
-    {
-      "id": "20261012-canada-canada-eases-study-permit-rule-for-t",
-      "date": "2026-10-12",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada eases study permit rule for temporary workers",
-      "summary": "Canada has eased study permit eligibility rules for temporary workers, reported by the immigration authority. The specific details of the relaxed requirements are not itemized in available reporting.",
-      "source": "IRCC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWpQajAwdWRHSDdsMVpxSy1feHFNU0V2TVM4Wm1LbmdiRWZLdVJZOXI5bHhfZGprQzRjX05SVjJJbm5OYzlHb1JPNjdCS0ZOSnBheEtCRUEydC14RXlhdFZpMWNNNXlibHBFTmtlaS1lWFd5MlE2SEZtaVRiV0lxOXdQVlI0ODhPVDhKS0Jick5uMnNFOWxHWUYxd0E?oc=5"
-    },
-    {
-      "id": "20261012-uk-uk-allows-modern-slavery-victims-emp",
-      "date": "2026-10-12",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK allows modern slavery victims employer mobility",
-      "summary": "The UK has changed skilled worker visa rules to allow recognised modern slavery victims to change employers. This expands employment flexibility for this visa category.",
-      "source": "Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZndtc1FWQThQRWhwWXNDZ2JZcjh4elQ2amdEQ0R1RGoxT1NVTmxrbW1aZFNQSWdHZ1lRdl92R0ZLSlNGNDBiNzRnUmhETjlxOVp5MzRQT2pJOS1lTkEyZVBOVllRTWNmdU55cmxrZE5zLXU2dF9IbXR0OW1INmVHUWJuWERjb3NoRHl2Zk5vaGhFcDAzalFaMA?oc=5"
     }
   ]
 }
