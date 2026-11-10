@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-11-10T02:15:09.916+05:30",
+  "checked_at": "2026-11-11T02:15:09.481+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261110-canada-canada-doubles-low-wage-work-permit",
+      "date": "2026-11-10",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Timeline change",
+      "title": "Canada doubles low-wage work permit duration to 2 years",
+      "summary": "Canada reported doubling the duration of low-wage foreign work permits from 1 year to 2 years, affecting eligibility and stay length for affected workers.",
+      "source": "Y-Axis Overseas Careers",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
+    },
+    {
+      "id": "20261110-uk-uk-student-visa-financial-requiremen",
+      "date": "2026-11-10",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK student visa financial requirement changes November 30",
+      "summary": "UK student visa financial requirements reported to change on November 30, affecting money rule thresholds for student visa applicants.",
+      "source": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORzJ3aHFPQ0FzZlpla25rNEI2OGcxZUtSQkVta2U3Qm5kZXVGRldqYTZVUEpkd2ZFM2NiSFJkTHcwQ2lWS2MtVmZXNTRfZkVoTVdTZDczSzFqQ0V1cmNFbVJKTHB3UndWT0tzNGdJTjQ3T1AzWG0tTWNhSXVJSFNXRHNRUVFocFMwQ1JsZTFOcTBTQXRlREpOWWZ0dFlBWXRBQjlKemZhRUxtNGMzYzNoVGVWc2pfVlItaGxVZHE1MDQwaHhhV0ZLeWExNXhlRHRReEFncTZ0TmtFVnpnbkpiYTlRVldlaHFreGpobnlIY1HSAfABQVVfeXFMTkcyd2hxT0NBc2ZaZWtuazRCNjhnMWVLUkJFbWtlN0JuZGV1RkZXamE2VVBKZHdmRTNjYkhSZEx3MENpVktjLVZmVzU0X2ZFaE1XU2Q3M0sxakNFdXJjRW1SSkxwd1J3Vk9LczRnSU40N09QM1htLU1jYUl1SUhTV0RzUVFRaHBTMENSbGUxTnEwU0F0ZURKTllmdHRZQVl0QUI5SnpmYUVMbTRjM2MzaFRlVnNqX1ZSLWhsVWRxNTA0MGh4YVdGS3lhMTV4ZUR0UXhBZ3E2dE5rRVZ6Z25KYmE5UVZXZWhxa3hqaG55SGNR?oc=5"
+    },
     {
       "id": "20261108-australia-australia-proposes-four-new-financia",
       "date": "2026-11-08",
@@ -419,28 +441,6 @@
       "summary": "Australia reported updated migration rules for 2026 including higher visa costs and increased salary thresholds for skilled worker migrants, effective in 2026.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
-    },
-    {
-      "id": "20261014-usa-us-dhs-to-amend-premium-processing-t",
-      "date": "2026-10-14",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Timeline change",
-      "title": "US DHS to amend premium processing timeframes",
-      "summary": "The US Department of Homeland Security reported plans to propose amendments to premium processing timeframes for visa applications, though specific new timelines are not stated.",
-      "source": "Fragomen",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NSQmtZZ0dyd2NjLTROYk5lckZOV1pTQWx5S3ROQzdIeWxNUXF5bHNPZWpTMUlwS2N0NXNPRnN5UU1ONVd0NWw0Y1FoWVFyYWtHUzljYURza1dDOUlCNTAwNlFqVHBUWF9tOWxwcGh3cUV1TThYNEFuY3RFQlRPOW5jZ240NU9JSmNRUl9mV3ZMSU0yZmg1b0toWUhkMGhhWnNWM1VvcEJNQQ?oc=5"
-    },
-    {
-      "id": "20261013-usa-h-1b-extensions-treated-as-fresh-cas",
-      "date": "2026-10-13",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "H-1B extensions treated as fresh cases under new rule",
-      "summary": "United States reported a rule change treating H-1B visa extensions as fresh applications, affecting processing procedures and eligibility assessment for visa renewals.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS3ljMzkwRFMtYzhpVlBCQ3RnUjFySy1wQXJVMnh5TEhnTkJ5S2tBTG9kb0JRSXBXZXhqcGxwaUtpWHlDRlhJX2tCOUtrd1lMU1NQNGNuNWhUSzFqV0pfaEVENTZjV3JKcEs5Z2JZSUQyazBDX0dKTXRfUjd2NW9LcVdtanBWZzNGWWlXQmw5NTZBN3BIRHpmakgyd3dXMEg4NjE3dTU2ajNnS3VNWC1PdDdvNDYzd2tQc0VEbnRKc3JrMFhkUjUyMkJXb1llZU1YczVRMVFpRG5uaTlyODBpOW1FTlhpUXZIa0czVko4UUQ4dVhsVElMclJlM1hoZmR6RXk5bmxtYlJLanItV1NQS3lrRS0yZzhTcGVwcWtaOF9yOTExS1HSAasCQVVfeXFMTUxGaDhIaVJaSGxKTnhZU3RsNW9BMVduYzh0eGhnUEU0TzZFeGRleGZHNHVZT3Fhb3oweDg0ZktfZlRGRmtxRGdKaUtLbTRoaDBNOHc5czBfeHNHb1dZUDRVQU9uNU42SDc1TThibmxnWTRVQUYwMjJLSU1BdTAxV2t4SjhhS3VvNkxyQUpLRnJGNWhBTWd6bmoxNmVFOUZEMnRVMmN2aDMwcVpvNEp5Ti1hUGlwdUZGRE9IT0c2STdlUE1OR3ZTcmdVNDVJTEFqZWI3MjFNcVZuaV8tTkVzUGVzUmp4Y1dTM1d2dm41UlM5M0xfYU4tWGRoUzNhTVBnbkRMTHY1OWhQU1YySGg5Z05MMkJBNzFXaXQwa25WYldPbjY2ZERIZ09xMnM?oc=5"
     }
   ]
 }
