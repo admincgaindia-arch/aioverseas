@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-11T02:15:09.481+05:30",
+  "checked_at": "2026-11-12T02:15:08.885+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "canada",
       "kind": "Timeline change",
       "title": "Canada doubles low-wage work permit duration to 2 years",
-      "summary": "Canada reported doubling the duration of low-wage foreign work permits from 1 year to 2 years, affecting eligibility and stay length for affected workers.",
+      "summary": "Canada reported it has doubled the permit duration for low-wage foreign workers from 1 year to 2 years, affecting eligibility and stay length for affected applicants.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
     },
@@ -20,7 +20,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial requirement changes November 30",
-      "summary": "UK student visa financial requirements reported to change on November 30, affecting money rule thresholds for student visa applicants.",
+      "summary": "UK student visa money rules reported to change on November 30, affecting financial threshold requirements for student visa applicants from India.",
       "source": "Telegraph India",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORzJ3aHFPQ0FzZlpla25rNEI2OGcxZUtSQkVta2U3Qm5kZXVGRldqYTZVUEpkd2ZFM2NiSFJkTHcwQ2lWS2MtVmZXNTRfZkVoTVdTZDczSzFqQ0V1cmNFbVJKTHB3UndWT0tzNGdJTjQ3T1AzWG0tTWNhSXVJSFNXRHNRUVFocFMwQ1JsZTFOcTBTQXRlREpOWWZ0dFlBWXRBQjlKemZhRUxtNGMzYzNoVGVWc2pfVlItaGxVZHE1MDQwaHhhV0ZLeWExNXhlRHRReEFncTZ0TmtFVnpnbkpiYTlRVldlaHFreGpobnlIY1HSAfABQVVfeXFMTkcyd2hxT0NBc2ZaZWtuazRCNjhnMWVLUkJFbWtlN0JuZGV1RkZXamE2VVBKZHdmRTNjYkhSZEx3MENpVktjLVZmVzU0X2ZFaE1XU2Q3M0sxakNFdXJjRW1SSkxwd1J3Vk9LczRnSU40N09QM1htLU1jYUl1SUhTV0RzUVFRaHBTMENSbGUxTnEwU0F0ZURKTllmdHRZQVl0QUI5SnpmYUVMbTRjM2MzaFRlVnNqX1ZSLWhsVWRxNTA0MGh4YVdGS3lhMTV4ZUR0UXhBZ3E2dE5rRVZ6Z25KYmE5UVZXZWhxa3hqaG55SGNR?oc=5"
     },
