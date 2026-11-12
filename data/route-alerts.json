@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-12T02:15:08.885+05:30",
+  "checked_at": "2026-11-13T02:15:13.299+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261111-uk-uk-sets-minimum-age-for-foreign-citi",
+      "date": "2026-11-11",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Rule change",
+      "title": "UK sets minimum age for foreign citizenship applicants",
+      "summary": "UK reported setting a minimum age requirement for foreigners applying for British citizenship, establishing a new eligibility criterion.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczY0RUFmRDdRX2JvZWFmTnkta1JmQUFRT2ltalBZWEs0M04wRm9QTEUzRFlkb19UY290WlhXVVRub1BPZFBWbGM0R1hheDJZTkhlQ25lZXJnVEw2VEF4bUpXQW8wcVJSYUZrXzVjZnRESlVxdllPMk1qeWNrWWFmOFRvMS1pN1ViR1FCdUxJRkJSOXk3cXUyNmhUZUVRMmRqWkJIeUxTWHpFUTNwT2o5Ti04ZTNVdw?oc=5"
+    },
     {
       "id": "20261110-canada-canada-doubles-low-wage-work-permit",
       "date": "2026-11-10",
@@ -9,9 +20,42 @@
       "slug": "canada",
       "kind": "Timeline change",
       "title": "Canada doubles low-wage work permit duration to 2 years",
-      "summary": "Canada reported it has doubled the permit duration for low-wage foreign workers from 1 year to 2 years, affecting eligibility and stay length for affected applicants.",
+      "summary": "Canada reported it has doubled the duration of low-wage foreign work permits from 1 year to 2 years, affecting eligibility and stay length for affected workers.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
+    },
+    {
+      "id": "20261110-uk-uk-student-visa-financial-rule-chang",
+      "date": "2026-11-10",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK student visa financial rule changes November 30",
+      "summary": "UK student visa money rules reported to change on November 30, affecting financial threshold requirements for student visa applicants.",
+      "source": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTRpdGNRelQtdEptQmUwZlNMNFVSQ3hITzF3czh5emRUSmlXXzN6MUZqcDltdmZvSVBBT3czSng5dHBfQ29DUTBtVW5FRkpkUVcyWjhzZWQyNHl6YzV1VFpOakd3R2dQRTd3NmdpbHNxSUltMTRvX2VvNGlzVDdJVElNVFR0TlJnYkhOXzNLZVlFa2Vrd2xQeG8yQVRxUDdMbzNXamRzakdvZWRlODlCdGdGcTZvNTd0SnVCNFdXTzdrTGw2NEIzak40VzdST2NqcjBHdlkzWjA2OVZQWWFCYnE2RzFUaG1VWVI00gHwAUFVX3lxTE5HMndocU9DQXNmWmVrbms0QjY4ZzFlS1JCRW1rZTdCbmRldUZGV2phNlVQSmR3ZkUzY2JIUmRMdzBDaVZLYy1WZlc1NF9mRWhNV1NkNzNLMWpDRXVyY0VtUkpMcHdSd1ZPS3M0Z0lONDdPUDNYbS1NY2FJdUlIU1dEc1FRUWhwUzBDUmxlMU5xMFNBdGVESk5ZZnR0WUFZdEFCOUp6ZmFFTG00YzNjM2hUZVZzal9WUi1obFVkcTUwNDBoeGFXRkt5YTE1eGVEdFF4QWdxNnROa0VWemduSmJhOVFWV2VocWt4amhueUhjUQ?oc=5"
+    },
+    {
+      "id": "20261110-new-zealand-new-zealand-visitor-visa-online-rule",
+      "date": "2026-11-10",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand visitor visa online rules 2026",
+      "summary": "New Zealand reported new online rules for visitor visas in 2026, changing application and processing procedures for visitor visa applicants.",
+      "source": "Y-Axis Overseas Careers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeE83eERTSjF6RUt2WDlpcGhZX2JYeUFlQXp2dXA5T19PRHB1S0RnZENuMTRwM3I1VGJ3aVRVakFDakJFekFFX0VvYmZ4cnM5c3hDOVkwVjBaUmVXZmRUQVVpMkZyOVd6X2xkNGxKZWMxNlVVdHNLYWFMXzVSZzhGbUx5eTc0M3dpdXJ5alhFSFhuRHhaN1hTX3lFOUF6ZDBZU1p4eU1FTTNJTkJ1ZmI0MWFlTGtzLUQxQTVnaGd5REcxcXV4aFRV?oc=5"
+    },
+    {
+      "id": "20261110-uk-uk-permanent-residence-eligibility-r",
+      "date": "2026-11-10",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Timeline change",
+      "title": "UK permanent residence eligibility reduced to 3 years",
+      "summary": "UK reported new rules allowing certain foreigners to obtain permanent residence in 3 years, changing the settlement timeline requirement.",
+      "source": "GistReel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0ZId1NiV0tjYUpDSkhRbl9VMDhHRzRHNHBBdXo5UGlrU0oxTHZHOS1lbjRaS1ZPY2xsYUdEVGZpYldKSFVZVFpWQ2t5X0wwVHA2d19iSi1tc2ZZZkRuOGhza2JVSlQtWmkxbmhuOEpCbzZCS1hCdXJ4T1lpYzBybFY2bXpoZjZqcXF0OElDZG10Y1M1QUlxbWVlRTVaQXFlQ1k4U19qaw?oc=5"
     },
     {
       "id": "20261110-uk-uk-student-visa-financial-requiremen",
@@ -30,10 +74,21 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Threshold change",
-      "title": "Australia proposes four new financial requirements for student visas",
-      "summary": "Australia has proposed tougher student visa rules with four new financial requirements for applicants. Specific threshold amounts were not detailed in the headline.",
+      "title": "Australia proposes four new financial requirements for students",
+      "summary": "Australia reported proposing four new financial requirements for international student visa applicants, establishing additional threshold criteria.",
       "source": "GistReel",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWJvTlAzYnNzWU4yMFg3dFpWVl8wa21tUnZfd1BzLWd6QmVYUTV4UXZwendxR3N3c3FOYUxlR3pQR3F0MW1uVGc3QmdFWVRaZUhnTDAtQzU1YWpMY0tuNWpWVHFjcEdDaWNxU1ZJS3VIMWt1Zzhfb1Ftckxqa2dfX0NsV2JWMG55UEZNalhlb0h0NmxVWHJLRmllMnpVaVplUGtNbk5HdjhycnIxTzZoNlFSMnlXWDJ1aGx2Y1FB?oc=5"
+    },
+    {
+      "id": "20261105-canada-canada-introduces-60-day-deadline-fo",
+      "date": "2026-11-05",
+      "country": "Canada",
+      "slug": "canada",
+      "kind": "Rule change",
+      "title": "Canada introduces 60-day deadline for refugee claims",
+      "summary": "Canada reported new refugee claim rules requiring applicants to submit applications within 60 days, establishing a specific processing deadline for refugee eligibility.",
+      "source": "Immigration.ca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVByTFBvT0I0blRlaWVYa2xfT3ZINWFHZFh4S2FoVzhRbjNkQU5kRFJidUR0aUFuc0p3NXEyZUgzZzA4WDJrVHlmaDR5SXNnRGNNU25rbkZVWFdKWEZtMDVwREhVY3F5V3h1Y1Zfd1U4aGszb0JYNHZpTmdURjIwSmVZSW56Q0NwUFV4NlE4WThnQjVTWlNzeG44bHBQXzQ?oc=5"
     },
     {
       "id": "20261105-canada-canada-confirms-10-year-visitor-visa",
@@ -45,17 +100,6 @@
       "summary": "Canada has confirmed an official fee for its 10-year multiple-entry visitor visa. The specific amount is not stated in the available reporting.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGt6RlNBMUZ2bTZlSzE1MTJqZkJGVzduLVVlam5pSExYSm5zWU9oV1AyLVlSbjY1T1p5eGJiZ3M4UmlPNUFnRzlkeHI4dV9QalVvaGJ5T1dpckNZdTl5VjRMdFZWZ1BYNGViMzRRT3NyOXF0QUNERWM5V0F3ajlTMXZ6alJPZXlxTXNXcWc5Y0d1NWhuMG9pMVJoNDZlVGNL?oc=5"
-    },
-    {
-      "id": "20261105-canada-canada-introduces-60-day-refugee-cla",
-      "date": "2026-11-05",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada introduces 60-day refugee claim deadline",
-      "summary": "Canada has introduced new refugee claim rules establishing a 60-day application deadline for asylum seekers. This represents a change to processing requirements for refugee applications.",
-      "source": "Immigration.ca",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVByTFBvT0I0blRlaWVYa2xfT3ZINWFHZFh4S2FoVzhRbjNkQU5kRFJidUR0aUFuc0p3NXEyZUgzZzA4WDJrVHlmaDR5SXNnRGNNU25rbkZVWFdKWEZtMDVwREhVY3F5V3h1Y1Zfd1U4aGszb0JYNHZpTmdURjIwSmVZSW56Q0NwUFV4NlE4WThnQjVTWlNzeG44bHBQXzQ?oc=5"
     },
     {
       "id": "20261104-canada-canada-introduces-new-asylum-rules-w",
@@ -397,50 +441,6 @@
       "summary": "Canada reported new Express Entry changes taking effect November 3, 2026. The snippet does not specify which rules changed, but the headline confirms a policy change is in effect.",
       "source": "INC News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TTViaHRPZDA3SW5qSFRtMy1tT25IUEpGdFJsbE5jWldlYTFCdTNvQ0dKVXpLTWxqYV9BRlFudEpNRERuZDg0bUdqRW9ZcUpuaG8yclFwMHJuWldicW9GYU9WRDlxWE9BQ2ZuQTRlWDZ3OVAtb19XQ0s1N19BZw?oc=5"
-    },
-    {
-      "id": "20261016-usa-us-proposes-70-000-opt-fee-for-f-1-s",
-      "date": "2026-10-16",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Fee change",
-      "title": "US proposes $70,000 OPT fee for F-1 students",
-      "summary": "The US reported a proposal to introduce a $70,000 fee for Optional Practical Training (OPT) for F-1 visa holders. The snippet indicates this is a proposal under consideration.",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTnVjSXRjak5QR1lWelR1dHhTQVJTQUdGTW1pUFluT0lzOU1hU21hNlUzWjNQZG1qaGpIc1lnZURRZk4tSFNqWmtMM2w1MHdDNWFJcHptMk5lOHZyTHpDbDdNZ05TdVlHak5ITXQ0dnB4M2NrZ1p0Rmw0VXQtWlJPUnN4WEN4T3JaX2RCVkJsTkFIWURRT2hKb0NpQzhhWmZJaldlUENEZ0dZa1VKV3JmNHhwRF83b3RUVTd2MEgtWHRCdm83YnZrZNIBzwFBVV95cUxQTDNoV253bUFjeFRqNURNNFl0bk15LUVfUXhMWmMzTXp6a1ZJelBQTEM5dURJczFxVkJ0Vi1Qa0czMTlPZkJPbWdpZ2xpNmxlWEdsNGFLSXpINEkzSnRGdXlod1NSZUxUWGlTUHpvRUd4U2lzSDV1T05JUEtZVkFXTGc0RzljVFFQbi1NWDZGbzVzcGU5UG1FVV9MX0l2V2lNOW93Z2ZaMW83Q2x0M29VSERwbHpqTGt0XzF3NnBEYTBKTVRPVWM2cUthdVBqTm8?oc=5"
-    },
-    {
-      "id": "20261016-canada-ottawa-rejects-country-based-study-p",
-      "date": "2026-10-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Ottawa rejects country-based study permit caps",
-      "summary": "Canada reported a policy change rejecting country-based caps on study permits, affecting international student admissions rules and eligibility criteria for applicants.",
-      "source": "IRCC",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkRDYTVncTdlNlhvcm44RXJzOUJnZ0xvTC1ycEF4RXJvZ0tZR1pJN191V2sweDJ1cVNWbWtWMU9seGg3MnZzNWplcFJ3cGx0N0lqYUtkLXFybmg4b3E2Q3VmdE1WMGR1X01QdzhRc1ZBSF9jREFSUGtLbU5PZHBadWZ5dllkbDI4bk82MkR1OUZpbmlqWEs1YjRGY0k2aTlFWVE?oc=5"
-    },
-    {
-      "id": "20261014-australia-australia-announces-new-visa-fees-an",
-      "date": "2026-10-14",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Threshold change",
-      "title": "Australia announces new visa fees and income requirements",
-      "summary": "Australia reported new visa fees and income requirements for skilled worker immigrants, though specific amounts were not detailed in the announcement.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUFCQ3lnWFowZndPS1ZYdHFWa2MwM1QxZ21kRkstZTdpMk8xdmxKMnpVcFBEMWhyampnMVdPeVlDWmpMTUdlVW1CZzZMV2NCenBaS2VOckNmMHhGclJmVk0ydkpaX25jQXNBVXZLd0tKa3lsY1FNV25TekROMS1IcFBZbkhIc0Q0WUFNMjZGR3d0RXZhOTZEM2FMSXZFV0N5dnVUcHNUNDk5ZnQ3VXc?oc=5"
-    },
-    {
-      "id": "20261014-australia-australia-updates-visa-fees-and-sala",
-      "date": "2026-10-14",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Australia updates visa fees and salary requirements",
-      "summary": "Australia reported updated migration rules for 2026 including higher visa costs and increased salary thresholds for skilled worker migrants, effective in 2026.",
-      "source": "Tuko News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejJKYWc3LVV2RmxOeWZuM1NzSjRvWHB4UDdyUmZNcmFwVWNVRkpZLWxsQzZzWDJwRDdjWkh2dDc5VHBsMmpGcEdLc3dDSEhheWM1Rm9lRlZ5MjlHclVhcHVJRHBrNUJLYjNZUktQMDFZZ0hJNlNXTlRTWHpIaG9TYkpaTVV1UFQybWh5bHItamJnU2VXZDhZZDZSdnZBR01BX3Aw?oc=5"
     }
   ]
 }
