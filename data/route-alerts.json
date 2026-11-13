@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-13T02:15:13.299+05:30",
+  "checked_at": "2026-11-14T02:15:10.252+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261113-australia-australia-visitor-visas-get-no-furth",
+      "date": "2026-11-13",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia visitor visas get no further stay rule from Nov 28",
+      "summary": "Australia reported implementing a no further stay rule for visitor visas effective November 28, restricting extension options for visa holders.",
+      "source": "deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
+    },
     {
       "id": "20261111-uk-uk-sets-minimum-age-for-foreign-citi",
       "date": "2026-11-11",
@@ -20,7 +31,7 @@
       "slug": "canada",
       "kind": "Timeline change",
       "title": "Canada doubles low-wage work permit duration to 2 years",
-      "summary": "Canada reported it has doubled the duration of low-wage foreign work permits from 1 year to 2 years, affecting eligibility and stay length for affected workers.",
+      "summary": "Canada reported it has doubled the permit duration for low-wage foreign workers from 1 year to 2 years, expanding eligibility timeframes for affected applicants.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
     },
@@ -31,7 +42,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial rule changes November 30",
-      "summary": "UK student visa money rules reported to change on November 30, affecting financial threshold requirements for student visa applicants.",
+      "summary": "UK student visa financial requirements reported to change on November 30. Specific threshold amounts not stated in headline but change affects money rule for applicants.",
       "source": "Telegraph India",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTRpdGNRelQtdEptQmUwZlNMNFVSQ3hITzF3czh5emRUSmlXXzN6MUZqcDltdmZvSVBBT3czSng5dHBfQ29DUTBtVW5FRkpkUVcyWjhzZWQyNHl6YzV1VFpOakd3R2dQRTd3NmdpbHNxSUltMTRvX2VvNGlzVDdJVElNVFR0TlJnYkhOXzNLZVlFa2Vrd2xQeG8yQVRxUDdMbzNXamRzakdvZWRlODlCdGdGcTZvNTd0SnVCNFdXTzdrTGw2NEIzak40VzdST2NqcjBHdlkzWjA2OVZQWWFCYnE2RzFUaG1VWVI00gHwAUFVX3lxTE5HMndocU9DQXNmWmVrbms0QjY4ZzFlS1JCRW1rZTdCbmRldUZGV2phNlVQSmR3ZkUzY2JIUmRMdzBDaVZLYy1WZlc1NF9mRWhNV1NkNzNLMWpDRXVyY0VtUkpMcHdSd1ZPS3M0Z0lONDdPUDNYbS1NY2FJdUlIU1dEc1FRUWhwUzBDUmxlMU5xMFNBdGVESk5ZZnR0WUFZdEFCOUp6ZmFFTG00YzNjM2hUZVZzal9WUi1obFVkcTUwNDBoeGFXRkt5YTE1eGVEdFF4QWdxNnROa0VWemduSmJhOVFWV2VocWt4amhueUhjUQ?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "Australia reported new family restrictions on student visas, tightening eligibility rules for international students. The change affects dependent sponsorship and family composition requirements.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeWxsRzBieUdWT0l3b3FndDhkS2UtR3p3UjRuMjhCLWdjSmRHa0RjM0ZZRlNXbDVMbzdvYnRLYW5YdDBhRkw0Mi16N0V2T3FIOWhwblByN1hOeGU1bkJDMjVMMVZ5Q2JHUTd4LWhyOFhTSE02bG5TMC1sVDh4ZHIxYmNEa09pZ0hpWDd3QkFmbUFXcXF5d2RlSVpQTXNNdGFhOUUtNTVxSlFTR0ZJR0JMeWZ5bWktNTVEQWZZamJfemQ3Vmkwb2VLYWZLa2FoaGN1RDNpTUtvcFJCbHfSAeIBQVVfeXFMUHV1MkxmQ1hrSS1YazJjVHNCdHdnc2dNYWNZOXRDeVBxWFNmaWxULTVfQWxJdWw0OFNOOUlnOHdRN3NxYWhFYUhTX1hwS3EyRVJhZEZZT3RYbmkyaTVJVS1NbUZ0c2VwU29aeUNaRXFXNTZwb3FYUkJZYmhyWFphT0V3ZnFhaVpJNXJtVlFhTklkTThkWDVONXkyVnBEV082MHo4YzhWRGNEdnY0cmplQlpCS1dkZEpJaFRVb0NvcVU3N2I5QkpHdDEzOUZyeHhJYVBPMjZjU1B2a01QeFpGdGhaZw?oc=5"
-    },
-    {
-      "id": "20261016-canada-canada-express-entry-changes-effecti",
-      "date": "2026-10-16",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada Express Entry changes effective November 3",
-      "summary": "Canada reported new Express Entry changes taking effect November 3, 2026. The snippet does not specify which rules changed, but the headline confirms a policy change is in effect.",
-      "source": "INC News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TTViaHRPZDA3SW5qSFRtMy1tT25IUEpGdFJsbE5jWldlYTFCdTNvQ0dKVXpLTWxqYV9BRlFudEpNRERuZDg0bUdqRW9ZcUpuaG8yclFwMHJuWldicW9GYU9WRDlxWE9BQ2ZuQTRlWDZ3OVAtb19XQ0s1N19BZw?oc=5"
     }
   ]
 }
