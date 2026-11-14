@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T02:15:10.252+05:30",
+  "checked_at": "2026-11-15T02:15:08.805+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia visitor visas get no further stay rule from Nov 28",
-      "summary": "Australia reported implementing a no further stay rule for visitor visas effective November 28, restricting extension options for visa holders.",
+      "summary": "Australia reported implementing a no further stay rule for visitor visas effective November 28, restricting extension eligibility for visa holders.",
       "source": "deeparrival.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
     },
@@ -31,7 +31,7 @@
       "slug": "canada",
       "kind": "Timeline change",
       "title": "Canada doubles low-wage work permit duration to 2 years",
-      "summary": "Canada reported it has doubled the permit duration for low-wage foreign workers from 1 year to 2 years, expanding eligibility timeframes for affected applicants.",
+      "summary": "Canada reported doubling the permit duration for low-wage foreign workers from 1 to 2 years, affecting eligibility and stay length for affected work permit holders.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
     },
@@ -42,7 +42,7 @@
       "slug": "uk",
       "kind": "Threshold change",
       "title": "UK student visa financial rule changes November 30",
-      "summary": "UK student visa financial requirements reported to change on November 30. Specific threshold amounts not stated in headline but change affects money rule for applicants.",
+      "summary": "UK student visa financial requirements reported changing on November 30, affecting money rule thresholds for Indian student applicants.",
       "source": "Telegraph India",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTRpdGNRelQtdEptQmUwZlNMNFVSQ3hITzF3czh5emRUSmlXXzN6MUZqcDltdmZvSVBBT3czSng5dHBfQ29DUTBtVW5FRkpkUVcyWjhzZWQyNHl6YzV1VFpOakd3R2dQRTd3NmdpbHNxSUltMTRvX2VvNGlzVDdJVElNVFR0TlJnYkhOXzNLZVlFa2Vrd2xQeG8yQVRxUDdMbzNXamRzakdvZWRlODlCdGdGcTZvNTd0SnVCNFdXTzdrTGw2NEIzak40VzdST2NqcjBHdlkzWjA2OVZQWWFCYnE2RzFUaG1VWVI00gHwAUFVX3lxTE5HMndocU9DQXNmWmVrbms0QjY4ZzFlS1JCRW1rZTdCbmRldUZGV2phNlVQSmR3ZkUzY2JIUmRMdzBDaVZLYy1WZlc1NF9mRWhNV1NkNzNLMWpDRXVyY0VtUkpMcHdSd1ZPS3M0Z0lONDdPUDNYbS1NY2FJdUlIU1dEc1FRUWhwUzBDUmxlMU5xMFNBdGVESk5ZZnR0WUFZdEFCOUp6ZmFFTG00YzNjM2hUZVZzal9WUi1obFVkcTUwNDBoeGFXRkt5YTE1eGVEdFF4QWdxNnROa0VWemduSmJhOVFWV2VocWt4amhueUhjUQ?oc=5"
     },
