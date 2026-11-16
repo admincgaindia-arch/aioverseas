@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-16T02:15:10.728+05:30",
+  "checked_at": "2026-11-17T02:15:12.828+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261116-new-zealand-new-zealand-extends-graduate-visa-fo",
+      "date": "2026-11-16",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Timeline change",
+      "title": "New Zealand extends graduate visa for PhD holders to four years",
+      "summary": "New Zealand reported new graduate visa rules including a four-year work option for Indian PhD holders and six-month options for other graduates.",
+      "source": "EdexLive",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGZPUjdRUHZfT2ZLUGlDdDZaV0szVFg3RklrbU84ZWFYcGlKSGQxbXJhYnpScXk2WkJXWEh5Nl82QzRzUHI4WGc1enZSM1BrOUt5UUVWWVVjT1FiUUdwVDdEU3NLejFwSFl6UTIyRHBJVE9yRG1mTEc1VENkOV9rbGNVNXNUblhrTkU0WUdoTlQ3VWZoa0JqNC1Kc2VGWDQ0RDd4bTFhalFzc3lmZno0MEpQWFhucDhkemFmVE1IYmxtNm9BejNPM2YyekJNc2xwX2fSAd8BQVVfeXFMUEN0X2liR0pBdUREemxPbU1VSlg0aXdfTjROdGxXZVpwN3BjVUtEU3RlQjQ5aFFnS0JOOXQzNTYyVEU5VDJSWnBmQlVOZEQ0VHJ4OXk2d2phb3J6QmJkSjhBeWpXU29kdHJWRGdra05zLW05TFVlSGdnZmJJWGFNMDBlQ29sZ2duWkt3Q2JhcDZpQU5SbG96YkY5R3RrNlpSejRwRGRlR2tfSUNHUUxHS0diNzczbXFLcW1HdUNFZUtLM3dEUDFmTEY1VlZ4XzhRWDVlamhEMHB5UlJSUnNjRQ?oc=5"
+    },
     {
       "id": "20261114-canada-canada-freezes-international-student",
       "date": "2026-11-14",
@@ -19,10 +30,21 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia visitor visas get no further stay rule from Nov 28",
-      "summary": "Australia has implemented a new rule for visitor visas effective November 28 restricting further stays. The change affects visitor visa extension eligibility and conditions.",
+      "title": "Australia visitor visas get no further stay rule",
+      "summary": "Australia reported a new \"no further stay\" rule for visitor visas effective November 28, affecting extension eligibility and processing rules for visa holders.",
       "source": "deeparrival.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
+    },
+    {
+      "id": "20261111-australia-australia-introduces-new-student-vis",
+      "date": "2026-11-11",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia introduces new student visa rules",
+      "summary": "Australia reported new student visa rules including an \"Up Only\" requirement and family restrictions, affecting Indian student applicants' eligibility and conditions.",
+      "source": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTzZPYmc3dGk5OUY5ajRya0FVVjVIN29wb2I2bFJ0bFMyZmF4OFA1cmJQSkN1MmxPSlhWcDczMUNaUGZNbjJWM1RmUlBlVl9XNzMwZjU4NE50c2VMTVRsYVlWbkVwN1JOOWVWRm9sSmJTUFJiYjNnci1xUF9McnBMUTZNUV83c2Vkc1YxT0cza0NDc2E0TTRra0ZQU3RFbUJPUVduSm1KdW1yaVZzMkhXUGtJYWhMVmJmQ19XTHpzdjE5SjBlbUQtR3k1dHV3bUpmcmRDOTlVVGtSUy1mVkkzbi1qY1VMY0o0bjNr0gHwAUFVX3lxTE9xc2Nfb2Z5cndiYzJZcF9pem5oQ05wc3JNLTlCZzI4ekVZSTBacUh6Q1VzWkRvM2RDWU1TeklyZjVLcFlGcE5rTmVHTDJ5akNtLXB4UVZxaWhobEZWUVhrbUo1TUdXei1zTnk4blh6Y0NjMlljTlJ2N2xGUko2YTk5UUZuSENCNER1cGxJcVRrNjVaNWZkbWdsYkdiRlVCZUozU2E1VWdHUDBwV2d1UHRpbnJSUVFTcEd1Y3BhZ3ZyVkxQVjlIMHY0NVRmTEo1R0N3QkhYcmg3a0Jmd1o5U3Z3V1M0a0RGOGhOZjYtengteg?oc=5"
     },
     {
       "id": "20261111-uk-uk-sets-minimum-age-requirement-for",
@@ -36,26 +58,26 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczY0RUFmRDdRX2JvZWFmTnkta1JmQUFRT2ltalBZWEs0M04wRm9QTEUzRFlkb19UY290WlhXVVRub1BPZFBWbGM0R1hheDJZTkhlQ25lZXJnVEw2VEF4bUpXQW8wcVJSYUZrXzVjZnRESlVxdllPMk1qeWNrWWFmOFRvMS1pN1ViR1FCdUxJRkJSOXk3cXUyNmhUZUVRMmRqWkJIeUxTWHpFUTNwT2o5Ti04ZTNVdw?oc=5"
     },
     {
-      "id": "20261110-uk-uk-student-visa-money-rule-changes-o",
-      "date": "2026-11-10",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK student visa money rule changes on November 30",
-      "summary": "The UK is changing financial requirements for student visas effective November 30. The modification affects the funds threshold applicants must demonstrate.",
-      "source": "Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTRpdGNRelQtdEptQmUwZlNMNFVSQ3hITzF3czh5emRUSmlXXzN6MUZqcDltdmZvSVBBT3czSng5dHBfQ29DUTBtVW5FRkpkUVcyWjhzZWQyNHl6YzV1VFpOakd3R2dQRTd3NmdpbHNxSUltMTRvX2VvNGlzVDdJVElNVFR0TlJnYkhOXzNLZVlFa2Vrd2xQeG8yQVRxUDdMbzNXamRzakdvZWRlODlCdGdGcTZvNTd0SnVCNFdXTzdrTGw2NEIzak40VzdST2NqcjBHdlkzWjA2OVZQWWFCYnE2RzFUaG1VWVI00gHwAUFVX3lxTE5HMndocU9DQXNmWmVrbms0QjY4ZzFlS1JCRW1rZTdCbmRldUZGV2phNlVQSmR3ZkUzY2JIUmRMdzBDaVZLYy1WZlc1NF9mRWhNV1NkNzNLMWpDRXVyY0VtUkpMcHdSd1ZPS3M0Z0lONDdPUDNYbS1NY2FJdUlIU1dEc1FRUWhwUzBDUmxlMU5xMFNBdGVESk5ZZnR0WUFZdEFCOUp6ZmFFTG00YzNjM2hUZVZzal9WUi1obFVkcTUwNDBoeGFXRkt5YTE1eGVEdFF4QWdxNnROa0VWemduSmJhOVFWV2VocWt4amhueUhjUQ?oc=5"
-    },
-    {
       "id": "20261110-canada-canada-doubles-low-wage-work-permit",
       "date": "2026-11-10",
       "country": "Canada",
       "slug": "canada",
       "kind": "Timeline change",
       "title": "Canada doubles low-wage work permit duration to 2 years",
-      "summary": "Canada reported doubling the permit duration for low-wage foreign workers from 1 to 2 years, affecting eligibility and stay length for affected work permit holders.",
+      "summary": "Canada reported it has doubled the permit duration for low-wage foreign workers from 1 to 2 years, affecting eligibility and work authorization timelines for affected applicants.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1ZFSU5kLTl5LTFJa1BNUWNmdkQwODV1RHJpMTZyUHk1RXFaS0lUMXV0TU9YRnQtSGJrbTJHWXpVV2RZZzBTelFTRm9SMXdKVmd1TFNGZUdfaF8yRzhKbVU5SkpHczZCN1Bxa2NVY1NUSXdjMml4UDdlNlBEelUxUWwtMWUyUW1P?oc=5"
+    },
+    {
+      "id": "20261110-uk-uk-student-visa-financial-requiremen",
+      "date": "2026-11-10",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK student visa financial requirement changes November 30",
+      "summary": "UK reported changes to the financial threshold requirement for student visas effective November 30, affecting eligibility for Indian student applicants.",
+      "source": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSTRpdGNRelQtdEptQmUwZlNMNFVSQ3hITzF3czh5emRUSmlXXzN6MUZqcDltdmZvSVBBT3czSng5dHBfQ29DUTBtVW5FRkpkUVcyWjhzZWQyNHl6YzV1VFpOakd3R2dQRTd3NmdpbHNxSUltMTRvX2VvNGlzVDdJVElNVFR0TlJnYkhOXzNLZVlFa2Vrd2xQeG8yQVRxUDdMbzNXamRzakdvZWRlODlCdGdGcTZvNTd0SnVCNFdXTzdrTGw2NEIzak40VzdST2NqcjBHdlkzWjA2OVZQWWFCYnE2RzFUaG1VWVI00gHwAUFVX3lxTE5HMndocU9DQXNmWmVrbms0QjY4ZzFlS1JCRW1rZTdCbmRldUZGV2phNlVQSmR3ZkUzY2JIUmRMdzBDaVZLYy1WZlc1NF9mRWhNV1NkNzNLMWpDRXVyY0VtUkpMcHdSd1ZPS3M0Z0lONDdPUDNYbS1NY2FJdUlIU1dEc1FRUWhwUzBDUmxlMU5xMFNBdGVESk5ZZnR0WUFZdEFCOUp6ZmFFTG00YzNjM2hUZVZzal9WUi1obFVkcTUwNDBoeGFXRkt5YTE1eGVEdFF4QWdxNnROa0VWemduSmJhOVFWV2VocWt4amhueUhjUQ?oc=5"
     },
     {
       "id": "20261110-new-zealand-new-zealand-visitor-visa-online-rule",
@@ -419,28 +441,6 @@
       "summary": "New Zealand introduces new visa rules affecting nine categories in partnership visa applications, reported as a policy change effective immediately.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5"
-    },
-    {
-      "id": "20261019-uk-uk-tightens-immigration-application",
-      "date": "2026-10-19",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK tightens immigration application rules",
-      "summary": "The UK reported tightening immigration application rules effective October 2026. The headline confirms a rule change taking effect, though specific details are not provided in the snippet.",
-      "source": "The Kenyan Diaspora Media",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb29JNXJoN2ZCdFI1WktDR1ZETFUzQlhZVjU5Tk5Rci0ybTRJbUtkQmx0YkgtRURtZV81b2dDclRWdlJ4RHBUblVBeVVTcXpuejJnQ3pGOTdyNjA0djZhUHUtOEtMZDlIU09WZDE2TElOcUxxNGJWa256NTRwOWRZdFpQQUVnSnBnZlRqQWVBRUZVQ0xSeERtZVg5SVRYOUpGTUtaQ0R2X29OcWZ3bVRYV3B0UHZQdw?oc=5"
-    },
-    {
-      "id": "20261018-uk-uk-sets-condition-for-foreign-worker",
-      "date": "2026-10-18",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Rule change",
-      "title": "UK sets condition for foreign workers to change employer",
-      "summary": "The UK Home Office reported publishing a condition that foreign workers must meet to change employers without losing their visa. This represents a new eligibility rule for visa holders.",
-      "source": "Yen News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSm1NVmtmRi1USGRUcnl4c2gyVnJXV2RxTjA5WlVDMENvRjFaZURWM0d6V3lVMGxsNFRYT0Q3eEVYajh6UnN1SUdxNFpXd2szeFZUZGtXX2dadHlfLUlfNFRSUk1td2RiVnhaLU91azFqRUxBNlJ2MG1OV2xmVGhXWHlrTWFKX3Y1X3VCOXM3Z1BBLTZlYkdjX3E5NzlFaV9IX0pRbkhBYWVyX2ZUQlNHbjFlTnQ?oc=5"
     }
   ]
 }
