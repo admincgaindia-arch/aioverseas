@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-11-17T02:15:12.828+05:30",
+  "checked_at": "2026-11-18T02:15:14.636+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261117-new-zealand-new-zealand-introduces-six-month-gra",
+      "date": "2026-11-17",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand introduces six-month graduate work visa with new eligibility",
+      "summary": "New Zealand has introduced a new six-month graduate work visa with specific eligibility rules. This creates a new pathway for Indian graduates seeking post-study work rights.",
+      "source": "Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM2U0WHU4VUh5Ui1kc1ZoQy1IUWZHU1M4UWM1MG1wcE9uc1c0SzgybW5IdUwwcFAyYjQxRW5mWWVwTmgwSE1KYmkwdGVwWDNfY1NCdW95MVJVTnBaMUYybDdkanhEcHFQRUdENU1ZbkNqUXk4RkJra0x0MDZHbFRjUlNmSUt4VUZYanY2bjZHb0RqUTdwdlJXeUxFTXdhV2ptd1BtTUVYckI4VnlHZGRESDFiYXhxTjRsTUlHdU5YVmhiVl9hTVplNmxHbFY5QURFOVNRc2ZiaktlbzF1MVl5SUtBYlNuQTY5aTVkUGgxY0hoZ01VamtRZnlqYnnSAYICQVVfeXFMTjlfUGV0YldFSnFyWEJfdmdxcmVVNXBHYktIdDNEenpBdW5KejVvYWNjNnZic1FKMDlfQlQ4azRMT3M5UUZ6emdwMzhKTExlQVZlZlRCaGlFRXpyN1BYdlE1UGkydHNoTkhSaHFrTERBRXhZb1NlT2FFU3E1MFhsQmdYbWpRaDQxTFFTamJZd24wR1JCRmVSNGwwb0FiTEk1WjVaOTlaU1FyOHdsQi1CUjItenNiT0NOX0dNZ3hFd3JZMkVWVFl4UGZJVjA0MjB3OXZNUmZ5X2RoOGJwSnNkUGZkOUV3eFFpWWlRWmhRMkFpaEVHV0U2OWxIbldLR0FLSE9n?oc=5"
+    },
+    {
+      "id": "20261116-usa-us-proposes-uscis-rule-change-affect",
+      "date": "2026-11-16",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US proposes USCIS rule change affecting H-1B visa extensions",
+      "summary": "The US government is proposing a rule change to USCIS regulations that would affect H-1B visa extension processing. The specific change impacts how extensions are handled.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSzl2eUExNlQwVG90akVabFJJSTJzQTJHMDNfR1hIYUdpQ1poZVFsWDhhMDE0OU1XS3FKd2kzMl9XMkRCdmtzYkF0Z3o0UnpaSXB2NDZsRlAtUVowMXdxOFhzUXBVV3lZd2RHdjlSRVBOcVlhdFBSMjFTd0NKVGV5bjRMdXpXQ3l0U3ZNcVNONDRhaXlTakdudmNSZ3hfSjgwYlRBb0JBb1hxYnlkQTRTYXhVdXhmdjh2dlgxSHI2QmNVeTNpT3FRdVhTTkRha1Y2THoyVEFKUXdmNkhjaFE1Z1dIcTgwaldOaUJWUUdSdGIyV1paWTRQTmd3aV9ZOTN6M2pNQnZIUmFlSnowcmt3LUg1Sjk3VzdEQzZteXM0VEkwQXFkTWlmb2FVLXlkdDFLeUlQT3lpVEJ6aUJkajFCWFQ3eERFejhrN193NjdDVdIB1AJBVV95cUxQQzdWeEg3cktTd05mcW5NOGxqVmVVbGZSRVlBN2p2aUx1Z0NLUjFRcDhacVpBanVJNzV6aU1tWmFrTVhyS0RBcThPTFczU2xadFcxdHRsZXBYWWVtN1lXSGwxQXZDVGF6Ri0wV2dLXzBpekpkOHA0OWhkQVZTWVhnVnJCMUVXd2d0MTVYYWViT1dVMmYtcHJhZ1VudzhWS0hoNzJVTTNkNTE0V0szRHVjRXQySHMyRkNfMU02LTBmUUJiNk80QVVBbU5BU3hUdUZnSEdfN2xUWkxuN2lPSFM2Tjc4bEFSa0h2aVJWYTZHSnBDU0I3SkZ0RXMzS2U5QlR5OEtPaTlZSExfd1pMMm90TlhRajZHWjJ2RWZCTkh2bWhDalpCUXBmbVRCWU9zYVBrU0pOUHNBc0xKaDNNQWNaOUlzRm5qekVVSm9RRWlQYWNNa2Jt?oc=5"
+    },
     {
       "id": "20261116-new-zealand-new-zealand-extends-graduate-visa-fo",
       "date": "2026-11-16",
@@ -19,8 +41,8 @@
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada freezes international student intake cap till 2029",
-      "summary": "Canada has frozen its intake cap for international students through 2029 as part of a new immigration plan. This affects student visa eligibility and admission numbers for the period.",
+      "title": "Canada freezes international student intake cap until 2029",
+      "summary": "Canada has frozen its intake cap for international students through 2029 as part of a new immigration plan. This represents a policy shift affecting student visa approvals.",
       "source": "The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGd4am5aeHNXRVJzUV9VdGhiWmNmN1dYSjVaUHo3d3NQZFBWU19GYklKOXhQTHJUOE9lRUNPNW1fSmRIUkJ4Q05BZmhsZ2dWeXNnZWxKWTNnZGlrT05FeUxjRWptREpTd3FyazFkY0FuTjlSM3lLQzRqdi1mQUM2Z1k4YUlGR0t5enFNRVY0c0FYVkxyc1hIYjdHUl9rbW9WVWNaYVVrMVdVWi10akdteE5YRGFWYmNmVDlab3hyN2tIenk5MGNMZVU5OFdXVThWZ2hOV0RXbVprSUluSFZxeXBCZndBZGfSAe4BQVVfeXFMTjlfa2NKUjA3UVBtRmFTcnRsdUFOaW9WSDdsZXo0Yk4yd1FROGMwaFpLaEN6S2VkVXRPamlVZ0ZmRThFLXRNS1VEQVFuQ2oyNUduVjVEX2dYQVVMU3EwN01id3BwQkZyQjFabnpaUWhSb003bDFSMzJkaHhmcVhjOGdSTlY1QmJ2cDVTekdKSGI5WVJrQzhDOTQyWmRQRzRnMWkyTm5XZWZOX2t0cDFoMEtFNHpmNkxKYWJmSFF4NHZDRWdGd2xoaXNzRTJzeEEtOXpyMHhHend1V28zc2Rjd1JFTVFzcF9CRmV2VFlrdw?oc=5"
     },
@@ -30,19 +52,19 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia visitor visas get no further stay rule",
-      "summary": "Australia reported a new \"no further stay\" rule for visitor visas effective November 28, affecting extension eligibility and processing rules for visa holders.",
+      "title": "Australia visitor visas get no further stay rule from November 28",
+      "summary": "Australia has introduced a 'no further stay' rule for visitor visas effective November 28. This changes eligibility for visa extensions and affects visitor visa holders.",
       "source": "deeparrival.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
     },
     {
-      "id": "20261111-australia-australia-introduces-new-student-vis",
+      "id": "20261111-australia-australia-introduces-up-only-and-fam",
       "date": "2026-11-11",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia introduces new student visa rules",
-      "summary": "Australia reported new student visa rules including an \"Up Only\" requirement and family restrictions, affecting Indian student applicants' eligibility and conditions.",
+      "title": "Australia introduces 'Up Only' and family restrictions for student visas",
+      "summary": "Australia has implemented new student visa rules including an 'Up Only' requirement and family restrictions. These changes directly affect Indian student applicants' eligibility and conditions.",
       "source": "Telegraph India",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTzZPYmc3dGk5OUY5ajRya0FVVjVIN29wb2I2bFJ0bFMyZmF4OFA1cmJQSkN1MmxPSlhWcDczMUNaUGZNbjJWM1RmUlBlVl9XNzMwZjU4NE50c2VMTVRsYVlWbkVwN1JOOWVWRm9sSmJTUFJiYjNnci1xUF9McnBMUTZNUV83c2Vkc1YxT0cza0NDc2E0TTRra0ZQU3RFbUJPUVduSm1KdW1yaVZzMkhXUGtJYWhMVmJmQ19XTHpzdjE5SjBlbUQtR3k1dHV3bUpmcmRDOTlVVGtSUy1mVkkzbi1qY1VMY0o0bjNr0gHwAUFVX3lxTE9xc2Nfb2Z5cndiYzJZcF9pem5oQ05wc3JNLTlCZzI4ekVZSTBacUh6Q1VzWkRvM2RDWU1TeklyZjVLcFlGcE5rTmVHTDJ5akNtLXB4UVZxaWhobEZWUVhrbUo1TUdXei1zTnk4blh6Y0NjMlljTlJ2N2xGUko2YTk5UUZuSENCNER1cGxJcVRrNjVaNWZkbWdsYkdiRlVCZUozU2E1VWdHUDBwV2d1UHRpbnJSUVFTcEd1Y3BhZ3ZyVkxQVjlIMHY0NVRmTEo1R0N3QkhYcmg3a0Jmd1o5U3Z3V1M0a0RGOGhOZjYtengteg?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "New Zealand reported opening 5,000 work visa positions for Indian applicants with specific eligibility rules. The snippet confirms a new visa allocation and associated qualification criteria.",
       "source": "awaaz.co.nz",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5"
-    },
-    {
-      "id": "20261019-usa-us-h-1b-salary-threshold-raised-to-1",
-      "date": "2026-10-19",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Threshold change",
-      "title": "US H-1B salary threshold raised to $140,000",
-      "summary": "The US proposes raising the H-1B visa salary threshold from $60,000 to $140,000, affecting eligibility rules for Indian workers and employer requirements.",
-      "source": "The Sunday Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNXzBMWUlRNDVRZXhCQTNCb09sQmxmOFFIMktsTzJHTUVkQjdPS254U192TWpmUkp3a3BkTk00TnRfZzZxUEpDNDZKRDF3c1lwdjZRQ0RSaUpTclQzRTZtZkpXLUREQnRnTWI4LW4wS2U1cUdmYjFQakRfWGZGX1BiYXdrV3BCSzRPdGJ3RXF5ZWJGWW5FRlpVQm1IUUgtd0NGNTQ0c3ZUVkFuc3NuYktMQWxBaldKUUtnMDV2YjBkMmIyMXBRSzNjem80VDlVSUNXRGhvZU1jenhYSVBwenkzOGJ3OHB0cWM5c2NPMDBPNUh0QjNhUGlUMGY1SUhEOURfQ2tWWWxtNGp1SVBWR0tuNWFkQ1ZWRzRIVkNOdG5OZDhNcDl3TTQ2V3lPX2FGQnJuTkhBX3JZY050UdIBvwJBVV95cUxPV09MaVptdmVrbFF0Yl84VmhvVUxiSFMxLXNwc3ZrOE1EQ2l2czZpMVI2ejhfUVZKc1ZIcDIwQ3Vvd1JWWm53VUY0TnU5Sk9JejZwbE9Kdm9sNFQxS0xscmt3cTRQQ3N1ZTZ5TktkdjVnQzd2b2MyRzBQYXNUVFppVzY1ejJWeERrd1AwdHR3VHI1V3FpQUNDVnR2NTdRbVhxS2FtUnRPUkVBQWhVNEF0M3k2YUhOaWs4NG5LOWptUDd5M2phSmU4RTQzT0VjazgxMG4yeEdpRmJqVlZUdDJXYlp4TVk0dTEyM0Jka3ZTakdOUmlGdDBmYzFJcVg5VHMyd3dlYnozZlJOQVlrMkdzejVrNVlla3NHdDBDWUVmbGtkbEZPSWRzQm5qSHV5ZnlfdUpmNmU4WF92NDRTQjZR?oc=5"
-    },
-    {
-      "id": "20261019-new-zealand-new-zealand-introduces-new-partnersh",
-      "date": "2026-10-19",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand introduces new partnership visa rules",
-      "summary": "New Zealand introduces new visa rules affecting nine categories in partnership visa applications, reported as a policy change effective immediately.",
-      "source": "Tuko News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnM1bmUyeTFpalZ5YnB1RTJkNjdNcUZEX1lUUjJJSkpiTkR1TExqM1lIb1FVOTY5TUx6eHRxckgwaEJpYU9Fd3owcGpzczZ2c3NhdEJfZS0teVhxN2IwUTNkUXp1T2FIckNJNjJaV2oyUlJOZVdBcXJNVmpRUE1kbzB2TkQ1eGlQaXNBa2YwWlhLbEpOeWdab29xSWZkUW1pbVE?oc=5"
     }
   ]
 }
