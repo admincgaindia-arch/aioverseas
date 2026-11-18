@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-18T02:15:14.636+05:30",
+  "checked_at": "2026-11-19T02:15:10.982+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261118-new-zealand-new-zealand-graduate-diploma-student",
+      "date": "2026-11-18",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand graduate diploma students get 1-year work rights",
+      "summary": "New Zealand has extended post-study work visa eligibility for graduate diploma students to one year of open work rights, effective November 16. This rule change benefits Indian graduates from diploma programs.",
+      "source": "Education Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
+    },
     {
       "id": "20261117-new-zealand-new-zealand-introduces-six-month-gra",
       "date": "2026-11-17",
@@ -14,13 +25,24 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM2U0WHU4VUh5Ui1kc1ZoQy1IUWZHU1M4UWM1MG1wcE9uc1c0SzgybW5IdUwwcFAyYjQxRW5mWWVwTmgwSE1KYmkwdGVwWDNfY1NCdW95MVJVTnBaMUYybDdkanhEcHFQRUdENU1ZbkNqUXk4RkJra0x0MDZHbFRjUlNmSUt4VUZYanY2bjZHb0RqUTdwdlJXeUxFTXdhV2ptd1BtTUVYckI4VnlHZGRESDFiYXhxTjRsTUlHdU5YVmhiVl9hTVplNmxHbFY5QURFOVNRc2ZiaktlbzF1MVl5SUtBYlNuQTY5aTVkUGgxY0hoZ01VamtRZnlqYnnSAYICQVVfeXFMTjlfUGV0YldFSnFyWEJfdmdxcmVVNXBHYktIdDNEenpBdW5KejVvYWNjNnZic1FKMDlfQlQ4azRMT3M5UUZ6emdwMzhKTExlQVZlZlRCaGlFRXpyN1BYdlE1UGkydHNoTkhSaHFrTERBRXhZb1NlT2FFU3E1MFhsQmdYbWpRaDQxTFFTamJZd24wR1JCRmVSNGwwb0FiTEk1WjVaOTlaU1FyOHdsQi1CUjItenNiT0NOX0dNZ3hFd3JZMkVWVFl4UGZJVjA0MjB3OXZNUmZ5X2RoOGJwSnNkUGZkOUV3eFFpWWlRWmhRMkFpaEVHV0U2OWxIbldLR0FLSE9n?oc=5"
     },
     {
+      "id": "20261116-australia-australia-changes-family-inclusion-r",
+      "date": "2026-11-16",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia changes family inclusion rules for graduate visa",
+      "summary": "Australia has changed eligibility rules for including family members on graduate visas. This rule change affects Indian graduate visa holders seeking to bring dependents to Australia.",
+      "source": "Yen News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDd2R05TcmlUQ09JaE9zYzlaOFdXcGJST0ZwZVc0ZGNQazhMRUdjYmxfa0IyTjdhOTdjbmcxV21sT3RtTzlMUkhMRTNGNTVod2h6RWxVRXZoalZBNEsyTDZrWGJkUV90V2V2cjh2NEFpRVNTcnkyY3JXQUpjMUpRYlZha1hxVDR2SGNENG5pbGRSUVR2RWtXR3RJcF9HVGp3eWxpMjMya1laYzQ?oc=5"
+    },
+    {
       "id": "20261116-usa-us-proposes-uscis-rule-change-affect",
       "date": "2026-11-16",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "US proposes USCIS rule change affecting H-1B visa extensions",
-      "summary": "The US government is proposing a rule change to USCIS regulations that would affect H-1B visa extension processing. The specific change impacts how extensions are handled.",
+      "title": "US proposes USCIS rule change affecting H-1B extensions",
+      "summary": "The US government is proposing a rule change to USCIS regulations that would affect H-1B visa extensions. This reported modification impacts Indian H-1B visa holders seeking to extend their work authorization.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSzl2eUExNlQwVG90akVabFJJSTJzQTJHMDNfR1hIYUdpQ1poZVFsWDhhMDE0OU1XS3FKd2kzMl9XMkRCdmtzYkF0Z3o0UnpaSXB2NDZsRlAtUVowMXdxOFhzUXBVV3lZd2RHdjlSRVBOcVlhdFBSMjFTd0NKVGV5bjRMdXpXQ3l0U3ZNcVNONDRhaXlTakdudmNSZ3hfSjgwYlRBb0JBb1hxYnlkQTRTYXhVdXhmdjh2dlgxSHI2QmNVeTNpT3FRdVhTTkRha1Y2THoyVEFKUXdmNkhjaFE1Z1dIcTgwaldOaUJWUUdSdGIyV1paWTRQTmd3aV9ZOTN6M2pNQnZIUmFlSnowcmt3LUg1Sjk3VzdEQzZteXM0VEkwQXFkTWlmb2FVLXlkdDFLeUlQT3lpVEJ6aUJkajFCWFQ3eERFejhrN193NjdDVdIB1AJBVV95cUxQQzdWeEg3cktTd05mcW5NOGxqVmVVbGZSRVlBN2p2aUx1Z0NLUjFRcDhacVpBanVJNzV6aU1tWmFrTVhyS0RBcThPTFczU2xadFcxdHRsZXBYWWVtN1lXSGwxQXZDVGF6Ri0wV2dLXzBpekpkOHA0OWhkQVZTWVhnVnJCMUVXd2d0MTVYYWViT1dVMmYtcHJhZ1VudzhWS0hoNzJVTTNkNTE0V0szRHVjRXQySHMyRkNfMU02LTBmUUJiNk80QVVBbU5BU3hUdUZnSEdfN2xUWkxuN2lPSFM2Tjc4bEFSa0h2aVJWYTZHSnBDU0I3SkZ0RXMzS2U5QlR5OEtPaTlZSExfd1pMMm90TlhRajZHWjJ2RWZCTkh2bWhDalpCUXBmbVRCWU9zYVBrU0pOUHNBc0xKaDNNQWNaOUlzRm5qekVVSm9RRWlQYWNNa2Jt?oc=5"
     },
@@ -41,8 +63,8 @@
       "country": "Canada",
       "slug": "canada",
       "kind": "Rule change",
-      "title": "Canada freezes international student intake cap until 2029",
-      "summary": "Canada has frozen its intake cap for international students through 2029 as part of a new immigration plan. This represents a policy shift affecting student visa approvals.",
+      "title": "Canada freezes international student intake till 2029",
+      "summary": "Canada has frozen its international student intake cap through 2029 as part of a new immigration plan. This policy change affects prospective Indian students seeking to study in Canada during this period.",
       "source": "The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGd4am5aeHNXRVJzUV9VdGhiWmNmN1dYSjVaUHo3d3NQZFBWU19GYklKOXhQTHJUOE9lRUNPNW1fSmRIUkJ4Q05BZmhsZ2dWeXNnZWxKWTNnZGlrT05FeUxjRWptREpTd3FyazFkY0FuTjlSM3lLQzRqdi1mQUM2Z1k4YUlGR0t5enFNRVY0c0FYVkxyc1hIYjdHUl9rbW9WVWNaYVVrMVdVWi10akdteE5YRGFWYmNmVDlab3hyN2tIenk5MGNMZVU5OFdXVThWZ2hOV0RXbVprSUluSFZxeXBCZndBZGfSAe4BQVVfeXFMTjlfa2NKUjA3UVBtRmFTcnRsdUFOaW9WSDdsZXo0Yk4yd1FROGMwaFpLaEN6S2VkVXRPamlVZ0ZmRThFLXRNS1VEQVFuQ2oyNUduVjVEX2dYQVVMU3EwN01id3BwQkZyQjFabnpaUWhSb003bDFSMzJkaHhmcVhjOGdSTlY1QmJ2cDVTekdKSGI5WVJrQzhDOTQyWmRQRzRnMWkyTm5XZWZOX2t0cDFoMEtFNHpmNkxKYWJmSFF4NHZDRWdGd2xoaXNzRTJzeEEtOXpyMHhHend1V28zc2Rjd1JFTVFzcF9CRmV2VFlrdw?oc=5"
     },
@@ -52,8 +74,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia visitor visas get no further stay rule from November 28",
-      "summary": "Australia has introduced a 'no further stay' rule for visitor visas effective November 28. This changes eligibility for visa extensions and affects visitor visa holders.",
+      "title": "Australia visitor visas get no further stay rule from Nov 28",
+      "summary": "Australia has introduced a new rule effective November 28 restricting further stays for visitor visa holders. This eligibility change affects Indian visitors seeking to extend their stay in Australia.",
       "source": "deeparrival.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
     },
@@ -419,28 +441,6 @@
       "summary": "Canada reported new immigration rules permitting eligible workers to pursue studies without requiring a separate study permit.",
       "source": "Legit News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbklvSF8yVzlyajlXZnRobTdmN2J1OFM4SkZmendiU0drNllIZENUdl9rMjUyUEVac2QzVUNlTDVXWUl6anRYVXY5azdQQWxUNXJwR3QyZkphWlQ5QVdxVGFQZkt6eU5ZeEVOX3lPaUtacThmRG1abjFOLXRZRXl0cVVLd0JvbXRfZmdJZVBxeUhDbThTSWRMX1R0V294dzY4SExKTTFJRVJwdw?oc=5"
-    },
-    {
-      "id": "20261020-canada-canada-drops-lmia-requirement-for-ex",
-      "date": "2026-10-20",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada drops LMIA requirement for Express Entry",
-      "summary": "Canada has removed the Labour Market Impact Assessment requirement for eligible Express Entry job offers, simplifying the work permit application process for qualified candidates.",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQkk5UW1Zb0VSdnp1UmNteWVpaEUtU3NGR2JsMDk4ZXNBZU5HUTlBRUwzMExNTURacC1YSjB0cW9lLUQ2VHRuaEdGUWpkdVVEOG9lMzc3ZXJ3NkRnWlZLS2dBNHRPeXMtUzhrSVE4aVdWdlEyY1FDM2NITUpONkEtdkFSQ1d4SGRDSzE0bXdqcndkN21tUTlpTjlha29xeUx5a09fdEhSQ0MtNU5nUzYwLXV2MF9NMzlicG5hMHFqRmhkdnhLaW1BbGVzMDlWV2RjYVowQmMwZ9IB3AFBVV95cUxNSDFhMVNFT2xrSXVFdDliR1FTOElsT0RaLWZqNzU4YUtkSWlWdGpmMzV2cXJEOVRlZGI1U19xTW1DZnMtdEZFY3hpSDNmZllsOEdIUThJaV9wU0M5TmhzQVkzbmJiMzRTaTM4b3BXWHA1cFdZVlhtTU84bUdQLTNjSlhGdXVqZ2djTEdiNWZMWGpseHpRS1VNTzlzR0w2V2FodS1WbEZyXzQyWGVwcTE4YjBHMTZCT2dNRGdRWEppbDZxeXFMdUp2QXlaRU9OMGtEZ0lXdzlEeDdkV0RD?oc=5"
-    },
-    {
-      "id": "20261020-new-zealand-new-zealand-opens-5-000-work-visas-f",
-      "date": "2026-10-20",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand opens 5,000 work visas for Indians",
-      "summary": "New Zealand reported opening 5,000 work visa positions for Indian applicants with specific eligibility rules. The snippet confirms a new visa allocation and associated qualification criteria.",
-      "source": "awaaz.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5"
     }
   ]
 }
