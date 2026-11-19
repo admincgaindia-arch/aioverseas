@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T02:15:10.982+05:30",
+  "checked_at": "2026-11-20T02:15:10.638+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,9 +9,20 @@
       "slug": "new-zealand",
       "kind": "Rule change",
       "title": "New Zealand graduate diploma students get 1-year work rights",
-      "summary": "New Zealand has extended post-study work visa eligibility for graduate diploma students to one year of open work rights, effective November 16. This rule change benefits Indian graduates from diploma programs.",
+      "summary": "New Zealand reported expanding post-study work visa eligibility from November 16, granting graduate diploma students one-year open work rights instead of previous shorter duration.",
       "source": "Education Times",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
+    },
+    {
+      "id": "20261117-australia-australia-introduces-stricter-travel",
+      "date": "2026-11-17",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia introduces stricter travel visa rules for foreign workers",
+      "summary": "Australia reported introducing stricter rules for foreign workers' travel visas effective November 30, tightening eligibility or processing requirements.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1ZoZ2t6Zi1GcWN4SWo4R3I3eThYZjk5SnQyN2Z1ODNLZFpPTEVYWFo4RzkwSDlncGlrQzVVNGFhVnQ2TFhPS0Q1VEJIUmdiTzVXd3BvZnphM3ZoTmNzaXczX1Y0WXUycTBlS0tCaFctelZ1RGtfQzZYWVM2eTJfWndGTlFkM3N2OXNxcHBOMUs3WWE1cHNKV1JneERRZm1LN2RhRmVJdE44b19RM0lzR0VkRFJneHB3M3BIWkJycGhpVWNLTkJGdTA4cw?oc=5"
     },
     {
       "id": "20261117-new-zealand-new-zealand-introduces-six-month-gra",
@@ -25,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM2U0WHU4VUh5Ui1kc1ZoQy1IUWZHU1M4UWM1MG1wcE9uc1c0SzgybW5IdUwwcFAyYjQxRW5mWWVwTmgwSE1KYmkwdGVwWDNfY1NCdW95MVJVTnBaMUYybDdkanhEcHFQRUdENU1ZbkNqUXk4RkJra0x0MDZHbFRjUlNmSUt4VUZYanY2bjZHb0RqUTdwdlJXeUxFTXdhV2ptd1BtTUVYckI4VnlHZGRESDFiYXhxTjRsTUlHdU5YVmhiVl9hTVplNmxHbFY5QURFOVNRc2ZiaktlbzF1MVl5SUtBYlNuQTY5aTVkUGgxY0hoZ01VamtRZnlqYnnSAYICQVVfeXFMTjlfUGV0YldFSnFyWEJfdmdxcmVVNXBHYktIdDNEenpBdW5KejVvYWNjNnZic1FKMDlfQlQ4azRMT3M5UUZ6emdwMzhKTExlQVZlZlRCaGlFRXpyN1BYdlE1UGkydHNoTkhSaHFrTERBRXhZb1NlT2FFU3E1MFhsQmdYbWpRaDQxTFFTamJZd24wR1JCRmVSNGwwb0FiTEk1WjVaOTlaU1FyOHdsQi1CUjItenNiT0NOX0dNZ3hFd3JZMkVWVFl4UGZJVjA0MjB3OXZNUmZ5X2RoOGJwSnNkUGZkOUV3eFFpWWlRWmhRMkFpaEVHV0U2OWxIbldLR0FLSE9n?oc=5"
     },
     {
+      "id": "20261116-usa-us-proposes-uscis-rule-change-affect",
+      "date": "2026-11-16",
+      "country": "United States",
+      "slug": "usa",
+      "kind": "Rule change",
+      "title": "US proposes USCIS rule change affecting H-1B extensions",
+      "summary": "The US government reported proposing a rule change to USCIS regulations that would affect H-1B visa extension processing for all applicants.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSzl2eUExNlQwVG90akVabFJJSTJzQTJHMDNfR1hIYUdpQ1poZVFsWDhhMDE0OU1XS3FKd2kzMl9XMkRCdmtzYkF0Z3o0UnpaSXB2NDZsRlAtUVowMXdxOFhzUXBVV3lZd2RHdjlSRVBOcVlhdFBSMjFTd0NKVGV5bjRMdXpXQ3l0U3ZNcVNONDRhaXlTakdudmNSZ3hfSjgwYlRBb0JBb1hxYnlkQTRTYXhVdXhmdjh2dlgxSHI2QmNVeTNpT3FRdVhTTkRha1Y2THoyVEFKUXdmNkhjaFE1Z1dIcTgwaldOaUJWUUdSdGIyV1paWTRQTmd3aV9ZOTN6M2pNQnZIUmFlSnowcmt3LUg1Sjk3VzdEQzZteXM0VEkwQXFkTWlmb2FVLXlkdDFLeUlQT3lpVEJ6aUJkajFCWFQ3eERFejhrN193NjdDVdIB1AJBVV95cUxQQzdWeEg3cktTd05mcW5NOGxqVmVVbGZSRVlBN2p2aUx1Z0NLUjFRcDhacVpBanVJNzV6aU1tWmFrTVhyS0RBcThPTFczU2xadFcxdHRsZXBYWWVtN1lXSGwxQXZDVGF6Ri0wV2dLXzBpekpkOHA0OWhkQVZTWVhnVnJCMUVXd2d0MTVYYWViT1dVMmYtcHJhZ1VudzhWS0hoNzJVTTNkNTE0V0szRHVjRXQySHMyRkNfMU02LTBmUUJiNk80QVVBbU5BU3hUdUZnSEdfN2xUWkxuN2lPSFM2Tjc4bEFSa0h2aVJWYTZHSnBDU0I3SkZ0RXMzS2U5QlR5OEtPaTlZSExfd1pMMm90TlhRajZHWjJ2RWZCTkh2bWhDalpCUXBmbVRCWU9zYVBrU0pOUHNBc0xKaDNNQWNaOUlzRm5qekVVSm9RRWlQYWNNa2Jt?oc=5"
+    },
+    {
       "id": "20261116-australia-australia-changes-family-inclusion-r",
       "date": "2026-11-16",
       "country": "Australia",
@@ -34,17 +56,6 @@
       "summary": "Australia has changed eligibility rules for including family members on graduate visas. This rule change affects Indian graduate visa holders seeking to bring dependents to Australia.",
       "source": "Yen News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDd2R05TcmlUQ09JaE9zYzlaOFdXcGJST0ZwZVc0ZGNQazhMRUdjYmxfa0IyTjdhOTdjbmcxV21sT3RtTzlMUkhMRTNGNTVod2h6RWxVRXZoalZBNEsyTDZrWGJkUV90V2V2cjh2NEFpRVNTcnkyY3JXQUpjMUpRYlZha1hxVDR2SGNENG5pbGRSUVR2RWtXR3RJcF9HVGp3eWxpMjMya1laYzQ?oc=5"
-    },
-    {
-      "id": "20261116-usa-us-proposes-uscis-rule-change-affect",
-      "date": "2026-11-16",
-      "country": "United States",
-      "slug": "usa",
-      "kind": "Rule change",
-      "title": "US proposes USCIS rule change affecting H-1B extensions",
-      "summary": "The US government is proposing a rule change to USCIS regulations that would affect H-1B visa extensions. This reported modification impacts Indian H-1B visa holders seeking to extend their work authorization.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSzl2eUExNlQwVG90akVabFJJSTJzQTJHMDNfR1hIYUdpQ1poZVFsWDhhMDE0OU1XS3FKd2kzMl9XMkRCdmtzYkF0Z3o0UnpaSXB2NDZsRlAtUVowMXdxOFhzUXBVV3lZd2RHdjlSRVBOcVlhdFBSMjFTd0NKVGV5bjRMdXpXQ3l0U3ZNcVNONDRhaXlTakdudmNSZ3hfSjgwYlRBb0JBb1hxYnlkQTRTYXhVdXhmdjh2dlgxSHI2QmNVeTNpT3FRdVhTTkRha1Y2THoyVEFKUXdmNkhjaFE1Z1dIcTgwaldOaUJWUUdSdGIyV1paWTRQTmd3aV9ZOTN6M2pNQnZIUmFlSnowcmt3LUg1Sjk3VzdEQzZteXM0VEkwQXFkTWlmb2FVLXlkdDFLeUlQT3lpVEJ6aUJkajFCWFQ3eERFejhrN193NjdDVdIB1AJBVV95cUxQQzdWeEg3cktTd05mcW5NOGxqVmVVbGZSRVlBN2p2aUx1Z0NLUjFRcDhacVpBanVJNzV6aU1tWmFrTVhyS0RBcThPTFczU2xadFcxdHRsZXBYWWVtN1lXSGwxQXZDVGF6Ri0wV2dLXzBpekpkOHA0OWhkQVZTWVhnVnJCMUVXd2d0MTVYYWViT1dVMmYtcHJhZ1VudzhWS0hoNzJVTTNkNTE0V0szRHVjRXQySHMyRkNfMU02LTBmUUJiNk80QVVBbU5BU3hUdUZnSEdfN2xUWkxuN2lPSFM2Tjc4bEFSa0h2aVJWYTZHSnBDU0I3SkZ0RXMzS2U5QlR5OEtPaTlZSExfd1pMMm90TlhRajZHWjJ2RWZCTkh2bWhDalpCUXBmbVRCWU9zYVBrU0pOUHNBc0xKaDNNQWNaOUlzRm5qekVVSm9RRWlQYWNNa2Jt?oc=5"
     },
     {
       "id": "20261116-new-zealand-new-zealand-extends-graduate-visa-fo",
@@ -75,7 +86,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia visitor visas get no further stay rule from Nov 28",
-      "summary": "Australia has introduced a new rule effective November 28 restricting further stays for visitor visa holders. This eligibility change affects Indian visitors seeking to extend their stay in Australia.",
+      "summary": "Australia reported implementing a no further stay rule for visitor visas effective November 28. The change affects eligibility for visa extensions while onshore.",
       "source": "deeparrival.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDJDTGJSaVVWMlg5QWpRb3FId0Z3T1R2cmFVRjJnUWRYYzdWcFhjSFdrZ0ttQ01QRjJtbTVCVG9kdWhXald1ZGJCeGpmaVRnMS0xN3dfMlZuM3BES1dwWUxQTjd2eFF2VUpJZElPSW9rOG8yamF5SmNOTGsyQkpTekhXbHowTDBXaHFuM2Vmc1J4YXVNMlkwaXd3aGkwMjRO?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "Australia visa rules change to require Indian applicants to submit fingerprints and facial images as part of visa processing. New biometric documentation requirement reported.",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0RzTWJMR2trV2JhbXY0a0EyTFBFUFNZbUgyTGQ3VnVLdWlqRHkxcFhLdFJMR2xKOVhscDdJdE1pNUZnLWNMTDhoOEcwdnVoMnhtUTRqUkNJaWVLTk9YM2x0SHVYVHhCZXNxRmprVnNMU1VCa3dWUlVMX0VIMFlmYzk3UVItamwwQ1JQUF9IZkw2Q3l3UlRQeHA1d1Fnb0pkaGpkRlFrTldfeHdPcXJKdFAtNXVRZWlrejN4TW5TMGg2SUNCOFNaYm5Ld1dvNGZJ0gHXAUFVX3lxTE9HVk5WaXkxVUlEbGplWXlXYmtkcEkzZ2JtTjlLOTVDcExYd0o2b0RlS3VQczhoUUFZQTQ3WHlJenFaUFU4V2JqQ19waDFFZWFrakd1ZE5mQWtsUF83SVpPRWNhTVhSQThLLURjV3VDSEIyZXZhbVFRZ0swcXV1M3JFWFdyU0k1dHdwc1BDOWFfcU1ON0hkMmdEbmdoOUMwMWFFa3V5LU5CNWlPdGt0Sy1YNDJTME1ZS18zQUNoSnEzVjdwWTVhbXR6RTJwT0ZNYVgxanB3T0hF?oc=5"
-    },
-    {
-      "id": "20261024-canada-canada-allows-eligible-workers-to-st",
-      "date": "2026-10-24",
-      "country": "Canada",
-      "slug": "canada",
-      "kind": "Rule change",
-      "title": "Canada allows eligible workers to study without permit",
-      "summary": "Canada reported new immigration rules permitting eligible workers to pursue studies without requiring a separate study permit.",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbklvSF8yVzlyajlXZnRobTdmN2J1OFM4SkZmendiU0drNllIZENUdl9rMjUyUEVac2QzVUNlTDVXWUl6anRYVXY5azdQQWxUNXJwR3QyZkphWlQ5QVdxVGFQZkt6eU5ZeEVOX3lPaUtacThmRG1abjFOLXRZRXl0cVVLd0JvbXRfZmdJZVBxeUhDbThTSWRMX1R0V294dzY4SExKTTFJRVJwdw?oc=5"
     }
   ]
 }
