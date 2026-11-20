@@ -1,26 +1,37 @@
 {
-  "checked_at": "2026-11-20T02:15:10.638+05:30",
+  "checked_at": "2026-11-21T02:15:10.342+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
-      "id": "20261118-new-zealand-new-zealand-graduate-diploma-student",
+      "id": "20261120-australia-australia-bans-visa-hopping-from-nov",
+      "date": "2026-11-20",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia bans visa hopping from November 28",
+      "summary": "Australia introduces new mandatory visa law effective November 28 that restricts visitors from visa hopping. This represents a confirmed eligibility and travel rule change affecting visitor visa holders.",
+      "source": "Tuko News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR00xUlJ0ZzZYeDIyaXhnN2J6blZDU3MtWVN5TXpEb3d0UkVIelQ5RTdBUUZ1T1JYMTVIMEYySm93OTlzQWh2cll4VkhZMk01OWFaeXhGYWhqVEI4RDkxemFxQkxQTUVTc2hkY3B1bzFSUHBHaTQwZEowMWF0dzhFQ1JMSUJYV3NaZmZpM0Q5dmh0TDI5eDVNZEw4ekdRMC1fSWJuU2Z3XzY0SksxY3VtY3VyWmZlSEdxcjAxcnNXc01FVFVBcEE?oc=5"
+    },
+    {
+      "id": "20261118-new-zealand-new-zealand-extends-graduate-work-vi",
       "date": "2026-11-18",
       "country": "New Zealand",
       "slug": "new-zealand",
       "kind": "Rule change",
-      "title": "New Zealand graduate diploma students get 1-year work rights",
-      "summary": "New Zealand reported expanding post-study work visa eligibility from November 16, granting graduate diploma students one-year open work rights instead of previous shorter duration.",
+      "title": "New Zealand extends graduate work visa to 1 year",
+      "summary": "New Zealand reported changes to post-study work visa rules effective November 16, granting graduate diploma students one-year open work rights, expanding eligibility for this visa category.",
       "source": "Education Times",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
     },
     {
-      "id": "20261117-australia-australia-introduces-stricter-travel",
+      "id": "20261117-australia-australia-tightens-foreign-worker-tr",
       "date": "2026-11-17",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia introduces stricter travel visa rules for foreign workers",
-      "summary": "Australia reported introducing stricter rules for foreign workers' travel visas effective November 30, tightening eligibility or processing requirements.",
+      "title": "Australia tightens foreign worker travel visa rules",
+      "summary": "Australia introduces stricter rules for foreign workers' travel visas effective November 30, reported to restrict mobility and travel eligibility for visa holders in this category.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1ZoZ2t6Zi1GcWN4SWo4R3I3eThYZjk5SnQyN2Z1ODNLZFpPTEVYWFo4RzkwSDlncGlrQzVVNGFhVnQ2TFhPS0Q1VEJIUmdiTzVXd3BvZnphM3ZoTmNzaXczX1Y0WXUycTBlS0tCaFctelZ1RGtfQzZYWVM2eTJfWndGTlFkM3N2OXNxcHBOMUs3WWE1cHNKV1JneERRZm1LN2RhRmVJdE44b19RM0lzR0VkRFJneHB3M3BIWkJycGhpVWNLTkJGdTA4cw?oc=5"
     },
@@ -36,13 +47,13 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOM2U0WHU4VUh5Ui1kc1ZoQy1IUWZHU1M4UWM1MG1wcE9uc1c0SzgybW5IdUwwcFAyYjQxRW5mWWVwTmgwSE1KYmkwdGVwWDNfY1NCdW95MVJVTnBaMUYybDdkanhEcHFQRUdENU1ZbkNqUXk4RkJra0x0MDZHbFRjUlNmSUt4VUZYanY2bjZHb0RqUTdwdlJXeUxFTXdhV2ptd1BtTUVYckI4VnlHZGRESDFiYXhxTjRsTUlHdU5YVmhiVl9hTVplNmxHbFY5QURFOVNRc2ZiaktlbzF1MVl5SUtBYlNuQTY5aTVkUGgxY0hoZ01VamtRZnlqYnnSAYICQVVfeXFMTjlfUGV0YldFSnFyWEJfdmdxcmVVNXBHYktIdDNEenpBdW5KejVvYWNjNnZic1FKMDlfQlQ4azRMT3M5UUZ6emdwMzhKTExlQVZlZlRCaGlFRXpyN1BYdlE1UGkydHNoTkhSaHFrTERBRXhZb1NlT2FFU3E1MFhsQmdYbWpRaDQxTFFTamJZd24wR1JCRmVSNGwwb0FiTEk1WjVaOTlaU1FyOHdsQi1CUjItenNiT0NOX0dNZ3hFd3JZMkVWVFl4UGZJVjA0MjB3OXZNUmZ5X2RoOGJwSnNkUGZkOUV3eFFpWWlRWmhRMkFpaEVHV0U2OWxIbldLR0FLSE9n?oc=5"
     },
     {
-      "id": "20261116-usa-us-proposes-uscis-rule-change-affect",
+      "id": "20261116-usa-us-proposes-h-1b-visa-extension-rule",
       "date": "2026-11-16",
       "country": "United States",
       "slug": "usa",
       "kind": "Rule change",
-      "title": "US proposes USCIS rule change affecting H-1B extensions",
-      "summary": "The US government reported proposing a rule change to USCIS regulations that would affect H-1B visa extension processing for all applicants.",
+      "title": "US proposes H-1B visa extension rule change",
+      "summary": "US government is proposing a rule change affecting H-1B visa extensions. The modification to USCIS rules would impact how extensions are processed for this visa category.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPSzl2eUExNlQwVG90akVabFJJSTJzQTJHMDNfR1hIYUdpQ1poZVFsWDhhMDE0OU1XS3FKd2kzMl9XMkRCdmtzYkF0Z3o0UnpaSXB2NDZsRlAtUVowMXdxOFhzUXBVV3lZd2RHdjlSRVBOcVlhdFBSMjFTd0NKVGV5bjRMdXpXQ3l0U3ZNcVNONDRhaXlTakdudmNSZ3hfSjgwYlRBb0JBb1hxYnlkQTRTYXhVdXhmdjh2dlgxSHI2QmNVeTNpT3FRdVhTTkRha1Y2THoyVEFKUXdmNkhjaFE1Z1dIcTgwaldOaUJWUUdSdGIyV1paWTRQTmd3aV9ZOTN6M2pNQnZIUmFlSnowcmt3LUg1Sjk3VzdEQzZteXM0VEkwQXFkTWlmb2FVLXlkdDFLeUlQT3lpVEJ6aUJkajFCWFQ3eERFejhrN193NjdDVdIB1AJBVV95cUxQQzdWeEg3cktTd05mcW5NOGxqVmVVbGZSRVlBN2p2aUx1Z0NLUjFRcDhacVpBanVJNzV6aU1tWmFrTVhyS0RBcThPTFczU2xadFcxdHRsZXBYWWVtN1lXSGwxQXZDVGF6Ri0wV2dLXzBpekpkOHA0OWhkQVZTWVhnVnJCMUVXd2d0MTVYYWViT1dVMmYtcHJhZ1VudzhWS0hoNzJVTTNkNTE0V0szRHVjRXQySHMyRkNfMU02LTBmUUJiNk80QVVBbU5BU3hUdUZnSEdfN2xUWkxuN2lPSFM2Tjc4bEFSa0h2aVJWYTZHSnBDU0I3SkZ0RXMzS2U5QlR5OEtPaTlZSExfd1pMMm90TlhRajZHWjJ2RWZCTkh2bWhDalpCUXBmbVRCWU9zYVBrU0pOUHNBc0xKaDNNQWNaOUlzRm5qekVVSm9RRWlQYWNNa2Jt?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "US reported beginning approval of H-1B petitions without Trump's $100,000 fee, reducing costs for workers and employers.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdHFWMERqRWNzdGZYWnlZTnl4LUNPYlB4VzN0NlVKUUhRSFFyaTZoUzlHZWdzaDZ4Uy1Nc2pCMURzQ2xBNWNMQXh6WFh0dFQxa3Q2N0FtdlFlbF9zZWcyaThYX3FxN2VMUE1SN2ZJaUlZSTFEWUh2MlctR0laaHcwTUt3czBwWXNUR1N5WVl3NkZLWkJsWU40Qy1qTV81NWNlRDZTS29UeFZVay1qc1diOGdLWjM3Mm9IZmFsM2VlR1ZtNTdpemVHQUJUX1R0T0VScDhCZjU0S2JCVlMzOTVrWndVUUh2OTdBTi1WbDFDMHHSAfYBQVVfeXFMTWFObTN2X2NMQVdMbExuVUtKMk9GRmp3YUlQUGhqcFlkazJLS2o1UjY0dVJkLV90YnIzR1B2US1acllEY01hYWc0SHUzLVBxVEplRlUtLUJxaG5xd0tBa0xselpUb2FacGtHdjkwaGR6bG83LXlGM29rUDZxRTg1dWM1Wjd6Vi1ObDFiRnZRX1REdHpUZUh2MkZhcUxHMjhPZmJiMzJwR01KRVk4ZXozZnptSG44SkZPWkw0YV8xLVgtSG9ranExbERqUHBIeGpYYXlWaE0tVWRrYWVhZUloLXdkaXhtZEJIa3plRWZSVWVUNXJNaW9B?oc=5"
-    },
-    {
-      "id": "20261026-australia-australia-requires-fingerprints-and",
-      "date": "2026-10-26",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia requires fingerprints and facial images for visas",
-      "summary": "Australia visa rules change to require Indian applicants to submit fingerprints and facial images as part of visa processing. New biometric documentation requirement reported.",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0RzTWJMR2trV2JhbXY0a0EyTFBFUFNZbUgyTGQ3VnVLdWlqRHkxcFhLdFJMR2xKOVhscDdJdE1pNUZnLWNMTDhoOEcwdnVoMnhtUTRqUkNJaWVLTk9YM2x0SHVYVHhCZXNxRmprVnNMU1VCa3dWUlVMX0VIMFlmYzk3UVItamwwQ1JQUF9IZkw2Q3l3UlRQeHA1d1Fnb0pkaGpkRlFrTldfeHdPcXJKdFAtNXVRZWlrejN4TW5TMGg2SUNCOFNaYm5Ld1dvNGZJ0gHXAUFVX3lxTE9HVk5WaXkxVUlEbGplWXlXYmtkcEkzZ2JtTjlLOTVDcExYd0o2b0RlS3VQczhoUUFZQTQ3WHlJenFaUFU4V2JqQ19waDFFZWFrakd1ZE5mQWtsUF83SVpPRWNhTVhSQThLLURjV3VDSEIyZXZhbVFRZ0swcXV1M3JFWFdyU0k1dHdwc1BDOWFfcU1ON0hkMmdEbmdoOUMwMWFFa3V5LU5CNWlPdGt0Sy1YNDJTME1ZS18zQUNoSnEzVjdwWTVhbXR6RTJwT0ZNYVgxanB3T0hF?oc=5"
     }
   ]
 }
