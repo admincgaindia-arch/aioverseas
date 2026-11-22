@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T02:15:11.536+05:30",
+  "checked_at": "2026-11-23T02:15:08.743+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -9,7 +9,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia tightens Bridging Visa B travel rules from November 30",
-      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, tightening travel permissions for visa applicants. The new restrictions affect onshore stay conditions.",
+      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, restricting travel permissions for visa applicants. The specific restrictions were not detailed in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMmJTSzU3dHpDWHFITU83S1BfQjc0TTdrRmpEejFKdUpYdXM4NkY2QWJCTnc3Z2ZmVFNwX2RGdlRZV0RYMzVhdDFSWldDSFJndzNSeWhNZ0cybkY2S05FQlBQYkRGeFFLcUxfbWdlQ2lILW42R0l1VWI5T3N3RXVmdEdQaE5lUXNoLVk1WkYwNjZQWHNWLWRqYnVsU21rd2F5UWhDX3dLUVh3bjVQV3pFLVFYSjdLcGlJMnk4S3pSZEtTRGt2NVM3QjBPTUhiZ3pWSVpKVk96d1RCMTM0WEtyenFNRVV6b1BVSVNyRi1SaUJ6Nm1RS0JRMDEyRUtHd9IBgwJBVV95cUxQWVFLLS1obVlYV3Vnc2t3cjFZZ0hpVGdyTmRqdWZxVVRYaW1uQ3VnNV82bHNlVWlyRGJXaHVXTVJmRmJnU0plcUU2OFMyMzNzalk3N0c3SU43ZlEzY3J0QXBUTFhBOGhYRTNXT3RnWk56X0RQMnF4S3JnRHViaERtd1Q4d2hfNDNaT2ZHLWc0MVNDaWRsUEpkV0owSjlTUjFqM3JXV2cyTE9HVW5OLXd1UWtBQktxUWRKRFMtOVhXYVRrZHFSbU8wTVhYeGFob0hwcjV0Qm5IaGk3U1RlSEpicGtsRHVtanhXSXM1aHZVV2lhMUVEc3JhcjZOT2lwczJXZHFZ?oc=5"
     },
@@ -36,13 +36,13 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR00xUlJ0ZzZYeDIyaXhnN2J6blZDU3MtWVN5TXpEb3d0UkVIelQ5RTdBUUZ1T1JYMTVIMEYySm93OTlzQWh2cll4VkhZMk01OWFaeXhGYWhqVEI4RDkxemFxQkxQTUVTc2hkY3B1bzFSUHBHaTQwZEowMWF0dzhFQ1JMSUJYV3NaZmZpM0Q5dmh0TDI5eDVNZEw4ekdRMC1fSWJuU2Z3XzY0SksxY3VtY3VyWmZlSEdxcjAxcnNXc01FVFVBcEE?oc=5"
     },
     {
-      "id": "20261118-new-zealand-new-zealand-extends-graduate-work-vi",
+      "id": "20261118-new-zealand-new-zealand-extends-graduate-work-ri",
       "date": "2026-11-18",
       "country": "New Zealand",
       "slug": "new-zealand",
       "kind": "Rule change",
-      "title": "New Zealand extends graduate work visa to 1 year from November 16",
-      "summary": "New Zealand reported graduate diploma students now receive 1-year open work rights from November 16, expanding post-study work visa eligibility and duration.",
+      "title": "New Zealand extends graduate work rights for diploma students",
+      "summary": "New Zealand reported that graduate diploma students now receive one-year open work rights from November 16, 2026, under post-study work visa provisions.",
       "source": "Education Times",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
     },
