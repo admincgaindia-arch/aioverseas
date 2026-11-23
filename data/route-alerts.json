@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T02:15:08.743+05:30",
+  "checked_at": "2026-11-24T02:15:10.380+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
     {
@@ -20,7 +20,7 @@
       "slug": "uk",
       "kind": "Rule change",
       "title": "UK confirms major changes to Indefinite Leave to Remain",
-      "summary": "UK reported major changes to Indefinite Leave to Remain eligibility and processing rules. Specific rule modifications were confirmed by the government.",
+      "summary": "The UK reported major changes to Indefinite Leave to Remain (ILR) eligibility or processing rules. Specific details of the changes were not provided in the headline.",
       "source": "Legal 500",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5"
     },
@@ -36,13 +36,24 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR00xUlJ0ZzZYeDIyaXhnN2J6blZDU3MtWVN5TXpEb3d0UkVIelQ5RTdBUUZ1T1JYMTVIMEYySm93OTlzQWh2cll4VkhZMk01OWFaeXhGYWhqVEI4RDkxemFxQkxQTUVTc2hkY3B1bzFSUHBHaTQwZEowMWF0dzhFQ1JMSUJYV3NaZmZpM0Q5dmh0TDI5eDVNZEw4ekdRMC1fSWJuU2Z3XzY0SksxY3VtY3VyWmZlSEdxcjAxcnNXc01FVFVBcEE?oc=5"
     },
     {
-      "id": "20261118-new-zealand-new-zealand-extends-graduate-work-ri",
+      "id": "20261118-australia-australia-introduces-new-working-hol",
+      "date": "2026-11-18",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Rule change",
+      "title": "Australia introduces new Working Holiday Visa rules from March 2027",
+      "summary": "Australia reported new eligibility rules for the Working Holiday Visa program taking effect March 2027. Specific rule changes were not detailed in the headline.",
+      "source": "Y-Axis Overseas Careers",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZkFTNlZUb1lpTmlTR2w0VG1SODJqOG9wd01xdkxTQ0NFTDJXSFl5ZDN3N1I2dEJNZHhIOFdVM25xa09Yd1I5Y3lsTDhUN1hrOVd5cy00dWNWd2dvUFNRVW95Y05pOXNVeGdXWjR0a1JIRjV4cG9waWg1bTFGMFU?oc=5"
+    },
+    {
+      "id": "20261118-new-zealand-new-zealand-extends-post-study-work",
       "date": "2026-11-18",
       "country": "New Zealand",
       "slug": "new-zealand",
       "kind": "Rule change",
-      "title": "New Zealand extends graduate work rights for diploma students",
-      "summary": "New Zealand reported that graduate diploma students now receive one-year open work rights from November 16, 2026, under post-study work visa provisions.",
+      "title": "New Zealand extends post-study work rights for graduate diploma students",
+      "summary": "New Zealand reported that graduate diploma students now receive 1-year open work rights under the post-study work visa, effective November 16, 2026.",
       "source": "Education Times",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "UK reported to charge universities $1,200 per international student annually, affecting Indian applicants. The levy targets revenue generation from international student enrollments at UK institutions.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOb3BEaGU5MGtCUWxRMDdlX21vaXJQQzJac2VaSTZFQVUxazhIZ3BxR1RpSi1BWkFOcHZTZHE5VmVENXljRTNOM0xoMXNPOE50Z1B0cFROTmlwckI2d3A3ekRaT0huSlpod1pfRVU0QXN5SWpScHNQeElwZnJkcmtVNW9XQ084UDFmQjgwS2EzNUhsS2NJR1BxbVdFZjVYQmV3SlBUYkp2SG9aeGY1RVhfNGdMal9nZnhoSjRfTzJ1dnp2ZFprZFdDbUh1d2hsYnF2MndxLWh3RVpBaU5XLVBPd1RGbXVMNS05SDdxSW9pMUlQSU9FTWpKS1Fud1VqRzhTZnZPX3BPODByVnliVGtiQVpydjlTQUl60gGeAkFVX3lxTFBEaHc5TW5mNWNrY01aOE5SS21EY3E4ZDNOWXZHcURnbGljaVBZb2lzbmlvTXgxaXh0TFl4OThCMTJGWDFLWGVJN21ZZWdCczFFMDMxd3VCWDJiSm93a2t3MnByOWctSkpDcEJFMFNOZTEwQUlpOTdEeWdtVEp5OHRkN2F2eHZXX0p6QjI0cFZGdWt2UFE1cmdTWGRncTloQ3k5WjlVM09qY3gxSld5MFlQN2NsbkkzMFc4Z2lLeDVoc19yM1M5NlBfVl9LWWF6X0ZzNUtLaTZ0NUtKdmh2V1V4bWR3YTRUWmtYME50ay05a0ZpQjZTS2dRTU1QRDQ2TEhMNGkzdDZpQ2k1ZHRMWHY1Q1VqOTFheGIwLVMxNlE?oc=5"
-    },
-    {
-      "id": "20261026-australia-australia-updates-student-visa-fees",
-      "date": "2026-10-26",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Fee change",
-      "title": "Australia updates student visa fees for 2026",
-      "summary": "Australia reported updates to student visa fees for international students in 2026. Specific fee amounts were not detailed in the available information.",
-      "source": "Shiksha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVRyZlR6Tzc1NE42RGI5N2M4ak00Z1BXWlAtU296bEpFU1NEUEQ1N1FEdEhVb3hid1J0eERkN1VZblp2WFc0UlhBVDY0eGtTbUJTQTBJdVZhVDRCc29xMFFPUm5QZ3owTjBnWEstOURBXzg2TlNKNUlaY0lNa1MxOHJFWXJRdF9uZXpaRnE0MTBreHFvX19IYkVfdnVaVHRO?oc=5"
     }
   ]
 }
