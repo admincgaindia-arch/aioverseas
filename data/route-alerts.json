@@ -1,7 +1,29 @@
 {
-  "checked_at": "2026-11-24T02:15:10.380+05:30",
+  "checked_at": "2026-11-25T02:15:10.708+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261124-uk-uk-student-visa-minimum-bank-balance",
+      "date": "2026-11-24",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Threshold change",
+      "title": "UK student visa minimum bank balance requirement increases from November 30",
+      "summary": "UK reported an increase to the minimum bank balance requirement for student visas effective November 30. The new amounts for Indian students were referenced but not stated in the headline.",
+      "source": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQWNBaHBzVlBwZTRoSjktcjRtckFPa094cXZhSXlyZ3kyWVd5WTZKSGlrZzV0UWVESjUybzhvY2Q0Qy1HQXpRa1U5Z0VTRWNBNjJxMF9jSWRqUWJ4Y2dXZGg0UlE0UkRleUVMbG9CcVoxOHB5S2ZZZTY3QTFzNGJrS0k3R09SRHZtN0xvU09IWk9UU0V1REs4VXhXS0EtMTF3OXFoUW5OTU9fZWRhNUxESjVCR25oZFlQblFsYUpaQ25UUXJUM0xKZ21ZZlBXUHhOeDdKVjRGbGNwOFdidEpZMnBxYXIwR2s2QUxHUUVPeWFEZFlSVnZXY2p4N0NPZw?oc=5"
+    },
+    {
+      "id": "20261123-uk-uk-seasonal-worker-visa-2027-applica",
+      "date": "2026-11-23",
+      "country": "United Kingdom",
+      "slug": "uk",
+      "kind": "Fee change",
+      "title": "UK Seasonal Worker Visa 2027 application fee set at £340",
+      "summary": "UK Seasonal Worker Visa 2027 reported with an application fee of £340 and a financial requirement of £1,270. Eligibility and salary details were referenced but not specified.",
+      "source": "GistReel",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ia196b09NZlZCcVFHRWtKaEdjOGZzZzYyQjExMVA5U3FTWnVfZmJ4b0s2VHpKTnJmM0tad1I4TTlTb2JiT0NSb0RVeXplck1DSWdxTE9BdnNIQy04czBPUmdMMXk?oc=5"
+    },
     {
       "id": "20261121-australia-australia-tightens-bridging-visa-b-t",
       "date": "2026-11-21",
@@ -9,7 +31,7 @@
       "slug": "australia",
       "kind": "Rule change",
       "title": "Australia tightens Bridging Visa B travel rules from November 30",
-      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, restricting travel permissions for visa applicants. The specific restrictions were not detailed in the headline.",
+      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, tightening travel permissions for visa applicants. The specific restrictions were not detailed in the headline.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMmJTSzU3dHpDWHFITU83S1BfQjc0TTdrRmpEejFKdUpYdXM4NkY2QWJCTnc3Z2ZmVFNwX2RGdlRZV0RYMzVhdDFSWldDSFJndzNSeWhNZ0cybkY2S05FQlBQYkRGeFFLcUxfbWdlQ2lILW42R0l1VWI5T3N3RXVmdEdQaE5lUXNoLVk1WkYwNjZQWHNWLWRqYnVsU21rd2F5UWhDX3dLUVh3bjVQV3pFLVFYSjdLcGlJMnk4S3pSZEtTRGt2NVM3QjBPTUhiZ3pWSVpKVk96d1RCMTM0WEtyenFNRVV6b1BVSVNyRi1SaUJ6Nm1RS0JRMDEyRUtHd9IBgwJBVV95cUxQWVFLLS1obVlYV3Vnc2t3cjFZZ0hpVGdyTmRqdWZxVVRYaW1uQ3VnNV82bHNlVWlyRGJXaHVXTVJmRmJnU0plcUU2OFMyMzNzalk3N0c3SU43ZlEzY3J0QXBUTFhBOGhYRTNXT3RnWk56X0RQMnF4S3JnRHViaERtd1Q4d2hfNDNaT2ZHLWc0MVNDaWRsUEpkV0owSjlTUjFqM3JXV2cyTE9HVW5OLXd1UWtBQktxUWRKRFMtOVhXYVRrZHFSbU8wTVhYeGFob0hwcjV0Qm5IaGk3U1RlSEpicGtsRHVtanhXSXM1aHZVV2lhMUVEc3JhcjZOT2lwczJXZHFZ?oc=5"
     },
@@ -36,6 +58,17 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR00xUlJ0ZzZYeDIyaXhnN2J6blZDU3MtWVN5TXpEb3d0UkVIelQ5RTdBUUZ1T1JYMTVIMEYySm93OTlzQWh2cll4VkhZMk01OWFaeXhGYWhqVEI4RDkxemFxQkxQTUVTc2hkY3B1bzFSUHBHaTQwZEowMWF0dzhFQ1JMSUJYV3NaZmZpM0Q5dmh0TDI5eDVNZEw4ekdRMC1fSWJuU2Z3XzY0SksxY3VtY3VyWmZlSEdxcjAxcnNXc01FVFVBcEE?oc=5"
     },
     {
+      "id": "20261118-new-zealand-new-zealand-extends-post-study-work",
+      "date": "2026-11-18",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand extends post-study work rights for graduate diploma students",
+      "summary": "New Zealand reported that graduate diploma students now receive 1-year open work rights from the post-study work visa effective November 16, 2026.",
+      "source": "Education Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
+    },
+    {
       "id": "20261118-australia-australia-introduces-new-working-hol",
       "date": "2026-11-18",
       "country": "Australia",
@@ -45,17 +78,6 @@
       "summary": "Australia reported new eligibility rules for the Working Holiday Visa program taking effect March 2027. Specific rule changes were not detailed in the headline.",
       "source": "Y-Axis Overseas Careers",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZkFTNlZUb1lpTmlTR2w0VG1SODJqOG9wd01xdkxTQ0NFTDJXSFl5ZDN3N1I2dEJNZHhIOFdVM25xa09Yd1I5Y3lsTDhUN1hrOVd5cy00dWNWd2dvUFNRVW95Y05pOXNVeGdXWjR0a1JIRjV4cG9waWg1bTFGMFU?oc=5"
-    },
-    {
-      "id": "20261118-new-zealand-new-zealand-extends-post-study-work",
-      "date": "2026-11-18",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand extends post-study work rights for graduate diploma students",
-      "summary": "New Zealand reported that graduate diploma students now receive 1-year open work rights under the post-study work visa, effective November 16, 2026.",
-      "source": "Education Times",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNc3hNTVBpNnowcnA0UmpMRVRfbWw3QU1kZ3BnTlU1QUpJVFE3NE5iUXdMX0kzY2FWc1NEUGF4MExtaFBkcVlGRVJhajlzdHF2SU1oSFJ4aGRwY1MyQnQxc19uaGtVOHg2MklJQ2s2MmUyekR0ZFhlWF92dWlzNWRIOWFHRFdWQUh3dUZhSDdfUWNhV2JjQ1AzVXdRWi1tcldGTUhueGdueHVfa2tScmpRT3g1aHBhcUsyMmtCXzBHVnZYVWVkNmlyUV9TNEVld21Wd1ZUY25yY2tiUnpvNTFkcUp6bVJadl82X2RwY1BOa3Y0MEYzeGFGMU9GR1pDMUNkUmZFNHBENEEyUQ?oc=5"
     },
     {
       "id": "20261117-australia-australia-tightens-foreign-worker-tr",
@@ -419,28 +441,6 @@
       "summary": "New Zealand reported tightening student visa rules, cutting work rights for students, and toughening English language checks.",
       "source": "awaaz.co.nz",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTY0WDdFaUc2QUF1RU1xTEU5VDZHR3lLOGZPSElNWTNFczJNTndSV1l6Zk5YNUsyUXdRTlN4dlpYSHlGRXJNdUpqNWZtMHQ3N2xDQmNQUkx4SVY1YWZqNWR6M1VUS2c1WEMwQU1HM0lMenlSQXZOUFBGeGhMUDB4VmlVY3hkYk5qYnJTeUVhNjFEeHc0X2VvZUNNNGQwMW9VLTdzXzZxOUNmYzNzOFlIbFJwbW1FQkktVVNOaGl3?oc=5"
-    },
-    {
-      "id": "20261027-australia-australia-tightens-student-visa-rule",
-      "date": "2026-10-27",
-      "country": "Australia",
-      "slug": "australia",
-      "kind": "Rule change",
-      "title": "Australia tightens student visa rules",
-      "summary": "Australia has tightened student visa rules affecting Indian students and parents. Specific changes to eligibility or processing rules are reported.",
-      "source": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb3A2UjFvVHVlc1ZOVDVCbUJTMkJvS0h4S3lpVEFoaXBpYVc5NFNNcDFoaDlrWXpINzRVZU5vRG5rbkVvRmhkcEZreDFJMlcwZWlyNlZ0Q2c3aEFUUXBOdEtLZ2hsdGQzVk8zdGJiRjltdk1nc0VIYTNMbnRVZDlfdzNfOGUxdk5UcXhJYU82WGZUTXRnTEloaWsxSHFqZV9FYTlqeURRTGwwMlhocnJGTjZhYm52T09uVGpCbEpadVZVS1RQQmMydVJ3MWdLdndIVm5tLW9sNmxjUzY5dkQ5V3ZRelFUaHN5cTM1M21ZRlJPRmZQSks1X21hSHk2a1QwclNDMV9QSW14ZDJIV1ZySFVsbERQN3PSAZwCQVVfeXFMUDEtUGs1VFp5T29LUVJ6b0xqME1kUE5Jc0tjQkVnZnM3d0FBLWFjMHhvOHRtTWxOOERHaVl2ZVQ5QnEwemhpTU5lbEFUbDVLRzF0WUdOaENKXzkzYVBwX1VfQWRUTjRBNXJnVVlCLVlGTFhWdjRaYlpBUTFSSTlyMDMzUG81UEN4RGo0bHo1akxrLWxvRU5TSDdQbTZ4WmlPNDJJbGl6dmwwUXJnZk1pa0djVTloX3JibHBoM0dCend5bmdfWjJGSWZTNzZ3MlBMQksyQ0pRUHFjOFFPNnZVLThiRkM2TGpySnQyRnZ4NjlDTWxEUjdBYWxOSlEtX2lja09QOEdwdjRLY1BlLXlIRGpxaHJhMjdwLTBiTmk?oc=5"
-    },
-    {
-      "id": "20261027-uk-uk-introduces-1-200-annual-levy-on-u",
-      "date": "2026-10-27",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Fee change",
-      "title": "UK introduces $1,200 annual levy on universities per international student",
-      "summary": "UK reported to charge universities $1,200 per international student annually, affecting Indian applicants. The levy targets revenue generation from international student enrollments at UK institutions.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOb3BEaGU5MGtCUWxRMDdlX21vaXJQQzJac2VaSTZFQVUxazhIZ3BxR1RpSi1BWkFOcHZTZHE5VmVENXljRTNOM0xoMXNPOE50Z1B0cFROTmlwckI2d3A3ekRaT0huSlpod1pfRVU0QXN5SWpScHNQeElwZnJkcmtVNW9XQ084UDFmQjgwS2EzNUhsS2NJR1BxbVdFZjVYQmV3SlBUYkp2SG9aeGY1RVhfNGdMal9nZnhoSjRfTzJ1dnp2ZFprZFdDbUh1d2hsYnF2MndxLWh3RVpBaU5XLVBPd1RGbXVMNS05SDdxSW9pMUlQSU9FTWpKS1Fud1VqRzhTZnZPX3BPODByVnliVGtiQVpydjlTQUl60gGeAkFVX3lxTFBEaHc5TW5mNWNrY01aOE5SS21EY3E4ZDNOWXZHcURnbGljaVBZb2lzbmlvTXgxaXh0TFl4OThCMTJGWDFLWGVJN21ZZWdCczFFMDMxd3VCWDJiSm93a2t3MnByOWctSkpDcEJFMFNOZTEwQUlpOTdEeWdtVEp5OHRkN2F2eHZXX0p6QjI0cFZGdWt2UFE1cmdTWGRncTloQ3k5WjlVM09qY3gxSld5MFlQN2NsbkkzMFc4Z2lLeDVoc19yM1M5NlBfVl9LWWF6X0ZzNUtLaTZ0NUtKdmh2V1V4bWR3YTRUWmtYME50ay05a0ZpQjZTS2dRTU1QRDQ2TEhMNGkzdDZpQ2k1ZHRMWHY1Q1VqOTFheGIwLVMxNlE?oc=5"
     }
   ]
 }
