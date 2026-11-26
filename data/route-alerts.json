@@ -1,7 +1,18 @@
 {
-  "checked_at": "2026-11-26T02:15:09.540+05:30",
+  "checked_at": "2026-11-27T02:15:10.241+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261126-new-zealand-new-zealand-stops-prioritising-six-p",
+      "date": "2026-11-26",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand stops prioritising six-point Skilled Migrant visas",
+      "summary": "New Zealand reported ending prioritisation of six-point Skilled Migrant visa applications effective November 30. This changes processing priority for a key visa category affecting skilled migrants.",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdXIteEFUUTQ5R2hEbjFvOFdSSElEcXQ0bC1pVDJJX1E2Znlmbzh3aEpQTDRVSUVtWUlITG9DOFpYdjBkWk5QNkVkMHBXaGpRWkVpdTZGYklFU0NrV25IWDFnSWtxQlM0TUpYSzIzQlRSMnA4aC1XSGFWMG15T3dYVm5pWXBoQkdFbElTaGZtcTFHWlBCQlBQQ3dMbW9SeU8yeUNBVU1VeUlNTWJ3Q0ZvRjNtT0pPVVM5UjFhMnNiNVNRbVZrME44cXpORGY2R3pneVg0TkhZV2NxZlBZVmRqdEZzdGIzbFk2ME9hdkhHRV9zamlrdDVBTktn0gH_AUFVX3lxTE92TWdJdTQ5YWZaRWl3LTBaQlB2SmdLblMwTEJ2Q3JEQ2ZaT3pfSXlFajVNZGJHNjhJTzJNbXdkN21FNG9PMmJWSUFCM0lKcmpFN2hWMnJRVWVieWpJaTBRaEM4bjlpZERDZ1d2QkxwV0h4REZvQ3JmdDdsVU1ldXFKV2FVQXBfbkNCV0dlbTJ1Uy1CX1pQSjNkck9sdmlzME5udUduREpFaFF3MDVLNFlOajFVN3ZqbDdkS01ESk5rZWFzeHowXzNXMWtvVjJPbk5LMDJlR0QtY3lPdnkyMlRKR1MwelA5RUZ1TmhMbjYtVHRyR0V1M052dXZwTFhPOA?oc=5"
+    },
     {
       "id": "20261124-uk-uk-student-visa-minimum-bank-balance",
       "date": "2026-11-24",
@@ -30,7 +41,7 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens Bridging Visa B travel rules",
+      "title": "Australia tightens Bridging Visa B travel rules from November 30",
       "summary": "Australia reported changes to Bridging Visa B rules effective November 30, tightening travel permissions for visa applicants. The new rules restrict movement for those holding this visa category.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMmJTSzU3dHpDWHFITU83S1BfQjc0TTdrRmpEejFKdUpYdXM4NkY2QWJCTnc3Z2ZmVFNwX2RGdlRZV0RYMzVhdDFSWldDSFJndzNSeWhNZ0cybkY2S05FQlBQYkRGeFFLcUxfbWdlQ2lILW42R0l1VWI5T3N3RXVmdEdQaE5lUXNoLVk1WkYwNjZQWHNWLWRqYnVsU21rd2F5UWhDX3dLUVh3bjVQV3pFLVFYSjdLcGlJMnk4S3pSZEtTRGt2NVM3QjBPTUhiZ3pWSVpKVk96d1RCMTM0WEtyenFNRVV6b1BVSVNyRi1SaUJ6Nm1RS0JRMDEyRUtHd9IBgwJBVV95cUxQWVFLLS1obVlYV3Vnc2t3cjFZZ0hpVGdyTmRqdWZxVVRYaW1uQ3VnNV82bHNlVWlyRGJXaHVXTVJmRmJnU0plcUU2OFMyMzNzalk3N0c3SU43ZlEzY3J0QXBUTFhBOGhYRTNXT3RnWk56X0RQMnF4S3JnRHViaERtd1Q4d2hfNDNaT2ZHLWc0MVNDaWRsUEpkV0owSjlTUjFqM3JXV2cyTE9HVW5OLXd1UWtBQktxUWRKRFMtOVhXYVRrZHFSbU8wTVhYeGFob0hwcjV0Qm5IaGk3U1RlSEpicGtsRHVtanhXSXM1aHZVV2lhMUVEc3JhcjZOT2lwczJXZHFZ?oc=5"
@@ -47,13 +58,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5"
     },
     {
-      "id": "20261120-australia-australia-bans-visa-hopping-with-new",
+      "id": "20261120-australia-australia-bans-visa-hopping-from-nov",
       "date": "2026-11-20",
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia bans visa hopping with new mandatory law from November 28",
-      "summary": "Australia reported introduction of new mandatory visa law banning visitors from visa hopping, effective November 28. The rule restricts repeated visa applications.",
+      "title": "Australia bans visa hopping from November 28",
+      "summary": "Australia reported introduction of new mandatory visa law banning visitors from visa hopping, effective November 28. The rule change affects applicants' ability to transition between visa categories.",
       "source": "Tuko News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR00xUlJ0ZzZYeDIyaXhnN2J6blZDU3MtWVN5TXpEb3d0UkVIelQ5RTdBUUZ1T1JYMTVIMEYySm93OTlzQWh2cll4VkhZMk01OWFaeXhGYWhqVEI4RDkxemFxQkxQTUVTc2hkY3B1bzFSUHBHaTQwZEowMWF0dzhFQ1JMSUJYV3NaZmZpM0Q5dmh0TDI5eDVNZEw4ekdRMC1fSWJuU2Z3XzY0SksxY3VtY3VyWmZlSEdxcjAxcnNXc01FVFVBcEE?oc=5"
     },
@@ -430,17 +441,6 @@
       "summary": "UK has raised the proof of funds requirement for student visas to £14,130, effective from November 30, reported by Arbiterz.",
       "source": "Arbiterz",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
-    },
-    {
-      "id": "20261027-new-zealand-new-zealand-tightens-student-visa-ru",
-      "date": "2026-10-27",
-      "country": "New Zealand",
-      "slug": "new-zealand",
-      "kind": "Rule change",
-      "title": "New Zealand tightens student visa rules and work rights",
-      "summary": "New Zealand reported tightening student visa rules, cutting work rights for students, and toughening English language checks.",
-      "source": "awaaz.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTY0WDdFaUc2QUF1RU1xTEU5VDZHR3lLOGZPSElNWTNFczJNTndSV1l6Zk5YNUsyUXdRTlN4dlpYSHlGRXJNdUpqNWZtMHQ3N2xDQmNQUkx4SVY1YWZqNWR6M1VUS2c1WEMwQU1HM0lMenlSQXZOUFBGeGhMUDB4VmlVY3hkYk5qYnJTeUVhNjFEeHc0X2VvZUNNNGQwMW9VLTdzXzZxOUNmYzNzOFlIbFJwbW1FQkktVVNOaGl3?oc=5"
     }
   ]
 }
