@@ -1,7 +1,40 @@
 {
-  "checked_at": "2026-11-27T02:15:10.241+05:30",
+  "checked_at": "2026-11-28T02:15:09.714+05:30",
   "note": "Policy watch flags reported changes to fees, thresholds, timelines and rules for the eight destinations. Each item links to its source. Figures on the site are updated by a human after verification - this feed does not rewrite them automatically.",
   "alerts": [
+    {
+      "id": "20261127-australia-australia-introduces-1500-fee-for-in",
+      "date": "2026-11-27",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia introduces $1500 fee for international students",
+      "summary": "Australia reported a new $1500 fee for international students. The change affects student visa applicants seeking to study in Australia.",
+      "source": "The Australian",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeEF4N0hsS2xyT2ZYVDFteVc3cHliTjRuQVlHX3B6ZDBzM3duaVFVdHViMy1VLUhFYjUwSEJGcnhrWlJnM3NyczVqUWUzSHA3Rm9PT3BSVzdnQ0pyWG45NGJlMXk1OEZWTkFsNDVVZUZxM0Q3VFNnanVmM05wdFhoWWFsX1ZLWkNBRVlKdEh0dnNsZlVtOHFhcDRHb0lsakpQNmJHZjVNNlVnQTZwb3RpQXZVUDlxYTlPdEdJZjVTSFl1czFVMWRMS2dvdHRabUVCdnZCNl9TVHVRaGVwekRrcEJJbnc1R3lqX0tYbm9OdlR6MU1UZVRqNmVKUVNHemo0c0RDTE1Lb0dpZDRM?oc=5"
+    },
+    {
+      "id": "20261127-australia-australia-sets-bridging-visa-b-fee-a",
+      "date": "2026-11-27",
+      "country": "Australia",
+      "slug": "australia",
+      "kind": "Fee change",
+      "title": "Australia sets Bridging Visa B fee at AUD 575",
+      "summary": "Australia reported Bridging Visa B fee of AUD 575 with fixed travel period rules for visa applicants in Australia.",
+      "source": "GistReel",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JM2xWV3dtUHpGMGJBQS1qcE5Fb190WXhqOURhNklRMUZIVnI5MW56OVdJdkRVUEdGNW1EUHhjd2p4R0FTeTJMLVJVVEU0eVRXQUNEQmN1eTVXT2RuYmdDRjlhTUZDSmlZNVVJcE92c2lHZ2s5XzExUg?oc=5"
+    },
+    {
+      "id": "20261127-new-zealand-new-zealand-suspends-two-permanent-r",
+      "date": "2026-11-27",
+      "country": "New Zealand",
+      "slug": "new-zealand",
+      "kind": "Rule change",
+      "title": "New Zealand suspends two permanent residence pathways",
+      "summary": "New Zealand reported suspension of two qualification pathways for permanent residence, affecting applicants seeking to settle in the country.",
+      "source": "https://awaaz.co.nz/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWFfcnZrczVxWUh5V2tSRk5BQ2pMaGdRdHY1OG1pOEF5STVocThTTTV1V3B6N0YtSnhfUUd5dUx3eWF1TzdIOE5oQnExTjVQMnU4aFVuOHZmU05fb1FWMWxOeFZWeUVfaWg1Ry1MQWcxclMyZnJ5SmdyMXpkNUpzdHN4MWo0bVRITGZIaDhOQUVFSmFsRk1OdENSOGJjWUc3T0hjWWFhZkhMTXhsU0ZqeUpaQlh5QTBUeDNhQ0NnWQ?oc=5"
+    },
     {
       "id": "20261126-new-zealand-new-zealand-stops-prioritising-six-p",
       "date": "2026-11-26",
@@ -41,8 +74,8 @@
       "country": "Australia",
       "slug": "australia",
       "kind": "Rule change",
-      "title": "Australia tightens Bridging Visa B travel rules from November 30",
-      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, tightening travel permissions for visa applicants. The new rules restrict movement for those holding this visa category.",
+      "title": "Australia tightens Bridging Visa B travel permissions",
+      "summary": "Australia reported changes to Bridging Visa B rules effective November 30, tightening travel permissions for visa applicants currently in Australia.",
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMmJTSzU3dHpDWHFITU83S1BfQjc0TTdrRmpEejFKdUpYdXM4NkY2QWJCTnc3Z2ZmVFNwX2RGdlRZV0RYMzVhdDFSWldDSFJndzNSeWhNZ0cybkY2S05FQlBQYkRGeFFLcUxfbWdlQ2lILW42R0l1VWI5T3N3RXVmdEdQaE5lUXNoLVk1WkYwNjZQWHNWLWRqYnVsU21rd2F5UWhDX3dLUVh3bjVQV3pFLVFYSjdLcGlJMnk4S3pSZEtTRGt2NVM3QjBPTUhiZ3pWSVpKVk96d1RCMTM0WEtyenFNRVV6b1BVSVNyRi1SaUJ6Nm1RS0JRMDEyRUtHd9IBgwJBVV95cUxQWVFLLS1obVlYV3Vnc2t3cjFZZ0hpVGdyTmRqdWZxVVRYaW1uQ3VnNV82bHNlVWlyRGJXaHVXTVJmRmJnU0plcUU2OFMyMzNzalk3N0c3SU43ZlEzY3J0QXBUTFhBOGhYRTNXT3RnWk56X0RQMnF4S3JnRHViaERtd1Q4d2hfNDNaT2ZHLWc0MVNDaWRsUEpkV0owSjlTUjFqM3JXV2cyTE9HVW5OLXd1UWtBQktxUWRKRFMtOVhXYVRrZHFSbU8wTVhYeGFob0hwcjV0Qm5IaGk3U1RlSEpicGtsRHVtanhXSXM1aHZVV2lhMUVEc3JhcjZOT2lwczJXZHFZ?oc=5"
     },
@@ -408,39 +441,6 @@
       "summary": "UK reported a new levy of $1,200 per international student charged to universities, affecting Indian and other international students' costs.",
       "source": "Education Times",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZ21xQ1g4Zktnc2w5T0pMZGZIU2thS1JRdExnSVF3aUNxVkRCUzVRRjgxY2tSalRSdDdMZ09YSExvVWd5TVB6bndyQkU4RTYwX3NMR2pOY1hqWlhnWm1tVm1YYmhHNXQtTXdvdmpTU0xqU1FWMl9YRmN4NXBWYkVkOUQ3WFo4aVdodDFidTN3OC1sUlVyTGt4R3ZYT3JfM1FycEhzOFA5UlNCdnJxZ3QtcWxwc0JJc1ZWTGxqS1NWLUlkQ1VFMVNHMzNkX3JjU0lhbm1oUXFoMFZ4NjZVQmxub1oyZEhSZVprd01wX09jemNTM0hZcERlMmlFb3d0SDdVVk9uWXdpSzF5cWM?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-increases-student-visa-financial",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK increases student visa financial requirements",
-      "summary": "UK reported an increase to financial requirements for international student visa applicants, raising the threshold for proof of funds.",
-      "source": "Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkJpT3NPOGxUbGVXODc0NDlSVlRRWlY5TmdzZ1NPMXdNc2lrNFlpbDN1bHJNb3pEdlhhOFBGcWtfNXZHTTd4TXdFd29mOUJrd0s4VW92TGlGZTlodTFoQWNDd2JHQW1RREl2OG9Mc3JNUFZJbFIyVzBUVEpfdVNLVEU2VmI3ZjF3TURkczVWcWhFMFRsc1B4SDFPNlY?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-raises-living-expense-threshold-f",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises living-expense threshold for student visas",
-      "summary": "UK reported a raise to the living-expense financial threshold for international student visas effective from 2026. Specific amounts were not provided.",
-      "source": "Head Topics",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGJfcE0xMmdGVkVlZmV0Y3V0aDhGX0FqR2xwQi1mZDhqa21URVU4RnA2dDhzdnR0NlFyM0VDSTdOWnM2RTBiSkJobk1NbC13dmVUVjlCU1kzakQxOEptSTRYbGx4SjByejhOaUtrazJJZ2JMV1A2bDFjMW5SZEZ6cHVuM3ZWZjQwZUZxcXk5LWpWNHpXcTRj?oc=5"
-    },
-    {
-      "id": "20261028-uk-uk-raises-student-visa-proof-of-fund",
-      "date": "2026-10-28",
-      "country": "United Kingdom",
-      "slug": "uk",
-      "kind": "Threshold change",
-      "title": "UK raises student visa proof of funds to £14,130",
-      "summary": "UK has raised the proof of funds requirement for student visas to £14,130, effective from November 30, reported by Arbiterz.",
-      "source": "Arbiterz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnA3SHBfOEdQd21kUElyQU9QcHZXTnNPWmlURVo2bUFWZzJpRlI0N3dISXB6QjNCcUhUeEJyX2MtQ2YxSGpNR3J6OUp0WG9sYlJWRG94NUtWWlcteU40TC1FMlJRc0hZUmZIckRrN2ptc3VkT1JQRkFxR1dvY0JHUWJWZXJrWHd2aXFSTmxB?oc=5"
     }
   ]
 }
